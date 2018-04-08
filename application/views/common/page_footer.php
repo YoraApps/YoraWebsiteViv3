@@ -5,28 +5,28 @@
                 <div class="span3">
                     <h4 class="brand"><span>V</span>ivanta </h4>
                     <ul class="normal dot">
-                        <li><a title="About us" href="https://www. YORA TECH.com/about-us">About us</a></li>
-                        <li><a title="Why  YORA TECH" href="https://www. YORA TECH.com/why- YORA TECH-">Why  YORA TECH</a></li>
-                        <li><a title="What we do" href="https://www. YORA TECH.com/what-we-do">What we do</a></li>
-                        <li><a title="Portfolio" href="https://www. YORA TECH.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
-                        <li><a title="Careers" href="https://www. YORA TECH.com/careers">Careers</a></li>
-                        <li><a title="Contact Us" href="https://www. YORA TECH.com/contact-us">Contact Us</a></li>
-                        <li><a title="Services" href="https://www. YORA TECH.com/services">Services</a></li>
-                        <li><a title="Sitemap" href="https://www. YORA TECH.com/sitemap">Sitemap</a></li>
+                        <li><a title="About us" href="http://www.yora.xyz/CodeIgniter/aboutus">About us</a></li>
+                        <li><a title="Why  YORA TECH" href="http://www.yora.xyz/CodeIgniter/why- YORA TECH-">Why  YORA TECH</a></li>
+                        <li><a title="What we do" href="http://www.yora.xyz/CodeIgniter/whatwedo">What we do</a></li>
+                        <li><a title="Portfolio" href="http://www.yora.xyz/CodeIgniter/portfolio" class="dropdown-toggle">Portfolio</a></li>
+                        <li><a title="Careers" href="http://www.yora.xyz/CodeIgniter/careers">Careers</a></li>
+                        <li><a title="Contact Us" href="http://www.yora.xyz/CodeIgniter/contact">Contact Us</a></li>
+                        <li><a title="Services" href="http://www.yora.xyz/CodeIgniter/service">Services</a></li>
+                        <li><a title="Sitemap" href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a></li>
                     </ul>
                 </div>
                 <div class="span3">
-                    <h4 class="brand"><a title="Web Portal Development" href="https://www. YORA TECH.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-                    <h4 class="brand"><a title="Responsive Web Designing" href="https://www. YORA TECH.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-                    <h4 class="brand"><a title="Web Hosting and Domain" href="https://www. YORA TECH.com/web-hosting-and-domain"><span>Web</span> Hosting and Domain</a></h4>
-                    <h4 class="brand"><a title="Web Services" href="https://www. YORA TECH.com/web-services"><span>Web</span> Services</a></h4>
-                    <h4 class="brand"><a title="Domain Registration" href="https://www. YORA TECH.com/domain-registraion"><span>Domain</span> Registration</a></h4>
+                    <h4 class="brand"><a title="Web Portal Development" href="http://www.yora.xyz/CodeIgniter/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+                    <h4 class="brand"><a title="Responsive Web Designing" href="http://www.yora.xyz/CodeIgniter/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+                    <h4 class="brand"><a title="Web Hosting and Domain" href="http://www.yora.xyz/CodeIgniter/webhostinganddomain"><span>Web</span> Hosting and Domain</a></h4>
+                    <h4 class="brand"><a title="Web Services" href="http://www.yora.xyz/CodeIgniter/webservices"><span>Web</span> Services</a></h4>
+                    <h4 class="brand"><a title="Domain Registration" href="http://www.yora.xyz/CodeIgniter/domainregistraion"><span>Domain</span> Registration</a></h4>
                 </div>
                 <div class="span3">
-                    <h4 class="brand"><a title="Digital Marketing Company" href="https://www. YORA TECH.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-                    <h4 class="brand"><a title="Mobile Apps Development" href="https://www. YORA TECH.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-                    <h4 class="brand"><a title="Content Writing" href="https://www. YORA TECH.com/content-writing"><span>Content</span> Writing</a></h4>
-                    <h4 class="brand"><a title="Corporate Training" href="https://www. YORA TECH.com/corporate-training"><span>Corporate</span> Training</a></h4>
+                    <h4 class="brand"><a title="Digital Marketing Company" href="http://www.yora.xyz/CodeIgniter/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+                    <h4 class="brand"><a title="Mobile Apps Development" href="http://www.yora.xyz/CodeIgniter/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+                    <h4 class="brand"><a title="Content Writing" href="http://www.yora.xyz/CodeIgniter/contentwriting"><span>Content</span> Writing</a></h4>
+                    <h4 class="brand"><a title="Corporate Training" href="http://www.yora.xyz/CodeIgniter/corporatetraining"><span>Corporate</span> Training</a></h4>
                 </div>
                 <div class="span3">
                     <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -51,7 +51,7 @@
 
                 <div class="span12">
                     <div class="span6">
-                        <p class="pull-left"> &copy; 2018  YORA TECH: <a title="Web development company" href="https://www. YORA TECH.com/">Web development company</a></p>
+                        <p class="pull-left"> &copy; 2018  YORA TECH: <a title="Web development company" href="http://www.yora.xyz/CodeIgniter/">Web development company</a></p>
                     </div>
                     <div class="span6 pull-right">
                         <ul class="socialIcons">
