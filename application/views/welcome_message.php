@@ -10591,8 +10591,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
 
-                <div class="floating-box"><img src="images/yoralogo.jpg" /></div>
-                <div class="floating-box"><img src="images/coollogo_com-864586.png" style="margin-top: 25px;margin-left: -52px;" /></div>
+              <div class="floating-box"><img src="<?php echo asset_url(); ?>images/yoralogo.jpg" /></div>
+              <div class="floating-box"><img src="<?php echo asset_url(); ?>images/coollogo_com-864586.png" style="margin-top: 25px;margin-left: -52px;" /></div>
 
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
@@ -10627,7 +10627,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-portal-development">Web Portal Development</a> 
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-portal-development">Web Portal Development</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/realestateportal">Real Estate Portal Development</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobilewebsitedevelopment">Mobile Website Development</a></li>
@@ -10646,14 +10646,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobile-apps-development">Mobile Apps Development</a> 
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobile-apps-development">Mobile Apps Development</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/androidappsdevelopment">Android Apps development</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/iphoneappsdevelopment">iPhone Apps development</a></li>
             </ul>
          </li>
          <li class="digital-images dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign">Responsive Web Design</a> 
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign">Responsive Web Design</a>
             <ul class="dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webtemplatedesign">Web Template Design</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/companylogographicsdesign">Company Logo/Graphics Design</a></li>
@@ -10663,7 +10663,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/content-writing">Content Writing</a> 
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/content-writing">Content Writing</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webcontentwriting">Web Content Writing</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/seocontentwriting">SEO Content Writing</a></li>
@@ -10675,7 +10675,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-hosting-and-domain">Web Hosting &amp; Domain</a> 
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-hosting-and-domain">Web Hosting &amp; Domain</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/windowshosting">Windows Hosting</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/vpshosting">VPS Hosting</a></li>
@@ -10689,21 +10689,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice">Web service</a> 
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice">Web service</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/restfulservice">RESTful service</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/apiserviceprovider">API service Provider</a></li>
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining">Corporate Training</a> 
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining">Corporate Training</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketingcourses">Digital Marketing Courses</a></li>
             </ul>
          </li>
       </ul>
    </li>
-   <li> 
+   <li>
    <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
    <li> <a href="http://www.yora.xyz/CodeIgniter/developers/">Developers</a> </li>
    <li> <a href="http://www.yora.xyz/CodeIgniter/careers" class="dropdown-toggle">Careers</a> </li>
