@@ -1,6 +1,36 @@
-<?php $this->load->view('common/page_header'); ?>
-<?php $this->load->view('common/page_menu'); ?>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Portfolio | Vivanta Technologies</title>
+    <meta name="description" content="Vivanta Technologies Porfolio - The Road So Far" />
+    <meta name="keywords" content="Vivanta Technologies Porfolio" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="Author" content="vivantatechnologies.com" />
+    <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <script defer type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/cubeportfolio.min.css?ver=1500651342">
+    <style type="text/css">
+        .padding10 {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+    <div id="boxedWrapper">
+        <div class="navbar navbar-static-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <a class="brand" href="./"><img src="https://www.vivantatechnologies.com/assets/images/vivanta-technologies-logo.png" alt="Web Development Company" title="Web Development Company" width="253" height="101" /></a>
+                    <div class="nav-collapse">
+                        <ul class="nav pull-right"> <li> <a href="https://www.vivantatechnologies.com/" class="dropdown-toggle">Home</a></li><li class=" dropdown"> <a href="https://www.vivantatechnologies.com/services" class="dropdown-toggle">Services</a> <ul class="dropdown-menu"> <li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/digital-marketing">Digital Marketing</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/search-engine-optimization">Search Engine Optimization (SEO)</a></li><li><a href="https://www.vivantatechnologies.com/search-engine-marketing">Search Engine Marketing (SEM)</a></li><li><a href="https://www.vivantatechnologies.com/ppc-management-services">PPC Management Services</a></li><li><a href="https://www.vivantatechnologies.com/app-store-optimization">App Store Optimization (ASO)</a></li><li><a href="https://www.vivantatechnologies.com/web-analytics">Web Analytics</a></li><li><a href="https://www.vivantatechnologies.com/social-media-optimization">Social Media Optimization (SMO)</a></li><li><a href="https://www.vivantatechnologies.com/online-reputation-management">Online Reputation Management (ORM)</a></li><li><a href="https://www.vivantatechnologies.com/affiliate-marketing">Affiliate Marketing</a></li><li><a href="https://www.vivantatechnologies.com/content-marketing">Content Marketing</a></li><li><a href="https://www.vivantatechnologies.com/email-marketing">Email Marketing</a></li><li><a href="https://www.vivantatechnologies.com/sms-marketing">SMS Marketing</a></li><li><a href="https://www.vivantatechnologies.com/social-media-marketing">Social Media Marketing</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/web-portal-development">Web Portal Development</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/real-estate-portal">Real Estate Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/mobile-website-development">Mobile Website Development</a></li><li><a href="https://www.vivantatechnologies.com/web-application-development">Web Application Development</a></li><li><a href="https://www.vivantatechnologies.com/b2b-and-b2c-e-commerce-portal">B2B &amp; B2C e-Commerce Portal</a></li><li><a href="https://www.vivantatechnologies.com/content-management-system">Content Management System (CMS)</a></li><li><a href="https://www.vivantatechnologies.com/mvc-architecture">MVC Architecture</a></li><li><a href="https://www.vivantatechnologies.com/travel-portal-development">Travel Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/classifieds-portal-development">Classifieds Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/yellow-pages-portal-development">Yellow Pages Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/news-portal-development">News Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/job-portal-development">Job Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/education-portal-development">Education Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/payment-gateway-integration">Payment Gateway Integration</a></li><li><a href="https://www.vivantatechnologies.com/phonegap-apps-development">PhoneGap Apps Development</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/mobile-apps-development">Mobile Apps Development</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/android-apps-development">Android Apps development</a></li><li><a href="https://www.vivantatechnologies.com/iphone-apps-development">iPhone Apps development</a></li></ul> </li><li class="digital-images dropdown-submenu"><a href="https://www.vivantatechnologies.com/responsive-web-design">Responsive Web Design</a> <ul class="dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/web-template-design">Web Template Design</a></li><li><a href="https://www.vivantatechnologies.com/company-logo-graphics-design">Company Logo/Graphics Design</a></li><li><a href="https://www.vivantatechnologies.com/newsletter-design">Newsletter Design</a></li><li><a href="https://www.vivantatechnologies.com/blog-design">Blog Design</a></li><li><a href="https://www.vivantatechnologies.com/custom-website-design">Custom Website Design</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/content-writing">Content Writing</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/web-content-writing">Web Content Writing</a></li><li><a href="https://www.vivantatechnologies.com/seo-content-writing">SEO Content Writing</a></li><li><a href="https://www.vivantatechnologies.com/article-writing">Article Writing</a></li><li><a href="https://www.vivantatechnologies.com/blog-posting">Blog Posting</a></li><li><a href="https://www.vivantatechnologies.com/forum-posting">Forum Posting</a></li><li><a href="https://www.vivantatechnologies.com/website-copy-writing">Website Copy Writing</a></li><li><a href="https://www.vivantatechnologies.com/press-release-writing">Press Release Writing</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain">Web Hosting &amp; Domain</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/windows-hosting">Windows Hosting</a></li><li><a href="https://www.vivantatechnologies.com/vps-hosting">VPS Hosting</a></li><li><a href="https://www.vivantatechnologies.com/dedicated-servers">Dedicated Servers</a></li><li><a href="https://www.vivantatechnologies.com/domain-registraion">Domain Registration</a></li><li><a href="https://www.vivantatechnologies.com/name-suggestion-tool">Name Suggestion Tool</a></li><li><a href="https://www.vivantatechnologies.com/ssl-certificates">SSL Certificates</a></li><li><a href="https://www.vivantatechnologies.com/whois-lookup">Whois Lookup</a></li><li><a href="https://www.vivantatechnologies.com/reseller-hosting">Reseller Hosting</a></li><li><a href="https://www.vivantatechnologies.com/email-hosting">Email Hosting</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/web-services">Web Services</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/restful-services">RESTful Services</a></li><li><a href="https://www.vivantatechnologies.com/api-services-provider">API Services Provider</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/corporate-training">Corporate Training</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/digital-marketing-courses">Digital Marketing Courses</a></li></ul> </li></ul> </li><li> <li class='active dropdown'> <a href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a> </li><li> <a href="https://www.vivantatechnologies.com/developers/">Developers</a> </li><li> <a href="https://www.vivantatechnologies.com/careers" class="dropdown-toggle">Careers</a> </li><li> <a href="https://www.vivantatechnologies.com/contact-us">Contact</a> </li></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container"> </div>
         <div class="titleBox">
             <div class="container">
@@ -1470,7 +1500,75 @@
                 </div>
             </div>
         </div>
-        <?php $this->load->view('common/page_footer'); ?>
+        <div id="footer">
+            <div class="footNotes">
+                <div class="container">
+                    <div class="row-fluid">
+                        <div class="span3">
+                            <h4 class="brand"><span>V</span>ivanta Technologies</h4>
+                            <ul class="normal dot">
+                                <li><a title="About us" href="https://www.vivantatechnologies.com/about-us">About us</a></li>
+                                <li><a title="Why Vivanta Technologies" href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Vivanta Technologies</a></li>
+                                <li><a title="What we do" href="https://www.vivantatechnologies.com/what-we-do">What we do</a></li>
+                                <li><a title="Portfolio" href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
+                                <li><a title="Careers" href="https://www.vivantatechnologies.com/careers">Careers</a></li>
+                                <li><a title="Contact Us" href="https://www.vivantatechnologies.com/contact-us">Contact Us</a></li>
+                                <li><a title="Services" href="https://www.vivantatechnologies.com/services">Services</a></li>
+                                <li><a title="Sitemap" href="https://www.vivantatechnologies.com/sitemap">Sitemap</a></li>
+                            </ul>
+                        </div>
+                        <div class="span3">
+                            <h4 class="brand"><a title="Web Portal Development" href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
+                            <h4 class="brand"><a title="Responsive Web Designing" href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+                            <h4 class="brand"><a title="Web Hosting and Domain" href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting and Domain</a></h4>
+                            <h4 class="brand"><a title="Web Services" href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+                            <h4 class="brand"><a title="Domain Registration" href="https://www.vivantatechnologies.com/domain-registraion"><span>Domain</span> Registration</a></h4>
+                        </div>
+                        <div class="span3">
+                            <h4 class="brand"><a title="Digital Marketing Company" href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
+                            <h4 class="brand"><a title="Mobile Apps Development" href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+                            <h4 class="brand"><a title="Content Writing" href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
+                            <h4 class="brand"><a title="Corporate Training" href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+                        </div>
+                        <div class="span3">
+                            <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <div class="phone">
+                                    <h5>Phone:</h5>
+                                    <span itemprop="telephone"><a title="Call +91-7795572832" href="tel:+91-7795572832">+91-7795572832</a></span>,<br>
+                                    <span itemprop="telephone"><a title="Call +91-7899908051" href="tel:+91-7899908051">+91-7899908051</a></span>
+                                </div>
+                                <div class="mail">
+                                    <h5>Mail:</h5>
+                                    <span itemprop="email"><a title="Mail to info@vivantatechnologies.com" href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+                                </div>
+                                <div class="adress">
+                                    <h5>Address:</h5>
+                                    <span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
+                                    <span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
+                                    <span itemprop="addressRegion">Karnataka, Bengaluru</span>
+                                    <span itemprop="postalCode">560076</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="span12">
+                            <div class="span6">
+                                <p class="pull-left"> &copy; 2018 Vivanta Technologies: <a title="Web development company" href="https://www.vivantatechnologies.com/">Web development company</a></p>
+                            </div>
+                            <div class="span6 pull-right">
+                                <ul class="socialIcons">
+                                    <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+                                    <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+                                    <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
+                                    <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+                                    <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <a href="javascript:void(0);" id="toTop">
             <span id="toTopHover">Up</span>
         </a>
