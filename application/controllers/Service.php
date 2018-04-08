@@ -40,6 +40,8 @@
       public function   appstoreoptimization() {
         $this->load->view('service/appstoreoptimization');
       }
-     
+      public function   appstoreoptimization() {
+        $this->load->view('service/appstoreoptimization');
+      }
    }
 ?>

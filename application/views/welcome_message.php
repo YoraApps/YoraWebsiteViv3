@@ -10006,13 +10006,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             width: 69px;
             height: 69px;
             border: 0;
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat -164px -610px;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat -164px -610px;
         }
 
         #toTopHover {
             font-family: 'Roboto',sans-serif;
             font-weight: 700;
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat left top -164px -610px;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat left top -164px -610px;
             padding: 0;
             width: 69px;
             height: 69px;
@@ -10210,23 +10210,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         }
 
         .facebook {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat -7px -2015px;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat -7px -2015px;
         }
 
         .twitter {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat -47px -2014px;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat -47px -2014px;
         }
 
         .google_plus {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat -87px -2015px;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat -87px -2015px;
         }
 
         .linked_in {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat -127px -2015px;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat -127px -2015px;
         }
 
         .pinterest {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat -166px -2014px;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat -166px -2014px;
         }
 
         .help {
@@ -10433,21 +10433,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         }
 
         .wdd {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat center;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat center;
             background-position: 0 -1802px;
             width: 32px;
             height: 40px;
         }
 
         .seo {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat center;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat center;
             background-position: 0 -1906px;
             width: 32px;
             height: 40px;
         }
 
         .web-domain {
-            background: url(https://www. YORA TECH.com/assets/images/ YORA TECH-sprites.png) no-repeat center;
+            background: url(http://www.yora.xyz/assets/images/ YORA TECH-sprites.png) no-repeat center;
             background-position: -151px -2px;
             width: 32px;
             height: 40px;
@@ -10583,8 +10583,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </style>
     <script defer src="assets/js/modernizr-2.6.1.min.js"></script>
     <link rel="icon" type="image/png" href="favicon.png" />
-    <link rel="canonical" href="https://www. YORA TECH.com/" />
-    <link rel="amphtml" href="https://www. YORA TECH.com/amp/" />
+    <link rel="canonical" href="http://www.yora.xyz/" />
+    <link rel="amphtml" href="http://www.yora.xyz/amp/" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
     <div id="boxedWrapper">
@@ -10602,15 +10602,114 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="nav-collapse">
 
                          <!--<div><a class="brand" style="margin-left:-266px;width:177px" href="./"><img src="img/coollogo_com-864586.png" /><div></div></a></div>-->
-
-                    <ul class="nav pull-right"> <li class='digital-images active dropdown'> <a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li><li class=" dropdown">
-                     <a href="https://www. YORA TECH.com/services" class="dropdown-toggle">Services</a>
-                     <ul class="dropdown-menu"> <li class="dropdown-submenu">
-                     <a href="https://www. YORA TECH.com/digital-marketing">Digital Marketing</a>
-                     <ul class="digital-images dropdown-menu unstyled"> <li>
-                     <a href="https://www. YORA TECH.com/search-engine-optimization">Search Engine Optimization (SEO)</a>
-                     </li><li><a href="https://www. YORA TECH.com/search-engine-marketing">Search Engine Marketing (SEM)</a></li><li><a href="https://www. YORA TECH.com/ppc-management-services">PPC Management Services</a></li><li><a href="https://www. YORA TECH.com/app-store-optimization">App Store Optimization (ASO)</a></li><li><a href="https://www. YORA TECH.com/web-analytics">Web Analytics</a></li><li><a href="https://www. YORA TECH.com/social-media-optimization">Social Media Optimization (SMO)</a></li><li><a href="https://www. YORA TECH.com/online-reputation-management">Online Reputation Management (ORM)</a></li><li><a href="https://www. YORA TECH.com/affiliate-marketing">Affiliate Marketing</a></li><li><a href="https://www. YORA TECH.com/content-marketing">Content Marketing</a></li><li><a href="https://www. YORA TECH.com/email-marketing">Email Marketing</a></li><li><a href="https://www. YORA TECH.com/sms-marketing">SMS Marketing</a></li><li><a href="https://www. YORA TECH.com/social-media-marketing">Social Media Marketing</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www. YORA TECH.com/web-portal-development">Web Portal Development</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www. YORA TECH.com/real-estate-portal">Real Estate Portal Development</a></li><li><a href="https://www. YORA TECH.com/mobile-website-development">Mobile Website Development</a></li><li><a href="https://www. YORA TECH.com/web-application-development">Web Application Development</a></li><li><a href="https://www. YORA TECH.com/b2b-and-b2c-e-commerce-portal">B2B &amp; B2C e-Commerce Portal</a></li><li><a href="https://www. YORA TECH.com/content-management-system">Content Management System (CMS)</a></li><li><a href="https://www. YORA TECH.com/mvc-architecture">MVC Architecture</a></li><li><a href="https://www. YORA TECH.com/travel-portal-development">Travel Portal Development</a></li><li><a href="https://www. YORA TECH.com/classifieds-portal-development">Classifieds Portal Development</a></li><li><a href="https://www. YORA TECH.com/yellow-pages-portal-development">Yellow Pages Portal Development</a></li><li><a href="https://www. YORA TECH.com/news-portal-development">News Portal Development</a></li><li><a href="https://www. YORA TECH.com/job-portal-development">Job Portal Development</a></li><li><a href="https://www. YORA TECH.com/education-portal-development">Education Portal Development</a></li><li><a href="https://www. YORA TECH.com/payment-gateway-integration">Payment Gateway Integration</a></li><li><a href="https://www. YORA TECH.com/phonegap-apps-development">PhoneGap Apps Development</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www. YORA TECH.com/mobile-apps-development">Mobile Apps Development</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www. YORA TECH.com/android-apps-development">Android Apps development</a></li><li><a href="https://www. YORA TECH.com/iphone-apps-development">iPhone Apps development</a></li></ul> </li><li class="digital-images dropdown-submenu"><a href="https://www. YORA TECH.com/responsive-web-design">Responsive Web Design</a> <ul class="dropdown-menu unstyled"> <li><a href="https://www. YORA TECH.com/web-template-design">Web Template Design</a></li><li><a href="https://www. YORA TECH.com/company-logo-graphics-design">Company Logo/Graphics Design</a></li><li><a href="https://www. YORA TECH.com/newsletter-design">Newsletter Design</a></li><li><a href="https://www. YORA TECH.com/blog-design">Blog Design</a></li><li><a href="https://www. YORA TECH.com/custom-website-design">Custom Website Design</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www. YORA TECH.com/content-writing">Content Writing</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www. YORA TECH.com/web-content-writing">Web Content Writing</a></li><li><a href="https://www. YORA TECH.com/seo-content-writing">SEO Content Writing</a></li><li><a href="https://www. YORA TECH.com/article-writing">Article Writing</a></li><li><a href="https://www. YORA TECH.com/blog-posting">Blog Posting</a></li><li><a href="https://www. YORA TECH.com/forum-posting">Forum Posting</a></li><li><a href="https://www. YORA TECH.com/website-copy-writing">Website Copy Writing</a></li><li><a href="https://www. YORA TECH.com/press-release-writing">Press Release Writing</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www. YORA TECH.com/web-hosting-and-domain">Web Hosting &amp; Domain</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www. YORA TECH.com/windows-hosting">Windows Hosting</a></li><li><a href="https://www. YORA TECH.com/vps-hosting">VPS Hosting</a></li><li><a href="https://www. YORA TECH.com/dedicated-servers">Dedicated Servers</a></li><li><a href="https://www. YORA TECH.com/domain-registraion">Domain Registration</a></li><li><a href="https://www. YORA TECH.com/name-suggestion-tool">Name Suggestion Tool</a></li><li><a href="https://www. YORA TECH.com/ssl-certificates">SSL Certificates</a></li><li><a href="https://www. YORA TECH.com/whois-lookup">Whois Lookup</a></li><li><a href="https://www. YORA TECH.com/reseller-hosting">Reseller Hosting</a></li><li><a href="https://www. YORA TECH.com/email-hosting">Email Hosting</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www. YORA TECH.com/web-services">Web Services</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www. YORA TECH.com/restful-services">RESTful Services</a></li><li><a href="https://www. YORA TECH.com/api-services-provider">API Services Provider</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www. YORA TECH.com/corporate-training">Corporate Training</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www. YORA TECH.com/digital-marketing-courses">Digital Marketing Courses</a></li></ul> </li></ul> </li><li> <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li><li> <a href="https://www. YORA TECH.com/developers/">Developers</a> </li><li> <a href="https://www. YORA TECH.com/careers" class="dropdown-toggle">Careers</a> </li><li> <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li></ul></div>
-
+ <ul class="nav pull-right">
+   <li class='digital-images active dropdown'> <a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+   <li class=" dropdown">
+      <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">service</a>
+      <ul class="dropdown-menu">
+         <li class="dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>
+            <ul class="digital-images dropdown-menu unstyled">
+               <li>
+                  <a href="http://www.yora.xyz/service/searchengineoptimization">Search Engine Optimization (SEO)</a>
+               </li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchenginemarketing">Search Engine Marketing (SEM)</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/ppcmanagementservice">PPC Management service</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/appstoreoptimization">App Store Optimization (ASO)</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webanalytics">Web Analytics</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/socialmediaoptimization">Social Media Optimization (SMO)</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/onlinereputationmanagement">Online Reputation Management (ORM)</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/affiliatemarketing">Affiliate Marketing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmarketing">Content Marketing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/emailmarketing">Email Marketing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/smsmarketing">SMS Marketing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/socialmediamarketing">Social Media Marketing</a></li>
+            </ul>
+         </li>
+         <li class="dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-portal-development">Web Portal Development</a> 
+            <ul class="digital-images dropdown-menu unstyled">
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/realestateportal">Real Estate Portal Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobilewebsitedevelopment">Mobile Website Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webapplicationdevelopment">Web Application Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/b2bandb2cecommerceportal">B2B &amp; B2C eCommerce Portal</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmanagementsystem">Content Management System (CMS)</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mvcarchitecture">MVC Architecture</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/travelportaldevelopment">Travel Portal Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/classifiedsportaldevelopment">Classifieds Portal Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/yellowpagesportaldevelopment">Yellow Pages Portal Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/newsportaldevelopment">News Portal Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/jobportaldevelopment">Job Portal Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/educationportaldevelopment">Education Portal Development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/paymentgatewayintegration">Payment Gateway Integration</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/phonegapappsdevelopment">PhoneGap Apps Development</a></li>
+            </ul>
+         </li>
+         <li class="dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobile-apps-development">Mobile Apps Development</a> 
+            <ul class="digital-images dropdown-menu unstyled">
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/androidappsdevelopment">Android Apps development</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/iphoneappsdevelopment">iPhone Apps development</a></li>
+            </ul>
+         </li>
+         <li class="digital-images dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign">Responsive Web Design</a> 
+            <ul class="dropdown-menu unstyled">
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webtemplatedesign">Web Template Design</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/companylogographicsdesign">Company Logo/Graphics Design</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/newsletterdesign">Newsletter Design</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/blogdesign">Blog Design</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/customwebsitedesign">Custom Website Design</a></li>
+            </ul>
+         </li>
+         <li class="dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/content-writing">Content Writing</a> 
+            <ul class="digital-images dropdown-menu unstyled">
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webcontentwriting">Web Content Writing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/seocontentwriting">SEO Content Writing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/articlewriting">Article Writing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/blogposting">Blog Posting</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/forumposting">Forum Posting</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/websitecopywriting">Website Copy Writing</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/pressreleasewriting">Press Release Writing</a></li>
+            </ul>
+         </li>
+         <li class="dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-hosting-and-domain">Web Hosting &amp; Domain</a> 
+            <ul class="digital-images dropdown-menu unstyled">
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/windowshosting">Windows Hosting</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/vpshosting">VPS Hosting</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/dedicatedservers">Dedicated Servers</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/domainregistraion">Domain Registration</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/namesuggestiontool">Name Suggestion Tool</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/sslcertificates">SSL Certificates</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/whoislookup">Whois Lookup</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/resellerhosting">Reseller Hosting</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/emailhosting">Email Hosting</a></li>
+            </ul>
+         </li>
+         <li class="dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice">Web service</a> 
+            <ul class="digital-images dropdown-menu unstyled">
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/restfulservice">RESTful service</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/apiserviceprovider">API service Provider</a></li>
+            </ul>
+         </li>
+         <li class="dropdown-submenu">
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining">Corporate Training</a> 
+            <ul class="digital-images dropdown-menu unstyled">
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketingcourses">Digital Marketing Courses</a></li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+   <li> 
+   <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
+   <li> <a href="http://www.yora.xyz/developers/">Developers</a> </li>
+   <li> <a href="http://www.yora.xyz/careers" class="dropdown-toggle">Careers</a> </li>
+   <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li>
+</ul>
+</div>
 </div>
             </div>
         </div>
@@ -10626,7 +10725,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="years years2">GET IN TOUCH, WE MIGHT JUST BE A GOOD FIT</div>
                 <div class="years3">CLOUD . WEB . MOBILE . DEVELOPMENT . DIGITAL MARKETING</div>
                 <div class="cta">
-                    <a href="https://www. YORA TECH.com/contact-us" class="btn btn-warning cta-btn">Contact Us</a>
+                    <a href="http://www.yora.xyz/contact-us" class="btn btn-warning cta-btn">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -10640,7 +10739,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>Cloud Application Development</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="Cloud Application Development" href="https://www. YORA TECH.com/cloud-application-development-company">Cloud Application Development</a></h4>
+                            <h4><a title="Cloud Application Development" href="http://www.yora.xyz/cloud-application-development-company">Cloud Application Development</a></h4>
                         </div>
                     </div>
 
@@ -10649,7 +10748,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>Node Js Apps Development</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="Node Js Apps Development" href="https://www. YORA TECH.com/nodejs-development-company">Node.js Apps Development</a></h4>
+                            <h4><a title="Node Js Apps Development" href="http://www.yora.xyz/nodejs-development-company">Node.js Apps Development</a></h4>
                         </div>
                     </div>
 
@@ -10658,7 +10757,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>MEAN Stack Apps Development</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="MEAN Stack Apps Development" href="https://www. YORA TECH.com/mean-stack-development-company">MEAN Stack Apps Development</a></h4>
+                            <h4><a title="MEAN Stack Apps Development" href="http://www.yora.xyz/mean-stack-development-company">MEAN Stack Apps Development</a></h4>
                         </div>
                     </div>
 
@@ -10667,7 +10766,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>Cloud Computing</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="Cloud Computing" href="https://www. YORA TECH.com/cloud-computing-company">Cloud Computing</a></h4>
+                            <h4><a title="Cloud Computing" href="http://www.yora.xyz/cloud-computing-company">Cloud Computing</a></h4>
                         </div>
                     </div>
 
@@ -10685,7 +10784,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>Digital Marketing</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="Digital Marketing Company" href="https://www. YORA TECH.com/digital-marketing">Digital Marketing</a></h4>
+                            <h4><a title="Digital Marketing Company" href="http://www.yora.xyz/digital-marketing">Digital Marketing</a></h4>
                         </div>
                     </div>
 
@@ -10694,7 +10793,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>Web Portal Development</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="Web Portal Development" href="https://www. YORA TECH.com/web-portal-development">Web Portal Development</a></h4>
+                            <h4><a title="Web Portal Development" href="http://www.yora.xyz/web-portal-development">Web Portal Development</a></h4>
                         </div>
                     </div>
 
@@ -10703,7 +10802,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>E-commerce Website Development</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="E-commerce Website Development" href="https://www. YORA TECH.com/ecommerce-website-design-in-bangalore">E-commerce Website Development</a></h4>
+                            <h4><a title="E-commerce Website Development" href="http://www.yora.xyz/ecommerce-website-design-in-bangalore">E-commerce Website Development</a></h4>
                         </div>
                     </div>
 
@@ -10712,7 +10811,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <h4>Mobile Apps Development</h4>
                         </div>
                         <div class="hover_overlay transition4s">
-                            <h4><a title="Mobile Apps Development" href="https://www. YORA TECH.com/mobile-apps-development">Mobile Apps Development</a></h4>
+                            <h4><a title="Mobile Apps Development" href="http://www.yora.xyz/mobile-apps-development">Mobile Apps Development</a></h4>
                         </div>
                     </div>
 
@@ -10737,14 +10836,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="row-fluid">
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/johari-shop-logo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/johari-shop-logo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Johari Shop</a> <span class="halflings tag metaText">Web Development, Web Design</span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/decorpot-logo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/decorpot-logo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Decorpot, Bangalore</a> <span class="halflings tag metaText"> Web Development </span>
                                     </div>
@@ -10752,14 +10851,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/ms-logo.png" alt="ms" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/ms-logo.png" alt="ms" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Metric Stream, Bangalore</a> <span class="halflings tag metaText">Web Development, Web Design</span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/ipr-arena.png" alt="IPRARENA" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/ipr-arena.png" alt="IPRARENA" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">IPRARENA, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
                                     </div>
@@ -10770,28 +10869,28 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="row-fluid">
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/meratransport.png" alt="meratransport" title="meratransport" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/meratransport.png" alt="meratransport" title="meratransport" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Mera Transport, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/enigma-cg-logo.jpg" alt="enigma-cg" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/enigma-cg-logo.jpg" alt="enigma-cg" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Enigma CG, Bangalore</a> <span class="halflings tag metaText"> Web Design </span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/cashsutra-logo.png" alt="CashSutra" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/cashsutra-logo.png" alt="CashSutra" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">CashSutra, Bangalore</a> <span class="halflings tag metaText"> Web Development </span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/iampl-logo.png" alt="The International Aerospace Manufacturing, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/iampl-logo.png" alt="The International Aerospace Manufacturing, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">IAMPL, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
                                     </div>
@@ -10802,28 +10901,28 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="row-fluid">
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/sefee-logo.png" alt="Sefee" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/sefee-logo.png" alt="Sefee" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Sefee India, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/fincare.png" alt="Fincare, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/fincare.png" alt="Fincare, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Fincare, Bangalore</a> <span class="halflings tag metaText"> Web Design </span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/globe-moving-logo.png" alt="Globe Moving, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/globe-moving-logo.png" alt="Globe Moving, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Globe Moving, Bangalore</a> <span class="halflings tag metaText"> Web Design </span>
                                     </div>
                                 </div>
                                 <div class="span3">
                                     <div class="easyBox flat doCenter">
-                                        <img src="https://www. YORA TECH.com/assets/images/desijodi-logo.png" alt="Desi Jodi" class="contentoverlay img-responsive" width="218" height="159">
+                                        <img src="http://www.yora.xyz/assets/images/desijodi-logo.png" alt="Desi Jodi" class="contentoverlay img-responsive" width="218" height="159">
                                         <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
                                         <a href="javascript:void(0)" class="btn-link btn-block">Desijodi</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
                                     </div>
@@ -10842,7 +10941,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 based on <span itemprop="reviewCount">55</span> user ratings
             </div>
             <p>Web development company in Bangalore</p>
-            <a href="https://www. YORA TECH.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+            <a href="http://www.yora.xyz/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
         </div>
         <div class="container">
             <div class="row-fluid margTop30px digital-images">
@@ -10939,14 +11038,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <div class="span12">
                         <div class="container">
                             <div class="pull-left span9">
-                                <h1 class="subTitle">Web Development Company in Bangalore, <a title="Hosting" href="https://www. YORA TECH.com/web-hosting-and-domain">Hosting</a> &amp; <a title="Email marketing" href="https://www. YORA TECH.com/email-marketing">Email marketing</a></h1>
+                                <h1 class="subTitle">Web Development Company in Bangalore, <a title="Hosting" href="http://www.yora.xyz/web-hosting-and-domain">Hosting</a> &amp; <a title="Email marketing" href="http://www.yora.xyz/email-marketing">Email marketing</a></h1>
                                 <p>The name  YORA TECH come to mind when one thinks of Web Designing and Web development company in Bangalore. It is one of the leading companies in Bangalore that also helps its clients with web hosting and Digital marketing thanks to its professional team of skilled technology experts. </p>
-                                <p><a title="Web Portal Development" href="https://www. YORA TECH.com/web-portal-development">Web Portal Development</a>: We capture your ideas and utilize them practically in order to give you a great looking web site that is 100% functional and customized as per your needs. The latest  and applications are blended seamlessly in the web portal that can be used effectively to carve a niche for your business while catering to your clients worldwide successfully.</p>
-                                <p><a title="MEAN Stack Development" href="https://www. YORA TECH.com/mean-stack-development-company">MEAN Stack Development</a>: Many of smart business leaders with heaps of talent recognize that they need help to bring their development project idea to fruition. That�s where Mean Stack Development Company,  YORA TECH comes in.  Whether you need to develop an app or a custom website, we�ll do the job for you with great panache.</p>
-                                <p><a title="Digital Marketing" href="https://www. YORA TECH.com/digital-marketing">Digital Marketing</a>: Get ready to welcome increased number of visitors to your website and rejoice in converting the leads effectively via unique digital marketing strategies. The top professionals of our core team will enable you to have direction wherein you have an edge over your business rivals thanks to the best optimization techniques and a unique PPC model.</p>
-                                <p><a title="Responsive Web Design" href="https://www. YORA TECH.com/responsive-web-design">Responsive Web Design</a>: Enjoy sharing your website with thousands of prospective customers courtesy responsive web design that provides for optimal viewing across smart devices. We ensure that your superior content reaches your target audience providing them with an excellent viewer experience no matter how small or big the device is.</p>
-                                <p>We offer you a package of <a title="Search Engine Optimization" href="https://www. YORA TECH.com/search-engine-optimization">SEO</a>, <a title="web services" href="https://www. YORA TECH.com/web-services">web services</a> that includes but is not limited to <a title="Responsive Web Design" href="https://www. YORA TECH.com/responsive-web-design">Responsive Web Design</a>, Web Hosting <a title="PPC Management Services" href="https://www. YORA TECH.com/ppc-management-services">PPC Management Services</a>, <a title="SSL certificate integration" href="https://www. YORA TECH.com/ssl-certificates">SSL certificate integration</a>, <a title="Ecommerce Website Design" href="https://www. YORA TECH.com/ecommerce-website-design-in-bangalore">Ecommerce Website Design</a>, <a title="Ecommerce Website Design" href="https://www. YORA TECH.com/payment-gateway-integration">Payment Gateway Integration</a>, Web Portal Development, SMS Marketing and Digital Marketing. You are welcome to request the following services from us too�</p><p><a title="E Mail Marketing" href="https://www. YORA TECH.com/email-marketing">E Mail Marketing</a> � We will help you to reach your target audience by adopting an effective strategy for email marketing that our skilled team undertakes as a part of the marketing strategy. <a title="Bulk SMS marketing" href="https://www. YORA TECH.com/sms-marketing">Bulk SMS marketing</a> is coupled with bulk emails to aid you in reaching out to prospective customers.</p>
-                                <p><a title="Real Estate Portal Development" href="https://www. YORA TECH.com/real-estate-portal">Real Estate Portal Development</a>- We have both skill and experience on our side when it comes to creating innovative websites that cuts across all domains in business. We also offer cost effective <a title="Real Estate website design" href="https://www. YORA TECH.com/real-estate-website-design">Real Estate website design</a>, <a title="Jewelry Website Development" href="https://www. YORA TECH.com/jewelry-website-development">Jewelry Website Development</a>, <a title="Jewelry E-commerce Website Design" href="https://www. YORA TECH.com/jewelry-e-commerce-website-design">Jewelry E-commerce Website Design</a>, cloud hosting and <a title="Social Media Optimization" href="https://www. YORA TECH.com/social-media-optimization">SMO</a> although portal development for real estate remains our forte.</p><p><a title="Mobile Apps Development" href="https://www. YORA TECH.com/mobile-apps-development">Mobile Apps Development</a> � Development of mobile apps for your business will help you to connect with your clients in an engaging and effective manner. We have the expertise in utilizing open source software for mobile apps development that will enable you to take the lead in your business.</p>
+                                <p><a title="Web Portal Development" href="http://www.yora.xyz/web-portal-development">Web Portal Development</a>: We capture your ideas and utilize them practically in order to give you a great looking web site that is 100% functional and customized as per your needs. The latest  and applications are blended seamlessly in the web portal that can be used effectively to carve a niche for your business while catering to your clients worldwide successfully.</p>
+                                <p><a title="MEAN Stack Development" href="http://www.yora.xyz/mean-stack-development-company">MEAN Stack Development</a>: Many of smart business leaders with heaps of talent recognize that they need help to bring their development project idea to fruition. That�s where Mean Stack Development Company,  YORA TECH comes in.  Whether you need to develop an app or a custom website, we�ll do the job for you with great panache.</p>
+                                <p><a title="Digital Marketing" href="http://www.yora.xyz/digital-marketing">Digital Marketing</a>: Get ready to welcome increased number of visitors to your website and rejoice in converting the leads effectively via unique digital marketing strategies. The top professionals of our core team will enable you to have direction wherein you have an edge over your business rivals thanks to the best optimization techniques and a unique PPC model.</p>
+                                <p><a title="Responsive Web Design" href="http://www.yora.xyz/responsive-web-design">Responsive Web Design</a>: Enjoy sharing your website with thousands of prospective customers courtesy responsive web design that provides for optimal viewing across smart devices. We ensure that your superior content reaches your target audience providing them with an excellent viewer experience no matter how small or big the device is.</p>
+                                <p>We offer you a package of <a title="Search Engine Optimization" href="http://www.yora.xyz/search-engine-optimization">SEO</a>, <a title="web services" href="http://www.yora.xyz/web-services">web services</a> that includes but is not limited to <a title="Responsive Web Design" href="http://www.yora.xyz/responsive-web-design">Responsive Web Design</a>, Web Hosting <a title="PPC Management Services" href="http://www.yora.xyz/ppc-management-services">PPC Management Services</a>, <a title="SSL certificate integration" href="http://www.yora.xyz/ssl-certificates">SSL certificate integration</a>, <a title="Ecommerce Website Design" href="http://www.yora.xyz/ecommerce-website-design-in-bangalore">Ecommerce Website Design</a>, <a title="Ecommerce Website Design" href="http://www.yora.xyz/payment-gateway-integration">Payment Gateway Integration</a>, Web Portal Development, SMS Marketing and Digital Marketing. You are welcome to request the following services from us too�</p><p><a title="E Mail Marketing" href="http://www.yora.xyz/email-marketing">E Mail Marketing</a> � We will help you to reach your target audience by adopting an effective strategy for email marketing that our skilled team undertakes as a part of the marketing strategy. <a title="Bulk SMS marketing" href="http://www.yora.xyz/sms-marketing">Bulk SMS marketing</a> is coupled with bulk emails to aid you in reaching out to prospective customers.</p>
+                                <p><a title="Real Estate Portal Development" href="http://www.yora.xyz/real-estate-portal">Real Estate Portal Development</a>- We have both skill and experience on our side when it comes to creating innovative websites that cuts across all domains in business. We also offer cost effective <a title="Real Estate website design" href="http://www.yora.xyz/real-estate-website-design">Real Estate website design</a>, <a title="Jewelry Website Development" href="http://www.yora.xyz/jewelry-website-development">Jewelry Website Development</a>, <a title="Jewelry E-commerce Website Design" href="http://www.yora.xyz/jewelry-e-commerce-website-design">Jewelry E-commerce Website Design</a>, cloud hosting and <a title="Social Media Optimization" href="http://www.yora.xyz/social-media-optimization">SMO</a> although portal development for real estate remains our forte.</p><p><a title="Mobile Apps Development" href="http://www.yora.xyz/mobile-apps-development">Mobile Apps Development</a> � Development of mobile apps for your business will help you to connect with your clients in an engaging and effective manner. We have the expertise in utilizing open source software for mobile apps development that will enable you to take the lead in your business.</p>
                             </div><div class="pull-right span3">
                                 <h3 class="twoLines">Our scope of work:</h3>
                                 <ul class="normal dot">
@@ -11002,28 +11101,28 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="span3">
                             <h4 class="brand"><span>V</span>ivanta </h4>
                             <ul class="normal dot">
-                                <li><a title="About us" href="https://www. YORA TECH.com/about-us">About us</a></li>
-                                <li><a title="Why  YORA TECH" href="https://www. YORA TECH.com/why- YORA TECH-">Why  YORA TECH</a></li>
-                                <li><a title="What we do" href="https://www. YORA TECH.com/what-we-do">What we do</a></li>
-                                <li><a title="Portfolio" href="https://www. YORA TECH.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
-                                <li><a title="Careers" href="https://www. YORA TECH.com/careers">Careers</a></li>
-                                <li><a title="Contact Us" href="https://www. YORA TECH.com/contact-us">Contact Us</a></li>
-                                <li><a title="Services" href="https://www. YORA TECH.com/services">Services</a></li>
-                                <li><a title="Sitemap" href="https://www. YORA TECH.com/sitemap">Sitemap</a></li>
+                                <li><a title="About us" href="http://www.yora.xyz/about-us">About us</a></li>
+                                <li><a title="Why  YORA TECH" href="http://www.yora.xyz/why- YORA TECH-">Why  YORA TECH</a></li>
+                                <li><a title="What we do" href="http://www.yora.xyz/what-we-do">What we do</a></li>
+                                <li><a title="Portfolio" href="http://www.yora.xyz/portfolio" class="dropdown-toggle">Portfolio</a></li>
+                                <li><a title="Careers" href="http://www.yora.xyz/careers">Careers</a></li>
+                                <li><a title="Contact Us" href="http://www.yora.xyz/contact-us">Contact Us</a></li>
+                                <li><a title="Services" href="http://www.yora.xyz/services">Services</a></li>
+                                <li><a title="Sitemap" href="http://www.yora.xyz/sitemap">Sitemap</a></li>
                             </ul>
                         </div>
                         <div class="span3">
-                            <h4 class="brand"><a title="Web Portal Development" href="https://www. YORA TECH.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-                            <h4 class="brand"><a title="Responsive Web Designing" href="https://www. YORA TECH.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-                            <h4 class="brand"><a title="Web Hosting and Domain" href="https://www. YORA TECH.com/web-hosting-and-domain"><span>Web</span> Hosting and Domain</a></h4>
-                            <h4 class="brand"><a title="Web Services" href="https://www. YORA TECH.com/web-services"><span>Web</span> Services</a></h4>
-                            <h4 class="brand"><a title="Domain Registration" href="https://www. YORA TECH.com/domain-registraion"><span>Domain</span> Registration</a></h4>
+                            <h4 class="brand"><a title="Web Portal Development" href="http://www.yora.xyz/web-portal-development"><span>Web</span> Portal Development</a></h4>
+                            <h4 class="brand"><a title="Responsive Web Designing" href="http://www.yora.xyz/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+                            <h4 class="brand"><a title="Web Hosting and Domain" href="http://www.yora.xyz/web-hosting-and-domain"><span>Web</span> Hosting and Domain</a></h4>
+                            <h4 class="brand"><a title="Web Services" href="http://www.yora.xyz/web-services"><span>Web</span> Services</a></h4>
+                            <h4 class="brand"><a title="Domain Registration" href="http://www.yora.xyz/domain-registraion"><span>Domain</span> Registration</a></h4>
                         </div>
                         <div class="span3">
-                            <h4 class="brand"><a title="Digital Marketing Company" href="https://www. YORA TECH.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-                            <h4 class="brand"><a title="Mobile Apps Development" href="https://www. YORA TECH.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-                            <h4 class="brand"><a title="Content Writing" href="https://www. YORA TECH.com/content-writing"><span>Content</span> Writing</a></h4>
-                            <h4 class="brand"><a title="Corporate Training" href="https://www. YORA TECH.com/corporate-training"><span>Corporate</span> Training</a></h4>
+                            <h4 class="brand"><a title="Digital Marketing Company" href="http://www.yora.xyz/digital-marketing"><span>Digital</span> Marketing</a></h4>
+                            <h4 class="brand"><a title="Mobile Apps Development" href="http://www.yora.xyz/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+                            <h4 class="brand"><a title="Content Writing" href="http://www.yora.xyz/content-writing"><span>Content</span> Writing</a></h4>
+                            <h4 class="brand"><a title="Corporate Training" href="http://www.yora.xyz/corporate-training"><span>Corporate</span> Training</a></h4>
                         </div>
                         <div class="span3">
                             <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -11048,7 +11147,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
                         <div class="span12">
                             <div class="span6">
-                                <p class="pull-left"> &copy; 2018  YORA TECH: <a title="Web development company" href="https://www. YORA TECH.com/">Web development company</a></p>
+                                <p class="pull-left"> &copy; 2018  YORA TECH: <a title="Web development company" href="http://www.yora.xyz/">Web development company</a></p>
                             </div>
                             <div class="span6 pull-right">
                                 <ul class="socialIcons">
