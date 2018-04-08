@@ -10591,8 +10591,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
 
-              <div class="floating-box"><img src="<?php echo asset_url(); ?>images/yoralogo.jpg" /></div>
-              <div class="floating-box"><img src="<?php echo asset_url(); ?>images/coollogo_com-864586.png" style="margin-top: 25px;margin-left: -52px;" /></div>
+              <div class="floating-box"><img src="images/yoralogo.jpg" /></div>
+              <div class="floating-box"><img src="images/coollogo_com-864586.png" style="margin-top: 25px;margin-left: -52px;" /></div>
 
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
