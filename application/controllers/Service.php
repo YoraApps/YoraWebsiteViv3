@@ -154,8 +154,8 @@
       public function   windowshosting() {
         $this->load->view('service/windowshosting');
       }
-      public function   vpsshosting() {
-        $this->load->view('service/vpsshosting');
+      public function   vpshosting() {
+        $this->load->view('service/vpshosting');
       }
       public function   dedicatedservers() {
         $this->load->view('service/dedicatedservers');
