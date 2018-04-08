@@ -28,10 +28,10 @@
       public function corporatetraining() {
         $this->load->view('service/corporatetraining');
       }
-      public function searchengineoptimization(SEO)() {
-        $this->load->view('service/searchengineoptimization');
+      public function searchengineoptimization() {
+        $this->load->view('service/digitalmarketing/searchengineoptimization');
       }
-      public function  searchenginemarketing(SEM)() {
+      public function  searchenginemarketing() {
         $this->load->view('service/searchenginemarketing');
       }
       public function  ppcmanagementservices() {

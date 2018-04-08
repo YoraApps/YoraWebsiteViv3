@@ -64,33 +64,33 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
 <p>Any webpage that gets featured on the top regularly by Google and Bing is regarded as the best in the search engine rankings and results. The viewers simply rush to the site on account of the SEO company Bangalore that happens to be firmly behind it. Lose no time therefore in utilizing the SEO services offered by Vivanta Technologies and rejoice in finding the number of views to your website increased considerably. Converting an interested viewer into a lifelong customer is only a step away then. Your sales team should be able to do it comfortably.</p><p>The only responsibility you have now is to communicate with Vivanta Technologies and explain your requirement in detail. This best SEO company Bangalore will take over ASAP and upgrade your online resource for the web indexes that matter. Adding back links along with important key words is only the first step, however. The company will also assist you in site administration by tracking the data as well as the site traffic on a day to day basis. Vivanta Technologies will also recommend using a pay-per-click model for your webpage initially so that you end up getting a boost in the number of visitors to your site.</p>
 <p>The company may consider a complete revamp of your website instead of fixing a few issues here and there. Adding new optimized content to your webpage along with call to action buttons and altering the algorithm of your site in order to make it easy for the visitor to navigate your site are just a few changes that Vivanta Technologies is adept at. You do not have to understand the nuances of web design and development though. The SEO company Bangalore will do it all for you so that you can enjoy the huge influx of traffic via an aptly optimized website.</p>
 <p>Checking Google Analytics regularly is a good way to learn about the progress of your website. The SEO company Bangalore will do it carefully and advise you about the performance from time to time. Vivanta Technologies also believes in setting the situation right especially when your website visitors show a continuous drop thereby affecting your business substantially. Webmaster solutions are provided by the company too in order to halt the decreasing traffic. Sending bulk emails, SMO, designing a new logo and blogs together with adopting innovative digital marketing tactics and web development for a fresh website are included for making your website functional as well as profitable.</p>
-<p>The team of Vivanta Technologies is highly professional and will work closely with you, trying to understand your business objectives as well as your target audience before chalking out a feasible SEO strategy for you. Using keywords intelligently and well is definitely the goal here. The SEO Company Bangalore utilizes the key phrases suitably across multiple media apart from the social networking sites. The company ensures that each keyword is a part of a meaningful message that becomes successful in grabbing the attention of the viewers. Even TV and radio advertisements toped in to create a positive image of your business.</p> 
+<p>The team of Vivanta Technologies is highly professional and will work closely with you, trying to understand your business objectives as well as your target audience before chalking out a feasible SEO strategy for you. Using keywords intelligently and well is definitely the goal here. The SEO Company Bangalore utilizes the key phrases suitably across multiple media apart from the social networking sites. The company ensures that each keyword is a part of a meaningful message that becomes successful in grabbing the attention of the viewers. Even TV and radio advertisements toped in to create a positive image of your business.</p>
 <p>Vivanta Technologies keeps in touch with reality and will optimize your website for all devices that are used currently for accessing the web. From conventional PCs and laptops to smart phones and tablets, your website will be visible on each and every device without losing a shred of information. The company is determined to formulate the best SEO strategy for you that is not text oriented either. It also makes use of images, videos, and animation as and when needed thus providing you with an opportunity of staying at the top.</p>
 </div>
 <div class="span4">        <h3 class="twoLines">Request a Quote</h3>
         <div class="easyBox">
           <div class="row-fluid topSpace">
-      
+
       <div class="" id="form-wrapper">
         <form action="javascript:void(0);" method="post" name="pk_user" autocomplete="off" id="form2">
-         
+
                 <div class="form-group">
-                <label>Name</label>              
+                <label>Name</label>
                 <input name="response_name" id="response_name" type="text" class="form-control"  autocomplete="off"  placeholder="Your name"><div class="ui-tooltip">Enter Your Name.</div><label id="usernamelabel" class="alert-error"></label>
-                
+
                 </div>
                 <div class="form-group">
                 <label>Mobile</label>
                 <input name="response_mobile" id="response_mobile" type="text" placeholder="Your Mobile" onKeyDown="return numberonly(event);" maxlength='15' class="form-control" onkeypress="return is_int(event.keyCode ? event.keyCode : event.which ? event.which : event.charCode);"/>
                 <div class="ui-tooltip"></div><label id="mobilelabel" class="alert-error"></label>
-                
+
                 </div>
                 <div class="form-group">
                 <label>Email</label>
                 <input name="response_email" id="response_email" type="text" placeholder="Email-id"  class="form-control" />
                <div   class="ui-tooltip">Your Mobile Number.</div><label id="emailabel" class="alert-error"></label>
-              
-                
+
+
                 </div>
                 <div class="form-group">
                 <label>Your Country / City</label>
@@ -285,14 +285,14 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
 <option value="Yemen">Yemen</option>
 <option value="Zambia">Zambia</option>
 <option value="Zimbabwe">Zimbabwe</option></optgroup></select>
-             
+
               <div class="ui-tooltip"></div><label id="yourcitylabel" class="alert-error"></label>
                 </div>
                 <div class="form-group">
                 <label>Message</label>
                 <textarea name="enquiry_details" id="enquiry_details" class="form-control"></textarea>
-                <div class="ui-tooltip"></div><label id="detailslabel" class="alert-error"></label>   
-                
+                <div class="ui-tooltip"></div><label id="detailslabel" class="alert-error"></label>
+
                 </div>
                 <div class="form-group" id="captcha_details">
                 <label>reCAPTCHA</label>
@@ -301,10 +301,10 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
                 </div>
                 <div class="form-group">
                 <label><span id="captchalabel" class="alert-error"></span></label>
-        
+
                 <div id="subber"><input type="submit" id="submitlink" onclick="checkval(this)" name="submitlink" value="Send Message" class="btn btn-primary span12"></div>
-          
-        
+
+
       </div>
       </form>
     </div></div>
@@ -318,7 +318,7 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
                                 <h2 class="ca-main">Best SEO Company Bangalore</h2>
                                 <h2 class="ca-sub">Best SEO Company Bangalore</h2>
                             </div>
-                        </a>                   
+                        </a>
                     </li>
                         </ul>
      </div>
@@ -339,12 +339,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
-        </div>  
+        </div>
           <div class="span3">
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
-         
+
          </div>
          <div class="span3">
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
