@@ -178,8 +178,6 @@
       public function   emailhosting() {
         $this->load->view('service/emailhosting');
       }
-
-
       public function   restfulwebservices() {
         $this->load->view('service/restfulwebservices');
       }
