@@ -28,10 +28,10 @@
       public function corporatetraining() {
         $this->load->view('service/corporatetraining');
       }
-      public function searchengineoptimization(SEO)() {
-        $this->load->view('service/searchengineoptimization');
+      public function searchengineoptimization() {
+        $this->load->view('service/digitalmarketing/searchengineoptimization');
       }
-      public function  searchenginemarketing(SEM)() {
+      public function  searchenginemarketing() {
         $this->load->view('service/searchenginemarketing');
       }
       public function  ppcmanagementservices() {
@@ -154,8 +154,8 @@
       public function   windowshosting() {
         $this->load->view('service/windowshosting');
       }
-      public function   vpsshosting() {
-        $this->load->view('service/vpsshosting');
+      public function   vpshosting() {
+        $this->load->view('service/vpshosting');
       }
       public function   dedicatedservers() {
         $this->load->view('service/dedicatedservers');
