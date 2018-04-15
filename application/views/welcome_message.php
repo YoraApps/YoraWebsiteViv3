@@ -10611,7 +10611,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li>
-                  <a href="http://www.yora.xyz/service/searchengineoptimization">Search Engine Optimization (SEO)</a>
+                  <a href="http://www.yora.xyz/index.php/service/searchengineoptimization">Search Engine Optimization (SEO)</a>
                </li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchenginemarketing">Search Engine Marketing (SEM)</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/ppcmanagementservice">PPC Management service</a></li>
@@ -10646,7 +10646,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobile-apps-development">Mobile Apps Development</a>
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment">Mobile Apps Development</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/androidappsdevelopment">Android Apps development</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/iphoneappsdevelopment">iPhone Apps development</a></li>
@@ -10705,8 +10705,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
    </li>
    <li>
    <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
-   <li> <a href="http://www.yora.xyz/CodeIgniter/developers/">Developers</a> </li>
-   <li> <a href="http://www.yora.xyz/CodeIgniter/careers" class="dropdown-toggle">Careers</a> </li>
+   <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/developers">Developers</a> </li>
+   <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/career" class="dropdown-toggle">Careers</a> </li>
    <li> <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li>
 </ul>
 </div>
