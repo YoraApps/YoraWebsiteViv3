@@ -32,52 +32,52 @@
         $this->load->view('service/digitalmarketing/searchengineoptimization');
       }
       public function  searchenginemarketing() {
-        $this->load->view('service/searchenginemarketing');
+        $this->load->view('service/digitalmarketing/searchenginemarketing');
       }
       public function  ppcmanagementservices() {
-        $this->load->view('service/ppcmanagementservices');
+        $this->load->view('service/digitalmarketing/ppcmanagementservices');
       }
       public function   appstoreoptimization() {
-        $this->load->view('service/appstoreoptimization');
+        $this->load->view('service/digitalmarketing/appstoreoptimization');
       }
       public function   webanalytics() {
-        $this->load->view('service/webanalytics');
+        $this->load->view('service/digitalmarketing/webanalytics');
       }
       public function   socialmediaoptimization() {
-        $this->load->view('service/socialmediaoptimization');
+        $this->load->view('service/digitalmarketing/socialmediaoptimization');
       }
       public function   onlinereputationmanagement() {
-        $this->load->view('service/onlinereputationmanagement');
+        $this->load->view('service/digitalmarketing/onlinereputationmanagement');
       }
       public function   affiliatemarketing() {
-        $this->load->view('service/affiliatemarketing');
+        $this->load->view('service/digitalmarketing/affiliatemarketing');
       }
       public function   contentmarketing() {
-        $this->load->view('service/contentmarketing');
+        $this->load->view('service/digitalmarketing/contentmarketing');
       }
       public function   emailmarketing() {
-        $this->load->view('service/emailmarketing');
+        $this->load->view('service/digitalmarketing/emailmarketing');
       }
       public function   smsmarketing() {
-        $this->load->view('service/smsmarketing');
+        $this->load->view('service/digitalmarketing/smsmarketing');
       }
       public function   socialmediamarketing() {
-        $this->load->view('service/socialmediamarketing');
+        $this->load->view('service/digitalmarketing/socialmediamarketing');
       }
       public function   realestateportaldevelopment() {
-        $this->load->view('service/realestateportaldevelopment');
+        $this->load->view('service/webportaldevelopment/realestateportaldevelopment');
       }
       public function   mobilewebsitedevelopment() {
-        $this->load->view('service/mobilewebsitedevelopment');
+        $this->load->view('service/webportaldevelopment/mobilewebsitedevelopment');
       }
       public function   webapplicationdevelopment() {
-        $this->load->view('service/webapplicationdevelopment');
+        $this->load->view('service/webportaldevelopment/webapplicationdevelopment');
       }
       public function   b2bb2cecommerceportal() {
-        $this->load->view('service/b2bb2cecommerceportal');
+        $this->load->view('service/webportaldevelopment/b2bb2cecommerceportal');
       }
       public function   contentmanagementsystem() {
-        $this->load->view('service/contentmanagementsystem');
+        $this->load->view('service/webportaldevelopment/contentmanagementsystem');
       }
       public function   mvcarchitecture() {
         $this->load->view('service/mvcarchitecture');
@@ -130,62 +130,62 @@
       }
 
       public function   webcontentwriting() {
-        $this->load->view('service/webcontentwriting');
+        $this->load->view('service/contentwriting/webcontentwriting');
       }
       public function   seocontentwriting() {
-        $this->load->view('service/seocontentwriting');
+        $this->load->view('service/contentwriting/seocontentwriting');
       }
       public function   airtclewriting() {
-        $this->load->view('service/airtclewriting');
+        $this->load->view('service/contentwriting/airtclewriting');
       }
       public function   blogposting() {
-        $this->load->view('service/blogposting');
+        $this->load->view('service/contentwriting/blogposting');
       }
       public function   forumposting() {
-        $this->load->view('service/forumposting');
+        $this->load->view('service/contentwriting/forumposting');
       }
       public function   websitecopywriting() {
-        $this->load->view('service/websitecopywriting');
+        $this->load->view('service/contentwriting/websitecopywriting');
       }
       public function   prereleasewriting() {
-        $this->load->view('service/prereleasewriting');
+        $this->load->view('service/contentwriting/prereleasewriting');
       }
 
       public function   windowshosting() {
         $this->load->view('service/windowshosting');
       }
       public function   vpshosting() {
-        $this->load->view('service/vpshosting');
+        $this->load->view('service/webhostinganddomain/vpshosting');
       }
       public function   dedicatedservers() {
-        $this->load->view('service/dedicatedservers');
+        $this->load->view('service/webhostinganddomain/dedicatedservers');
       }
       public function   domainregistration() {
-        $this->load->view('service/domainregistration');
+        $this->load->view('service/webhostinganddomain/domainregistration');
       }
       public function   namesuggestiontool() {
-        $this->load->view('service/namesuggestiontool');
+        $this->load->view('service/webhostinganddomain/namesuggestiontool');
       }
       public function   sslcertificates() {
-        $this->load->view('service/sslcertificates');
+        $this->load->view('service/webhostinganddomain/sslcertificates');
       }
       public function   whoislookup() {
-        $this->load->view('service/whoislookup');
+        $this->load->view('service/webhostinganddomain/whoislookup');
       }
       public function   resellerhosting() {
-        $this->load->view('service/resellerhosting');
+        $this->load->view('service/webhostinganddomain/resellerhosting');
       }
       public function   emailhosting() {
-        $this->load->view('service/emailhosting');
+        $this->load->view('service/webhostinganddomain/emailhosting');
       }
       public function   restfulwebservices() {
-        $this->load->view('service/restfulwebservices');
+        $this->load->view('service/webservice/restfulwebservices');
       }
       public function   apiservicesprovider() {
-        $this->load->view('service/apiservicesprovider');
+        $this->load->view('service/webservice/apiservicesprovider');
       }
       public function   digitalmarketingcourses() {
-        $this->load->view('service/digitalmarketingcourses');
+        $this->load->view('service/corporatetraining/digitalmarketingcourses');
       }
       
    }
