@@ -8,11 +8,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="Author" content="YORA TECH.com" />
-    <link rel="stylesheet" type="text/css" href="../../../assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
-    <script defer type="text/javascript" src="../../../assets/js/modernizr-2.6.1.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="../../../assets/css/cubeportfolio.min.css">
-	<link rel="stylesheet" type="text/css" href="../../../assets/css/header_style.css" />
+    <script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/cubeportfolio.min.css">
+	<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/header_style.css" />
     <style type="text/css">
         .padding10 {
             padding: 10px;
@@ -23,7 +23,7 @@
     <div id="boxedWrapper">
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
-			<div class="floating-box"><img src="../../../assets/images/yoralogo.jpg" /></div>
+			<div class="floating-box"><img src="http://www.yora.xyz/CodeIgniter/assets/images/yoralogo.jpg" /></div>
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                         <div class="nav-collapse">
