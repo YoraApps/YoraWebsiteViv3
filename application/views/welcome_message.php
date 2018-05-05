@@ -10625,7 +10625,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-portal-development">Web Portal Development</a>
+            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment">Web Portal Development</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/realestateportal">Real Estate Portal Development</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobilewebsitedevelopment">Mobile Website Development</a></li>
