@@ -23,7 +23,7 @@
         $this->load->view('service/webhostinganddomain');
       }
       public function webservices() {
-        $this->load->view('service/webservices');
+        $this->load->view('service/webservice');
       }
       public function corporatetraining() {
         $this->load->view('service/corporatetraining');
@@ -184,9 +184,9 @@
       public function   apiservicesprovider() {
         $this->load->view('service/apiservicesprovider');
       }
-
       public function   digitalmarketingcourses() {
         $this->load->view('service/digitalmarketingcourses');
       }
+      
    }
 ?>
