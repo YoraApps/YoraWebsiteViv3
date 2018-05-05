@@ -173,7 +173,7 @@
         <div class="container"></div>
         <div class="titleBox">
             <div class="container">
-                <h1 class="big pull-left" itemprop="name">Vivanta Technologies</h1>
+                <h1 class="big pull-left" itemprop="name">Yora Technologies Pvt.Ltd.</h1>
                 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                         <a itemprop="item" href="https://www.vivantatechnologies.com/">
