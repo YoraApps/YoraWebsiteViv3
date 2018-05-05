@@ -80,53 +80,53 @@
         $this->load->view('service/webportaldevelopment/contentmanagementsystem');
       }
       public function   mvcarchitecture() {
-        $this->load->view('service/mvcarchitecture');
+        $this->load->view('service/webportaldevelopment/mvcarchitecture');
       }
       public function   travelportaldevelopment() {
-        $this->load->view('service/travelportaldevelopment');
+        $this->load->view('service/webportaldevelopment/travelportaldevelopment');
       }
       public function   classifiedsportaldevelopment() {
-        $this->load->view('service/classifiedsportaldevelopment');
+        $this->load->view('service/webportaldevelopment/classifiedsportaldevelopment');
       }
       public function   yellowpagesportaldevelopment() {
-        $this->load->view('service/yellowpagesportaldevelopment');
+        $this->load->view('service/webportaldevelopment/yellowpagesportaldevelopment');
       }
       public function   newsportaldevelopment() {
-        $this->load->view('service/newsportaldevelopment');
+        $this->load->view('service/webportaldevelopment/newsportaldevelopment');
       }
       public function   jobportaldevelopment() {
-        $this->load->view('service/newsportaldevelopment');
+        $this->load->view('service/webportaldevelopment/jobportaldevelopment');
       }
       public function   educationportaldevelopment() {
-        $this->load->view('service/educationportaldevelopment');
+        $this->load->view('service/webportaldevelopment/educationportaldevelopment');
       }
       public function   paymentgatewayintegration() {
-        $this->load->view('service/paymentgatewayintegration');
+        $this->load->view('service/webportaldevelopment/paymentgatewayintegration');
       }
       public function   phonegapappsdevelopment() {
-        $this->load->view('service/phonegapappsdevelopment');
+        $this->load->view('service/webportaldevelopment/phonegapappsdevelopment');
       }
       public function   androidappsdevelopment() {
-        $this->load->view('service/androidappsdevelopment');
+        $this->load->view('service/mobileappsdevelopment/androidappsdevelopment');
       }
       public function   iphoneappsdevelopment() {
-        $this->load->view('service/iphoneappsdevelopment');
+        $this->load->view('service/mobileappsdevelopment/iphoneappsdevelopment');
       }
 
       public function   webtemplatedesign() {
-        $this->load->view('service/webtemplatedesign');
+        $this->load->view('service/responsivewebdesign/webtemplatedesign');
       }
       public function   companylogographicsdesign() {
-        $this->load->view('service/companylogographicsdesign');
+        $this->load->view('service/responsivewebdesign/companylogographicsdesign');
       }
       public function   newsletterdesign() {
-        $this->load->view('service/newsletterdesign');
+        $this->load->view('service/responsivewebdesign/newsletterdesign');
       }
       public function   blogdesign() {
-        $this->load->view('service/blogdesign');
+        $this->load->view('service/responsivewebdesign/blogdesign');
       }
       public function   customwebsitedesign() {
-        $this->load->view('service/customwebsitedesign');
+        $this->load->view('service/responsivewebdesign/customwebsitedesign');
       }
 
       public function   webcontentwriting() {
@@ -152,7 +152,7 @@
       }
 
       public function   windowshosting() {
-        $this->load->view('service/windowshosting');
+        $this->load->view('service/windowshostingdomain/windowshosting');
       }
       public function   vpshosting() {
         $this->load->view('service/webhostinganddomain/vpshosting');
