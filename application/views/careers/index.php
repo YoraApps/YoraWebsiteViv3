@@ -63,10 +63,10 @@
     <div id="boxedWrapper">
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
+			<div class="floating-box"><img src="http://www.yora.xyz/CodeIgniter/assets/images/yoralogo.jpg" /></div>
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                    <a class="brand" href="./"><img src="images/yoralogo.jpg" alt="Web Development Company" title="Web Development Company" width="253" height="101" /></a>
-              <div class="nav-collapse">
+                                  <div class="nav-collapse">
     <ul class="nav pull-right">
         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
