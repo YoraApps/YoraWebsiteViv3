@@ -8,10 +8,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="Author" content="YORA TECH.com" />
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/index.php/assets/css/style.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
-    <script defer type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="assets/css/cubeportfolio.min.css?ver=1500651342">
+    <script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/index.php/assets/js/modernizr-2.6.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/index.php/assets/css/cubeportfolio.min.css?ver=1500651342">
     <style type="text/css">
         .padding10 {
             padding: 10px;
@@ -1647,7 +1647,7 @@
                                     <span itemprop="postalCode">560076</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
 
                         <div class="span12">
                             <div class="span6">
