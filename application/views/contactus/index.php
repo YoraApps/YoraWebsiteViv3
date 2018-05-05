@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Contact Vivanta | Vivanta Technologies</title>
+    <title>Contact YORA | YORA Technologies</title>
     <meta name="description" content="Contact Vivanta Technologies for enquiries related to Web Engineering Solutions and Digital Marketing Services." />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="Author" content="vivantatechnologies.com" />
-    <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
+	 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/header_style.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
-    <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-    <link rel="canonical" href="https://www.vivantatechnologies.com/contact-us" />
-    <link rel="amphtml" href="https://www.vivantatechnologies.com/amp/contact-us" />
+    <script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+    <link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/contactus" />
+    <link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/contactus" />
     <style type="text/css">
         .contact_info {
             width: 100%;
@@ -54,11 +55,10 @@
     <div id="boxedWrapper">
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
+			<div class="floating-box"><img src="http://www.yora.xyz/CodeIgniter/assets/images/yoralogo.jpg" /></div>
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
-                    <a class="brand" href="./">
-                        <img src="https://www.vivantatechnologies.com/assets/images/vivanta-technologies-logo.png" alt="Web Development Company" title="Web Development Company" width="253" height="101" /></a>
-                <div class="nav-collapse">
+                                   <div class="nav-collapse">
     <ul class="nav pull-right">
         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
@@ -173,7 +173,7 @@
         <div class="container"></div>
         <div class="titleBox">
             <div class="container">
-                <h1 class="big pull-left" itemprop="name">Vivanta Technologies</h1>
+                <h1 class="big pull-left" itemprop="name">YORA Technologies</h1>
                 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                         <a itemprop="item" href="https://www.vivantatechnologies.com/">
@@ -191,8 +191,9 @@
         <div class="container">
             <div class="row-fluid topSpace">
                 <div class="span12">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31111.440118694667!2d77.60143050000005!3d12.912219588408158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1518a4ac675d%3A0x96265ab15bd782b3!2sVivanta+Technologies!5e0!3m2!1sen!2sin!4v1404278014051" width="940" height="400" style="border: 0"></iframe>
-                </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3888.360206008354!2d77.70445649020371!3d12.948787377782427!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbbb346959f10c307!2sYORA+TECHNOLOGIES+(OPC)+PVT.+LTD.!5e0!3m2!1sen!2sin!4v1525517801909" width="940" height="400" frameborder="0" style="border:0" ></iframe>
+                
+				</div>
             </div>
             <div class="row-fluid topSpace">
                 <div class="span5">
@@ -202,37 +203,25 @@
                             <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
                                 <div class="phone">
                                     <h5>Phone</h5>
-                                    <span itemprop="telephone"><a href="tel:+91-7795572832">+91-7795572832</a></span>,
-                                    <span itemprop="telephone"><a href="tel:+91-7899908051">+91-7899908051</a></span>
+                                    <span itemprop="telephone"><a href="tel:+91-9535881835">+91-9535881835</a></span>
                                 </div>
                                 <div class="mail">
                                     <h5>Mail</h5>
-                                    <span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info (at) vivantatechnologies.com</a> </span>
+                                    <span itemprop="email"><a href="mailto:info@yora.xyz">info (at) yaro.xyz</a> </span>
                                 </div>
                                 <div class="adress">
                                     <h5>Address</h5>
-                                    <span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-                                    <span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-                                    <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-                                    <span itemprop="postalCode">560076</span>
+                                    <span itemprop="streetAddress">CHURCH, #50, SGR COLLEGE ROAD, MUNNEKOLALA, Chelekere Ext Rd, </span>
+                                    <span itemprop="addressLocality">MARATHOMA, Marathahalli, </span>
+                                    <span itemprop="addressRegion">Bengaluru, Karnataka </span>
+                                    <span itemprop="postalCode">560037</span>
                                 </div>
                             </div>
                         </div>
-                        <div class="span12">
-                            <h2 class="twoLines">New Jersey, USA</h2>
-                            <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <div class="adress">
-                                    <h5>Address</h5>
-                                    <span itemprop="streetAddress">#98</span>
-                                    <span itemprop="addressLocality">Madison St,</span>
-                                    <span itemprop="addressRegion">Iselin, New Jersey</span>
-                                    <span itemprop="postalCode">08830</span>
-                                </div>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
-                <div class="span7" id="form-wrapper">
+             <!--   <div class="span7" id="form-wrapper">
                     <h3 class="twoLines">Drop Us a Line</h3>
                     <form action="javascript:void(0);" method="post" name="pk_user" autocomplete="off" id="form2">
                         <fieldset>
@@ -1142,7 +1131,7 @@
                             </div>
                         </fieldset>
                     </form>
-                </div>
+                </div>-->
             </div>
         </div>
         <div id="footer">
