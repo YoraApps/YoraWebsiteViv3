@@ -8,10 +8,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="Author" content="YORA TECH.com" />
-    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/index.php/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../../../assets/css/style.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
-    <script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/index.php/assets/js/modernizr-2.6.1.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/index.php/assets/css/cubeportfolio.min.css?ver=1500651342">
+    <script defer type="text/javascript" src="../../../assets/js/modernizr-2.6.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../../assets/css/cubeportfolio.min.css">
     <style type="text/css">
         .padding10 {
             padding: 10px;
@@ -22,10 +22,10 @@
     <div id="boxedWrapper">
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
+			<div class="floating-box"><img src="../images/yoralogo.jpg" /></div>
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                    <a class="brand" href="./"><img src="assets/images/yoralogo.jpg" alt="Web Development Company" title="Web Development Company" width="253" height="101" /></a>
-                <div class="nav-collapse">
+                        <div class="nav-collapse">
                     <ul class="nav pull-right">
                         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
                         <li class=" dropdown">
