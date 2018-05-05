@@ -1611,7 +1611,7 @@
                 <div class="container">
                     <div class="row-fluid">
                         <div class="span3">
-                            <h4 class="brand"><span>V</span>ivanta Technologies</h4>
+                            <h4 class="brand"><span>Y</span>ora Technologies</h4>
                             <ul class="normal dot">
                                 <li><a title="About us" href="https://www.vivantatechnologies.com/about-us">About us</a></li>
                                 <li><a title="Why Vivanta Technologies" href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Vivanta Technologies</a></li>
