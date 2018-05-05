@@ -7,11 +7,11 @@
     <meta name="keywords" content="Vivanta Technologies Porfolio" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="Author" content="vivantatechnologies.com" />
-    <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+    <meta name="Author" content="YORA TECH.com" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <script defer type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/cubeportfolio.min.css?ver=1500651342">
+    <link rel="stylesheet" type="text/css" href="assets/css/cubeportfolio.min.css?ver=1500651342">
     <style type="text/css">
         .padding10 {
             padding: 10px;
@@ -24,7 +24,7 @@
             <div class="navbar-inner">
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                    <a class="brand" href="./"><img src="https://www.vivantatechnologies.com/assets/images/vivanta-technologies-logo.png" alt="Web Development Company" title="Web Development Company" width="253" height="101" /></a>
+                    <a class="brand" href="./"><img src="assets/images/yoralogo.jpg" alt="Web Development Company" title="Web Development Company" width="253" height="101" /></a>
                 <div class="nav-collapse">
                     <ul class="nav pull-right">
                         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
@@ -142,7 +142,7 @@
                 <div class="container">
                     <h1 class="big pull-left">The Road So Far - Our Portfolio</h1>
                     <ul class="breadcrumb pull-right" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-                        <li><a href="https://www.vivantatechnologies.com/" itemprop="url">Home</a></li>
+                        <li><a href="http://www.yora.xyz/CodeIgniter/" itemprop="url">Home</a></li>
                         <li><span itemprop="title">Portfolio</span></li>
                     </ul>
                 </div>
@@ -151,15 +151,7 @@
         <div id="filters-container" class="cbp-l-filters-list">
             <div data-filter="*" class="cbp-filter-item-active cbp-filter-item cbp-l-filters-list-first">All</div>
             <div data-filter=".portals" class="cbp-filter-item">Portals</div>
-            <div data-filter=".corporate" class="cbp-filter-item">Corporate</div>
-            <div data-filter=".real" class="cbp-filter-item">Real Estate</div>
-            <div data-filter=".education" class="cbp-filter-item">Education</div>
-            <div data-filter=".resturant" class="cbp-filter-item">Resturants</div>
-            <div data-filter=".matrimony" class="cbp-filter-item">Matrimony</div>
-            <div data-filter=".travel" class="cbp-filter-item">Travel</div>
-            <div data-filter=".ecom" class="cbp-filter-item">E Commerce</div>
-            <div data-filter=".ngo" class="cbp-filter-item">NGO</div>
-            <div data-filter=".others" class="cbp-filter-item cbp-l-filters-list-last">Others</div>
+            
         </div>
 
         <div class="clearfix"></div>
