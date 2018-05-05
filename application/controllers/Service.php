@@ -77,7 +77,7 @@
         $this->load->view('service/webportaldevelopment/b2bb2cecommerceportal');
       }
       public function   contentmanagementsystem() {
-        $this->load->view('service/contentmanagementsystem');
+        $this->load->view('service/webportaldevelopment/contentmanagementsystem');
       }
       public function   mvcarchitecture() {
         $this->load->view('service/mvcarchitecture');
