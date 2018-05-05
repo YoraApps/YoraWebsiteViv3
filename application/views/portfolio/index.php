@@ -2,16 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Portfolio | Vivanta Technologies</title>
-    <meta name="description" content="Vivanta Technologies Porfolio - The Road So Far" />
-    <meta name="keywords" content="Vivanta Technologies Porfolio" />
+    <title>Portfolio | Yora Technologies</title>
+    <meta name="description" content="YORA Technologies Porfolio - The Road So Far" />
+    <meta name="keywords" content="YORA Technologies Porfolio" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="Author" content="YORA TECH.com" />
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="../../../assets/css/style.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
-    <script defer type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="assets/css/cubeportfolio.min.css?ver=1500651342">
+    <script defer type="text/javascript" src="../../../assets/js/modernizr-2.6.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../../assets/css/cubeportfolio.min.css">
+	<link rel="stylesheet" type="text/css" href="../../../assets/css/header_style.css" />
     <style type="text/css">
         .padding10 {
             padding: 10px;
@@ -22,10 +23,10 @@
     <div id="boxedWrapper">
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
+			<div class="floating-box"><img src="../../../assets/images/yoralogo.jpg" /></div>
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                    <a class="brand" href="./"><img src="assets/images/yoralogo.jpg" alt="Web Development Company" title="Web Development Company" width="253" height="101" /></a>
-                <div class="nav-collapse">
+                        <div class="nav-collapse">
                     <ul class="nav pull-right">
                         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
                         <li class=" dropdown">
@@ -143,14 +144,28 @@
                     <h1 class="big pull-left">The Road So Far - Our Portfolio</h1>
                     <ul class="breadcrumb pull-right" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
                         <li><a href="http://www.yora.xyz/CodeIgniter/" itemprop="url">Home</a></li>
-                        <li><span itemprop="title">Portfolio</span></li>
+                          <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/portfolio">
+                            <span itemprop="name">Porfolio</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
                     </ul>
                 </div>
             </div>
 
         <div id="filters-container" class="cbp-l-filters-list">
             <div data-filter="*" class="cbp-filter-item-active cbp-filter-item cbp-l-filters-list-first">All</div>
-            <div data-filter=".portals" class="cbp-filter-item">Portals</div>
+        <div data-filter=".portals" class="cbp-filter-item">Portals</div>
+        <div data-filter=".corporate" class="cbp-filter-item">Corporate</div>
+        <div data-filter=".real" class="cbp-filter-item">Real Estate</div>
+        <div data-filter=".education" class="cbp-filter-item">Education</div>
+        <div data-filter=".resturant" class="cbp-filter-item">Resturants</div>
+        <div data-filter=".matrimony" class="cbp-filter-item">Matrimony</div>
+        <div data-filter=".travel" class="cbp-filter-item">Travel</div>
+        <div data-filter=".ecom" class="cbp-filter-item">E Commerce</div>
+        <div data-filter=".ngo" class="cbp-filter-item">NGO</div>
+       
+		<div data-filter=".client" class="cbp-filter-item cbp-l-filters-list-last">Others</div>
             
         </div>
 
@@ -1647,7 +1662,7 @@
                                     <span itemprop="postalCode">560076</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
 
                         <div class="span12">
                             <div class="span6">
