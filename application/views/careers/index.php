@@ -2,17 +2,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Careers | Vivanta Technologies</title>
+    <title>Careers | YORA Technologies</title>
     <meta name="description" content="Career opportunities at one of the India's fastest growing Web Engineering Company." />
-    <meta name="keywords" content="Careers in Bangalore, Careers at Vivanta Technologies, Jobs at Vivanta Technologies, Jobs in Bangalore" />
+    <meta name="keywords" content="Careers in Bangalore, Careers at YORA Technologies, Jobs at YORA Technologies, Jobs in Bangalore" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="Author" content="vivantatechnologies.com" />
-    <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+    <meta name="Author" content="YORA Technologies" />
+    <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/header_style.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
-    <script defer type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-    <link rel="canonical" href="https://www.vivantatechnologies.com/careers" />
-    <link rel="amphtml" href="https://www.vivantatechnologies.com/amp/careers" />
+    <script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+    <link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/careers" />
+   
     <style type="text/css">
         a.toggle_trigger span {
             float: right;
@@ -69,7 +70,7 @@
     <ul class="nav pull-right">
         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
-               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">service</a>
+               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
                 <li class="dropdown-submenu">
                     <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>
@@ -183,13 +184,13 @@
                 <h1 class="big pull-left">We have already set the ball rolling. YOU IN?</h1>
                 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="https://www.vivantatechnologies.com/">
+                        <a itemprop="item" href="http://www.yora.xyz/CodeIgniter/">
                             <span itemprop="name">Home</span>
                         </a>
                         <meta itemprop="position" content="1" />
                     </li>
                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="https://www.vivantatechnologies.com/careers">
+                        <a itemprop="item" href="http://www.yora.xyz/CodeIgniter/careers">
                             <span itemprop="name">Careers</span>
                         </a>
                         <meta itemprop="position" content="2" />
@@ -198,7 +199,7 @@
             </div>
         </div>
         <div class="row-fluid topSpace digital-images">
-            <img src="https://www.vivantatechnologies.com/assets/images/careers.jpg" alt="Careers" title="Careers" width="1920" height="711" />
+            <img src="http://www.yora.xyz/CodeIgniter/assets/images/careers.jpg" alt="Careers" title="Careers" width="1920" height="711" />
         </div>
         <div class="container topSpace">
             <div class="row-fluid topSpace">
@@ -206,7 +207,7 @@
                     <div class="toggles">
                         <div class="container"><h2 class="twoLines">You have landed on a perfect link in accelerating your career path!</h2></div>
                         <p>Looking for an opportunity to enrich your career and take it to the next level of success? Vivanta Technologies offers a perfect runaway to accelerate on a career path with exceptional thinking. We are committed in providing the best opportunities for candidates who are seeking a career in the challenging world of innovations.</p>
-                        <p>Hurry.!! Grab the opportunity knocking at your door step! Mail your resume to <strong>hr@vivantatechnologies.com</strong></p>
+                        <p>Hurry.!! Grab the opportunity knocking at your door step! Mail your resume to <strong>hr@yora.xyz</strong></p>
                         <div class="toggle-panel">
                             <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Full Stack Developer</a>
                             <div class="toggle_container">
@@ -441,7 +442,7 @@
                     </div>
                 </div>
             </div>
-            <div class="topMargin"><p>Last Updated : 23-03-2018</p><p>Please send your updated CV to hr[@]vivantatechnologies.com</p></div>
+            <div class="topMargin"><p>Last Updated : 05-05-2018</p><p>Please send your updated CV to hr[@]yora.xyz</p></div>
         </div>
         <div id="footer">
             <div class="row-fluid topSpace mappcontainer doCenter">
@@ -451,8 +452,8 @@
                     <span itemprop="bestRating">/ 5</span>
                     based on <span itemprop="reviewCount">55</span> user ratings
                 </div>
-                <p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-                <a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+                <p><a href="https://www.yora.xyz/CodeIgniter">Web development company in Bangalore</a></p>
+                <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
             </div>  <div class="footNotes">
                 <div class="container">
                     <div class="row-fluid">
@@ -486,19 +487,18 @@
                             <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
                                 <div class="phone">
                                     <h5>Phone:</h5>
-                                    <span itemprop="telephone"><a title="Call +91-7795572832" href="tel:+91-7795572832">+91-7795572832</a></span>,<br>
-                                    <span itemprop="telephone"><a title="Call +91-7899908051" href="tel:+91-7899908051">+91-7899908051</a></span>
-                                </div>
+                                    <span itemprop="telephone"><a title="Call +91-9535881835" href="tel:+91-9535881835">+91-9535881835</a></span>,<br>
+                                                                    </div>
                                 <div class="mail">
                                     <h5>Mail:</h5>
                                     <span itemprop="email"><a title="Mail to info@vivantatechnologies.com" href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
                                 </div>
                                 <div class="adress">
                                     <h5>Address:</h5>
-                                    <span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-                                    <span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-                                    <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-                                    <span itemprop="postalCode">560076</span>
+                                    <span itemprop="streetAddress">CHURCH, #50, SGR COLLEGE ROAD, MUNNEKOLALA, Chelekere Ext Rd,</span>
+                                    <span itemprop="addressLocality">MARATHOMA, Marathahalli,</span>
+                                    <span itemprop="addressRegion">Bengaluru, Karnataka</span>
+                                    <span itemprop="postalCode">560037</span>
                                 </div>
                             </div>
                         </div>
