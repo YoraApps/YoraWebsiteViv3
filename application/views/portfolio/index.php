@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Portfolio | Vivanta Technologies</title>
-    <meta name="description" content="Vivanta Technologies Porfolio - The Road So Far" />
-    <meta name="keywords" content="Vivanta Technologies Porfolio" />
+    <title>Portfolio | Yora Technologies</title>
+    <meta name="description" content="YORA Technologies Porfolio - The Road So Far" />
+    <meta name="keywords" content="YORA Technologies Porfolio" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="Author" content="YORA TECH.com" />
