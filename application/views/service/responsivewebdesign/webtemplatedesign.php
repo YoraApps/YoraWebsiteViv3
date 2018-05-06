@@ -144,7 +144,7 @@ img{margin:25px
         <li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/developers">Developers</a> </li>
-        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/career" class="dropdown-toggle">Careers</a> </li>
+        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/careers" class="dropdown-toggle">Careers</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li>
     </ul>
 </div>
