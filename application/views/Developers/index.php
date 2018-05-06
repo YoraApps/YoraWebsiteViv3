@@ -154,7 +154,7 @@
     </div>
   </div>
   <div class="row-fluid topSpace digital-images">
-     <img src="../../../assets/images/developers.jpg" alt="Web Developers in Bangalore" title="Web Developers in Bangalore" width="1920" height="450"/>
+     <img src="http://www.yora.xyz/CodeIgniter/assets/images/developers.jpg" alt="Web Developers in Bangalore" title="Web Developers in Bangalore" width="1920" height="450"/>
      </div>
   <div class="container topSpace digital-images">
     <div class="row-fluid topSpace">
