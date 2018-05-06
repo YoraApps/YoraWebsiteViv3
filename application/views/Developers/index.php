@@ -26,7 +26,7 @@
         <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
             <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
@@ -1121,7 +1121,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
           <div class="span12 topMargin">
-            <p class="pull-left"> &copy; 2018 <a href="https://www.yora.xyz/CodIgniter/contact-us">Yora Technologies</a> | <a href="https://www.yora.xyz/CodIgniter/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+            <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodIgniter/contact-us">Yora Technologies</a> | <a href="http://www.yora.xyz/CodIgniter/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
               <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
               <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>

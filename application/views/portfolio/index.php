@@ -28,7 +28,7 @@
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                         <div class="nav-collapse">
                     <ul class="nav pull-right">
-                        <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+                        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
                         <li class=" dropdown">
                                 <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
                             <ul class="dropdown-menu">

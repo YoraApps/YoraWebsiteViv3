@@ -23,7 +23,7 @@
         <a class="brand" href="./"><img src="https://www.vivantatechnologies.com/assets/images/vivanta-technologies-logo.png" alt="Web Development Company" title="Web Development Company" width="253" height="101"/></a>
        <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
