@@ -7,8 +7,8 @@
 <meta name="keywords" content="SEO Company Bangalore | SEO Services Company India | Professional SEO Services India | Best SEO Company Bangalore | Top SEO Company Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="Yora Techonologies"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
 <style type="text/css">.ca-menu{padding:0;margin:0 auto}.ca-menu li{width:230px;height:230px;border:10px
 solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-block;margin-right:4px;-webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 2px rgba(0,0,0,0.2);box-shadow:1px 1px 2px rgba(0,0,0,0.2);-webkit-border-radius:125px;-moz-border-radius:125px;border-radius:125px;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-menu li:after{content:" ";position:absolute;left:0;right:0;top:0;height:1px}.ca-menu li:last-child{margin-right:0px}.ca-menu li a{text-align:left;width:100%;height:100%;display:block;color:#333;position:relative;-moz-box-shadow:0px 0px 3px #000;-webkit-box-shadow:0px 0px 3px #000;box-shadow:0px 0px 3px #000}.ca-icon{font-family:'Open Sans',cursive;font-size:20px;color:#0cc2fd;;line-height:30px;position:absolute;width:100%;height:60px;left:0px;top:54px;text-align:center;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-main{font-size:14px;position:absolute;top:110px;height:80px;width:170px;left:50%;margin-left:-85px;opacity:0.8;text-align:center}.ca-sub{text-align:center;color:#000;font-size:12px;position:absolute;height:80px;width:170px;left:50%;margin-left:-85px;top:110px;opacity:0;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-menu li:hover{background:#0cc2fd;border-color:#f7f7f7;-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);box-shadow:0 45px 60px -50px #000}.ca-menu li:hover .ca-icon{color:#FFF;font-size:20px}.ca-menu li:hover .ca-main{display:none}.ca-menu li:hover .ca-sub{opacity:0.8}</style>
 <link rel="icon" type="image/png" href="favicon.png" />
@@ -460,19 +460,19 @@ based on <span itemprop="reviewCount">55</span> user ratings
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 <div class="phone">
 <h5>Phone:</h5>
-<span itemprop="telephone"><a href="tel:+91-7795572832">+91-7795572832</a></span>,<br>
-<span itemprop="telephone"><a href="tel:+91-7899908051">+91-7899908051</a></span>
+<span itemprop="telephone"><a href="tel:+91-9535881835">+91-9535881835</a></span>
+
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yora.xyz">info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-<span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="streetAddress">CHURCH, #50, SGR COLLEGE ROAD, MUNNEKOLALA, Chelekere Ext Rd,</span>
+<span itemprop="addressLocality">MARATHOMA, Marathahalli,</span
+<span itemprop="addressRegion">Bengaluru, Karnataka</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>

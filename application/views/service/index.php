@@ -367,10 +367,10 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-<span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="streetAddress">CHURCH, #50, SGR COLLEGE ROAD, MUNNEKOLALA, Chelekere Ext Rd,</span>
+<span itemprop="addressLocality">MARATHOMA, Marathahalli,</span
+<span itemprop="addressRegion">Bengaluru, Karnataka</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>  

@@ -6,7 +6,7 @@
 <meta name="keywords" content="Portal Development Services India, Website Portal Development Services USA, Enterprise Portal Development Services, Web Portals Development Singapore, Portal Development Company Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="Yora Techonologies"/>
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
 <link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment" />
@@ -314,10 +314,10 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-<span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="streetAddress">CHURCH, #50, SGR COLLEGE ROAD, MUNNEKOLALA, Chelekere Ext Rd,</span>
+<span itemprop="addressLocality">MARATHOMA, Marathahalli,</span
+<span itemprop="addressRegion">Bengaluru, Karnataka</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>  

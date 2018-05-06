@@ -43,7 +43,7 @@
                             <h5>Address:</h5>
                             <span itemprop="streetAddress">YORA TECH </span>
                             <span itemprop="addressLocality">Marathalli</span>
-                            <span itemprop="addressRegion">Karnataka, Bengaluru</span>
+                            <span itemprop="addressRegion">Bengaluru, Karnataka</span>
                             <span itemprop="postalCode">560037</span>
                         </div>
                     </div>

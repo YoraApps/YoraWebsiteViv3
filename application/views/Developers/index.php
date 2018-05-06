@@ -6,7 +6,7 @@
 <meta name="keywords" content="Web Developers in Bangalore | Inspiring Developers Guide" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="Yora Techonologies"/>
 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
 	 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/header_style.css" />
 <link rel="icon" type="image/png" href="http://www.yora.xyz/CodeIgniter/assets/favicon.png" />

@@ -354,19 +354,19 @@ based on <span itemprop="reviewCount">55</span> user ratings
           <div class="contact_info" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
 <div class="phone">
 <h5>Phone:</h5>
-<span itemprop="telephone"><a href="tel:+91-7795572832">+91-7795572832</a></span>,<br>
-<span itemprop="telephone"><a href="tel:+91-7899908051">+91-7899908051</a></span>
+<span itemprop="telephone"><a href="tel:+91-9535881835">+91-9535881835</a></span>
+
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yora.xyz">info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-<span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="streetAddress">CHURCH, #50, SGR COLLEGE ROAD, MUNNEKOLALA, Chelekere Ext Rd,</span>
+<span itemprop="addressLocality">MARATHOMA, Marathahalli,</span
+<span itemprop="addressRegion">Bengaluru, Karnataka</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>

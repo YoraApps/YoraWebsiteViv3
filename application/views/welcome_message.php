@@ -11138,7 +11138,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <span itemprop="streetAddress">YORA TECH </span>
                                     <span itemprop="addressLocality">#50,SGR COLLEGE ROAD</span>
                                     <span itemprop="addressLocality1">MUNNEKOLALA,  MARATHAHALLI EXTN, NEAR ST MARATHOMA CHURCH</span>
-                                    <span itemprop="addressRegion">Karnataka, Bengaluru</span>
+                                    <span itemprop="addressRegion">Bengaluru, Karnataka</span>
                                     <span itemprop="postalCode">560037</span>
                                 </div>
                             </div>
