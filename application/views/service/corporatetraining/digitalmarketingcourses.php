@@ -30,7 +30,7 @@ a{text-align:left;width:100%;height:100%;display:block;color:#333;position:relat
     <ul class="nav pull-right">
         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
-               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">service</a>
+               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
                 <li class="dropdown-submenu">
                     <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>

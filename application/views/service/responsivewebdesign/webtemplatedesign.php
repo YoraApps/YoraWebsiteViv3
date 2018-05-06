@@ -43,7 +43,7 @@ img{margin:25px
     <ul class="nav pull-right">
         <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
-               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">service</a>
+               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
                 <li class="dropdown-submenu">
                     <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>
