@@ -7,25 +7,28 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
-<link rel="icon" type="image/png" href="https://www.vivantatechnologies.com/favicon.png" />
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
+	 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/header_style.css" />
+<link rel="icon" type="image/png" href="http://www.yora.xyz/CodeIgniter/assets/favicon.png" />
 <script type="text/javascript" src="../assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/developers/" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/developers" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/developers" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/developers" />
 <style type="text/css">.blog{margin-top:30px;width:562px;margin-right:50px}.blog-post{margin-bottom:30px}.blog-post p{line-height:24px;margin-bottom:10px}.blog-post img{background:#fff;padding:5px;border:1px solid #eee;margin-bottom:5px}.post-contant{position:relative;padding-left:55px;float:left;padding-bottom:12px;-webkit-transition:all .5s ease-out;-moz-transition:all .5s ease-out;-o-transition:all .5s ease-out;-ms-transition:all .5s ease-out;transition:all .5s ease-out}.blog-post:hover .post-contant{background:#00a0db;color:#fff;cursor:pointer}.blog-post:hover .post-contant h3{color:#fff}.post-contant h3{float:left;text-transform:uppercase}.post-contant p{width:85%;float:left;clear:both}.blog-post{float:left}.post-info{background:#f6f6f7;float:left;padding:10px 0;width:100%}.post-info span{font-style:italic;margin-left:10px}.post-info a{font-style:italic;color:#686969}.post-info a span.icon-comment{font-style:normal;color:#00a0db;margin-left:3px}.post-info a.post-read{float:right;font-style:normal;color:#00a0db;margin-right:10px}.post-contant .comment{left:-80px;position:relative}.recent-blog{float:left}.recent-blog .post{float:left;position:relative}.comment-cout{float:left;text-align:center;background-color:#00a0db;width:58px;height:58px;margin-top:30px;position:absolute;z-index:10;border-radius:50%}.comment-cout h5,.comment-cout h6{color:#fff;margin:0}.comment-cout h6{line-height:10px}.comment-cout .date{font-size:20px;font-weight:800;margin-top:10px}.comment-cout .month{font-size:10px}.recent-blog .containt{float:left;margin-left:25px;padding:20px 10px 20px 50px;position:relative;z-index:8;-webkit-transition:all .5s ease-out;-moz-transition:all .5s ease-out;-o-transition:all .5s ease-out;-ms-transition:all .5s ease-out;transition:all .5s ease-out}.recent-blog .containt a.read{position:absolute;right:0;bottom:10px;display:none}.recent-blog .containt:hover{background:#00a0db;color:#fff}.recent-blog .containt:hover h4, .post-contant h3 a:hover{color:#fff}.recent-blog .containt:hover a.read{display:block}</style>
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
   <div class="navbar navbar-static-top">
     <div class="navbar-inner">
+
+	<div class="floating-box"><img src="http://www.yora.xyz/CodeIgniter/assets/images/yoralogo.jpg" /></div>
       <div class="container">
+	  
         <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <a class="brand" href="https://www.vivantatechnologies.com/"><img src="https://www.vivantatechnologies.com/assets/images/vivanta-technologies-logo.png" alt="Web Development Company Bangalore" title="Digital Marketing Company" width="253" height="101"/></a>
-    <div class="nav-collapse">
+            <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
-               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">service</a>
+               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
                 <li class="dropdown-submenu">
                     <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>
@@ -126,7 +129,7 @@
         <li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/developers">Developers</a> </li>
-        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/career" class="dropdown-toggle">Careers</a> </li>
+        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/careers" class="dropdown-toggle">Careers</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li>
     </ul>
 </div>
@@ -151,7 +154,7 @@
     </div>
   </div>
   <div class="row-fluid topSpace digital-images">
-     <img src="https://www.vivantatechnologies.com/assets/images/developers.jpg" alt="Web Developers in Bangalore" title="Web Developers in Bangalore" width="1920" height="450"/>
+     <img src="../../../assets/images/developers.jpg" alt="Web Developers in Bangalore" title="Web Developers in Bangalore" width="1920" height="450"/>
      </div>
   <div class="container topSpace digital-images">
     <div class="row-fluid topSpace">
@@ -1065,7 +1068,7 @@
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid">
@@ -1101,24 +1104,24 @@ based on <span itemprop="reviewCount">55</span> user ratings
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 <div class="phone">
 <h5>Phone:</h5>
-<span itemprop="telephone"><a href="tel:+91-7795572832">+91-7795572832</a></span>,<br>
-<span itemprop="telephone"><a href="tel:+91-7899908051">+91-7899908051</a></span>
+<span itemprop="telephone"><a href="tel:+91-9535881835">+91-9535881835</a></span>
+
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-<span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="streetAddress">CHURCH, #50, SGR COLLEGE ROAD, MUNNEKOLALA, Chelekere Ext Rd,</span>
+<span itemprop="addressLocality">MARATHOMA, Marathahalli,</span>
+<span itemprop="addressRegion">Bengaluru, Karnataka</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>
           <div class="span12 topMargin">
-            <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+            <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodIgniter/contact-us">Yora Technologies</a> | <a href="http://www.yora.xyz/CodIgniter/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
               <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
               <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>

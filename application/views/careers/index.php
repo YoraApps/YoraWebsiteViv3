@@ -68,7 +68,7 @@
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                                   <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
@@ -171,7 +171,7 @@
         <li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/developers">Developers</a> </li>
-        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/career" class="dropdown-toggle">Careers</a> </li>
+        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/careers" class="dropdown-toggle">Careers</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li>
     </ul>
 </div>
@@ -452,7 +452,7 @@
                     <span itemprop="bestRating">/ 5</span>
                     based on <span itemprop="reviewCount">55</span> user ratings
                 </div>
-                <p><a href="https://www.yora.xyz/CodeIgniter">Web development company in Bangalore</a></p>
+                <p><a href="http://www.yora.xyz/CodeIgniter">Web development company in Bangalore</a></p>
                 <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
             </div>  <div class="footNotes">
                 <div class="container">

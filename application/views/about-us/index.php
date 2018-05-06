@@ -181,7 +181,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
         
           <div class="span12">
           <div class="span6">
-            <p class="pull-left"> © 2018 Yora Technologies: <a title="Web development company" href="https://www.yora.xyz/CodeIgniter/">Web development company</a></p>
+            <p class="pull-left"> © 2018 Yora Technologies: <a title="Web development company" href="http://www.yora.xyz/CodeIgniter/">Web development company</a></p>
           </div>
             <div class="span6 pull-right">
             <ul class="socialIcons">

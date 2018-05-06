@@ -23,9 +23,9 @@ a.toggle_trigger span{float:right;font-size:20px;color:#00a0db}a.toggle_trigger{
         <a class="brand" href="./"><img src="https://www.vivantatechnologies.com/assets/images/vivanta-technologies-logo.png" alt="Web Development Company" title="Web Development Company" width="253" height="101"/></a>
    <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
-               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">service</a>
+               <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
                 <li class="dropdown-submenu">
                     <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>
@@ -126,7 +126,7 @@ a.toggle_trigger span{float:right;font-size:20px;color:#00a0db}a.toggle_trigger{
         <li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/developers">Developers</a> </li>
-        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/career" class="dropdown-toggle">Careers</a> </li>
+        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/careers" class="dropdown-toggle">Careers</a> </li>
         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li>
     </ul>
 </div>

@@ -28,9 +28,9 @@
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                         <div class="nav-collapse">
                     <ul class="nav pull-right">
-                        <li><a href="https://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+                        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
                         <li class=" dropdown">
-                                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">service</a>
+                                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
                             <ul class="dropdown-menu">
                                 <li class="dropdown-submenu">
                                     <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a>
@@ -131,7 +131,7 @@
                         <li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a> </li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/developers">Developers</a> </li>
-                        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/career" class="dropdown-toggle">Careers</a> </li>
+                        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/careers" class="dropdown-toggle">Careers</a> </li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact</a> </li>
                     </ul>
             </div>
