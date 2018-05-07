@@ -11,9 +11,9 @@
 <link rel="stylesheet" type="text/css" href="assets/css/flexslider.css"/>
 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
 <link rel="icon" type="image/png" href="favicon.png" />
-<script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/web-application-development" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/web-application-development" />
+<script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/web-application-development" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/web-application-development" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">

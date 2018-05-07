@@ -13,9 +13,9 @@
 .mappcontainer{background:#00a0d7 !important; padding:30px 0;}.mappcontainer h2{font-weight:100 !important; text-align:center; font-size:42px; color:#FFF; padding:20px 0;}.mappcontainer p{color:#FFF;}.btn{color:#fff;background:#00a0d7; border:1px solid #FFF; margin:20px 0; }
 </style>
 <link rel="icon" type="image/png" href="favicon.png" />
-<script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/mobile-apps-development" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/mobile-apps-development" />
+<script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/mobile-apps-development" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/mobile-apps-development" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">

@@ -13,9 +13,9 @@
 .mappcontainer{background:#00a0d7 !important;padding:30px 0}.mappcontainer h2,.title-tes h2{font-weight:100 !important;text-align:center;font-size:42px;color:#FFF;padding:30px 0}.mappcontainer p,.page-cli p{color:#FFF;font-size:19px;}.btn{color:#fff;background:#00a0d7;border:1px solid #FFF;margin:20px 0}.testimonials-slider{margin:0 auto 0;color:#aaa;text-align:center}.mappcontainer a{color:#FFF}.testimonials-slider .bxslider li p{margin:10px 0;font-size:24px;line-height:1.2}.testimonials-slider .bxslider li img{width:150px;height:150px;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;margin:20px auto 0}.testimonials-slider .bxslider li span.name{display:block;font-size:20px;color:#fff}#client-wrap{position:relative;z-index:20}.page-cli{background:url(assets/images/bg-cli.jpg) fixed;background-size:cover !important;padding-bottom:64px}
 </style>
 <link rel="icon" type="image/png" href="favicon.png" />
-<script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/android-apps-development" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/android-apps-development" />
+<script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/android-apps-development" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/android-apps-development" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">

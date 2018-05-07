@@ -10,9 +10,9 @@
 <meta name="Author" content="Yora Techonologies"/>
 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
 <link rel="icon" type="image/png" href="favicon.png" />
-<script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/digital-marketing-courses" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/digital-marketing-courses" />
+<script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/digital-marketing-courses" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/digital-marketing-courses" />
 <style type="text/css">
 .mbs{margin-bottom:15px !important}.ca-menu{margin:0 auto;width:100%;text-align:center}.ca-menu
 li{width:220px;height:220px;border:10px solid #f6f6f6;overflow:hidden;position:relative;display:inline-block;background:#fff;margin-left:-48px;-webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 2px rgba(0,0,0,0.2);box-shadow:1px 1px 2px rgba(0,0,0,0.2);-webkit-border-radius:125px;-moz-border-radius:125px;border-radius:125px;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-menu li:last-child{margin-right:0px}.ca-menu li

@@ -10,9 +10,9 @@
 <meta name="Author" content="Yora Techonologies"/>
 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
 <link rel="icon" type="image/png" href="favicon.png" />
-<script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/content-writing" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/content-writing" />
+<script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/content-writing" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/content-writing" />
 <style type="text/css">.blog-post{margin-bottom:30px}.blog-post p{line-height:24px;margin:10px}.blog-post p a{color:#000; font-weight:700}.post-contant{position:relative;padding-left:55px;float:left;padding-bottom:12px;-webkit-transition:all 0.5s ease-out;-moz-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;-ms-transition:all 0.5s ease-out;transition:all 0.5s ease-out}.blog-post:hover .post-contant{background:#00A0DB;color:#fff;cursor:pointer}.blog-post a:hover{color:#FFF}.post-contant p{width:85%;float:left;clear:both}.blog-post{float:left}.post-contant
 .comment{left:-80px;position:relative}.comment-cout{float:left;text-align:center;background-color:#00a0db;width:58px;height:58px;margin-top:30px;position:absolute;z-index:10;border-radius:50%}.comment-cout
 .date,.date a{font-size:20px;font-weight:800;margin-top:18px;color:#FFF}@media screen and (max-width: 768px){.cr-container

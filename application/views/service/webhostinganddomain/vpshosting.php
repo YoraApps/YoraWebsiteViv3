@@ -8,8 +8,8 @@
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926">
 <link rel="icon" type="image/png" href="favicon.png">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1523554879111/recaptcha__en.js"></script><script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/vps-hosting">
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/vps-hosting">
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/vps-hosting">
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/vps-hosting">
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage" style="zoom: 1;">
 <div id="boxedWrapper">

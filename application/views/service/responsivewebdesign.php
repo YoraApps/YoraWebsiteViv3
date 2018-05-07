@@ -10,7 +10,7 @@
 <meta name="Author" content="Yora Techonologies"/>
 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
 <link rel="icon" type="image/png" href="favicon.png" />
-<script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
+<script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
 <style type="text/css">.blog-post
 p{line-height:24px;margin:10px}.post-contant{position:relative;padding-left:55px;float:left;padding-bottom:12px;-webkit-transition:all 0.5s ease-out;-moz-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;-ms-transition:all 0.5s ease-out;transition:all 0.5s ease-out}.blog-post:hover .post-contant{background:#00A0DB;color:#fff;cursor:pointer}.blog-post:hover a{color:#000}.post-contant p{width:85%;float:left;clear:both}.blog-post{float:left}.post-contant
 .comment{left:-80px;position:relative}.comment-cout{float:left;text-align:center;background-color:#00a0db;width:58px;height:58px;margin-top:30px;position:absolute;z-index:10;border-radius:50%}.comment-cout
@@ -18,8 +18,8 @@ p{line-height:24px;margin:10px}.post-contant{position:relative;padding-left:55px
 input{display:inline;width:24%;margin-top:350px;z-index:1000;position:relative}.cr-container
 label{display:none}} .ca-menu{padding:0;margin:0 auto}.ca-menu li{width:230px;height:230px;border:10px
 solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-block;margin-right:4px;-webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 2px rgba(0,0,0,0.2);box-shadow:1px 1px 2px rgba(0,0,0,0.2);-webkit-border-radius:125px;-moz-border-radius:125px;border-radius:125px;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-menu li:after{content:" ";position:absolute;left:0;right:0;top:0;height:1px}.ca-menu li:last-child{margin-right:0px}.ca-menu li a{text-align:left;width:100%;height:100%;display:block;color:#333;position:relative;-moz-box-shadow:0px 0px 3px #000;-webkit-box-shadow:0px 0px 3px #000;box-shadow:0px 0px 3px #000}.ca-icon{font-family:'Open Sans',cursive;font-size:20px;color:#0cc2fd;;line-height:30px;position:absolute;width:100%;height:60px;left:0px;top:54px;text-align:center;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-main{font-size:14px;position:absolute;top:110px;height:80px;width:170px;left:50%;margin-left:-85px;opacity:0.8;text-align:center}.ca-sub{text-align:center;color:#000;font-size:12px;position:absolute;height:80px;width:170px;left:50%;margin-left:-85px;top:110px;opacity:0;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-menu li:hover{background:#0cc2fd;border-color:#f7f7f7;-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);box-shadow:0 45px 60px -50px #000}.ca-menu li:hover .ca-icon{color:#FFF;font-size:20px}.ca-menu li:hover .ca-main{display:none}.ca-menu li:hover .ca-sub{opacity:0.8}</style>
-<link rel="canonical" href="https://www.vivantatechnologies.com/responsive-web-design" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/responsive-web-design" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/responsive-web-design" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/responsive-web-design" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">

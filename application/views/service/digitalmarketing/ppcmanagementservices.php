@@ -10,13 +10,13 @@
 <meta name="Author" content="Yora Techonologies"/>
 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css" />
 <link rel="icon" type="image/png" href="favicon.png" />
-<script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
+<script defer type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/modernizr-2.6.1.min.js"></script>
 <style type="text/css">
 .statsWrap{width:200px;margin:10px;float:left}.stats{display:inline-block;position:relative;width:100%;transition:all 0.3s ease-in-out 0s;-moz-transition:all 0.3s ease-in-out 0s;-ms-transition:all 0.3s ease-in-out 0s;-webkit-transition:all 0.3s ease-in-out 0s;-o-transition:all 0.3s ease-in-out 0s;-webkit-user-select:none}.statDummy{margin-top:100%}.statInfo{position:absolute;top:0;bottom:0;left:0;right:0;background-color:#0cc2fd;border-radius:50%;text-align:center}.statNumber{font-size:40px;transition:all 0.5s ease-in-out 0s;-moz-transition:all 0.5s ease-in-out 0s;-ms-transition:all 0.5s ease-in-out 0s;-webkit-transition:all 0.5s ease-in-out 0s;-o-transition:all 0.5s ease-in-out 0s;padding-top:86px;margin-bottom:0;color:#FFF;font-family:"Open Sans",Helvetica,Arial,sans-serif}.statNumberMedium{font-size:50px;transition:all 0.5s ease-in-out 0s;-moz-transition:all 0.5s ease-in-out 0s;-ms-transition:all 0.5s ease-in-out 0s;-webkit-transition:all 0.5s ease-in-out 0s;-o-transition:all 0.5s ease-in-out 0s;padding-top:30px;margin-bottom:0}.statNumberSmall{font-size:36px;transition:all 0.5s ease-in-out 0s;padding-top:38px;margin-bottom:0}.statText{transition:all 0.5s ease-in-out 0s;-moz-transition:all 0.5s ease-in-out 0s;-ms-transition:all 0.5s ease-in-out 0s;-webkit-transition:all 0.5s ease-in-out 0s;-o-transition:all 0.5s ease-in-out 0s;opacity:0;transform:scale(0);-moz-transform:scale(0);-ms-transform:scale(0);-webkit-transform:scale(0);-o-transform:scale(0);padding:0;margin-top:05px;color:#FFF;font-size:18px}.stats:hover{transform:scale(1.3);-moz-transform:scale(1.3);-ms-transform:scale(1.3);-webkit-transform:scale(1.3);-o-transform:scale(1.3);z-index:10}.stats:hover
 .statNumber{transform:scale(.6);-moz-transform:scale(.6);-ms-transform:scale(.6);-webkit-transform:scale(.6);-o-transform:scale(.6)}.stats:hover
 .statText{transform:scale(.6);-moz-transform:scale(.6);-ms-transform:scale(.6);-webkit-transform:scale(.6);-o-transform:scale(.6);opacity:1}</style>
-<link rel="canonical" href="https://www.vivantatechnologies.com/ppc-management-services" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/ppc-management-services" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/ppc-management-services" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/ppc-management-services" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
