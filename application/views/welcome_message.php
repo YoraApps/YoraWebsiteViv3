@@ -10828,96 +10828,30 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
             <div class="row-fluid topSpace digital-images">
-                <div class="flexslider flexLinear">
+                <div class="">
                     <ul class="slides">
                         <li>
                         <div class="row-fluid">
 <div class="span3">
-<div class="easyBox flat doCenter"><img src="https://www.vivantatechnologies.com/assets/images/johari-shop-logo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/johari-shop-logo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="easyBox flat doCenter"><img src="../../assets/images/edutracklogo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="../../assets/images/edutracklogo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
 <div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-<a href="javascript:void(0)" class="btn-link btn-block">Johari Shop</a> <span class="halflings tag metaText">Web Development, Web Design</span> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">EduTrack Admissions</a> <span class="halflings tag metaText">Web Development, Web Design</span> </div>
 </div>
 <div class="span3">
-<div class="easyBox flat doCenter"> <img src="https://www.vivantatechnologies.com/assets/images/decorpot-logo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/decorpot-logo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="easyBox flat doCenter"> <img src="../../assets/images/dmaxlogo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="../../assets/images/dmaxlogo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
 <div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-<a href="javascript:void(0)" class="btn-link btn-block">Decorpot, Bangalore</a> <span class="halflings tag metaText"> Web Development </span> </div>
-</div>
-
-<div class="span3">
-<div class="easyBox flat doCenter"> <img src="https://www.vivantatechnologies.com/assets/images/ms-logo.png" alt="ms" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/ms-logo.png" alt="ms" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
-<div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-<a href="javascript:void(0)" class="btn-link btn-block">Metric Stream, Bangalore</a> <span class="halflings tag metaText">Web Development, Web Design</span> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">D Max</a> <span class="halflings tag metaText"> Web Development </span> </div>
 </div>
 <div class="span3">
-<div class="easyBox flat doCenter"><img src="https://www.vivantatechnologies.com/assets/images/ipr-arena.png" alt="IPRARENA" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/ipr-arena.png" alt="IPRARENA" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="easyBox flat doCenter"><img src="../../assets/images/edutracklogo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="../../assets/images/edutracklogo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
 <div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-<a href="javascript:void(0)" class="btn-link btn-block">IPRARENA, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">EduTrack Admissions</a> <span class="halflings tag metaText">Web Development, Web Design</span> </div>
 </div>
+<div class="span3">
+<div class="easyBox flat doCenter"> <img src="../../assets/images/dmaxlogo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="../../assets/images/dmaxlogo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">D Max</a> <span class="halflings tag metaText"> Web Development </span> </div>
 </div>
-                        </li>
-                        <li>
-                            <div class="row-fluid">
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/meratransport.png" alt="meratransport" title="meratransport" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Mera Transport, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/enigma-cg-logo.jpg" alt="enigma-cg" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Enigma CG, Bangalore</a> <span class="halflings tag metaText"> Web Design </span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/cashsutra-logo.png" alt="CashSutra" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">CashSutra, Bangalore</a> <span class="halflings tag metaText"> Web Development </span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/iampl-logo.png" alt="The International Aerospace Manufacturing, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">IAMPL, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="row-fluid">
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/sefee-logo.png" alt="Sefee" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Sefee India, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/fincare.png" alt="Fincare, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Fincare, Bangalore</a> <span class="halflings tag metaText"> Web Design </span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/globe-moving-logo.png" alt="Globe Moving, Bangalore" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Globe Moving, Bangalore</a> <span class="halflings tag metaText"> Web Design </span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/desijodi-logo.png" alt="Desi Jodi" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Desijodi</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
-                                    </div>
-                                </div>
-                            </div>
                         </li>
                     </ul>
                 </div>
