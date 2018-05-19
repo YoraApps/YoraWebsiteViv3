@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -155,23 +156,23 @@
     </div>
   </div>
   <div class="row-fluid topSpace digital-images">
-     <img src="https://www.vivantatechnologies.com/assets/images/vivanta-technologies-mobile-apps-development.png" alt="mobile apps development" title="Mobile Apps Development" width="1920" height="450"/>
+     <img src="../../assets/images/vivanta-technologies-mobile-apps-development.png" alt="mobile apps development" title="Mobile Apps Development" width="1920" height="450"/>
      </div>
   <div class="container">
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Mobile Application Development</h2>
-        <p>You just cannot do without Vivanta Technologies when it comes to mobile apps development. This Bangalore based company is literally serving as a one stop shop for every kind of mobile application that you need to develop.  Smartphones have changed the concept of staying connected in a way that few could ever imagine even ten years ago. It is virtually acting as your computer that you can carry easily. Trust Vivanta Technologies to grasp this reality and reinvent while working with the best mobile application development company in Bangalore. It would, therefore, be wise to approach the company, if you want to develop various tech apps connected with your smartphone today.</p>
-        <p>Sure, you can talk, communicate, listen to music, shop, play, and stay informed at the same time in today's world. The only thing you require is to download the app that satisfies your need. Check out the expertise of Vivanta Technologies that has dedicated teams for iOS, Android, and Blackberry. Apart from working on the requisite codes and framework, the teams are well adept at handling Flash, Unity3D, Carona, and Cocos2D that are necessary for developing various apps and/or games playable on your mobile phone.</p>
+        <p>You just cannot do without Yora Technologies when it comes to mobile apps development. This Bangalore based company is literally serving as a one stop shop for every kind of mobile application that you need to develop.  Smartphones have changed the concept of staying connected in a way that few could ever imagine even ten years ago. It is virtually acting as your computer that you can carry easily. Trust Yora Technologies to grasp this reality and reinvent while working with the best mobile application development company in Bangalore. It would, therefore, be wise to approach the company, if you want to develop various tech apps connected with your smartphone today.</p>
+        <p>Sure, you can talk, communicate, listen to music, shop, play, and stay informed at the same time in today's world. The only thing you require is to download the app that satisfies your need. Check out the expertise of Yora Technologies that has dedicated teams for iOS, Android, and Blackberry. Apart from working on the requisite codes and framework, the teams are well adept at handling Flash, Unity3D, Carona, and Cocos2D that are necessary for developing various apps and/or games playable on your mobile phone.</p>
 <br>
 <h2 class="twoLines">Our multiple platforms includes:</h2>
 <ul class="normal dot">	<li><a href="https://www.vivantatechnologies.com/android-apps-development">Android apps development</a>.</li>
 <li><a href="https://www.vivantatechnologies.com/iphone-apps-development">iPhone apps development</a>.</li>
 <li>Windows apps development.</li>
 </ul>
-        <p>You are certain to come back to this particular iPhone mobile apps development company in Bangalore once you get to assess the quality of its apps. Right from laying emphasis on functionality, Vivanta Technologies is equally concerned about the support it provides as well as the proper rollout of the app.</p>
+        <p>You are certain to come back to this particular iPhone mobile apps development company in Bangalore once you get to assess the quality of its apps. Right from laying emphasis on functionality, Yora Technologies is equally concerned about the support it provides as well as the proper rollout of the app.</p>
         <p>While the use of Android is more common place at present when it comes to iPhones, this Bangalore based company does not ignore Windows at all and has currently emerged as the forefront Windows mobile apps development company in Bangalore too. Utility apps like Mobile Anti-virus and GPS along with plug-ins, task managers &amp; image editors developed by the company are bound to attract you with their seamless connectivity as well as Bluetooth support.</p>
-<p>The Android phones are not ignored either. With Vivanta Technologies offering its valued clients high quality apps that are customized for you according to need, it is little wonder that it is known as the most excellent and high quality Android mobile apps development company in Bangalore. From health, to design, and music apps for Android, there is no possible application that the company can fail to deliver for your smartphone. </p>
+<p>The Android phones are not ignored either. With Yora Technologies offering its valued clients high quality apps that are customized for you according to need, it is little wonder that it is known as the most excellent and high quality Android mobile apps development company in Bangalore. From health, to design, and music apps for Android, there is no possible application that the company can fail to deliver for your smartphone. </p>
       </div>
       <div class="span4">
               <h3 class="twoLines">Request a Quote</h3>

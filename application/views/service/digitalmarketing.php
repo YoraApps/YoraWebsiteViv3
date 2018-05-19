@@ -137,17 +137,17 @@
       <h1 class="big pull-left">The Ideal Digital Marketing Team - Company, Bangalore</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/digital-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Digital Marketing</span></a>
 <meta itemprop="position" content="3" />
 </li>
@@ -167,7 +167,7 @@
    
      <div class="row-fluid topSpace digital-images">
      <div class="span12 easyBox doCenter">
-     <img src="https://www.vivantatechnologies.com/assets/images/digital-marketing-company-bangalore.jpg" alt="Digital Marketing Company Bangalore" title="Digital Marketing Company Bangalore" width="1920" height="450"/>
+     <img src="../../assets/images/digital-marketing-company-bangalore.jpg" alt="Digital Marketing Company Bangalore" title="Digital Marketing Company Bangalore" width="1920" height="450"/>
      </div>
      </div>
 <div class="container">     
@@ -314,8 +314,8 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/index.php/contactus/">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid">
