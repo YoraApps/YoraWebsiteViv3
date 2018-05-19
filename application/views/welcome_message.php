@@ -10718,8 +10718,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
             </div>
             <div class="vivc">
-                <div class="viv-text">CLOUD, WEB, MOBILE, BRANDING &amp; <br> DIGITAL MARKETING</div>
-                <div class="years">5 YEARS IN DIGITAL WORLD</div>
+                <div class="viv-text">YORA TECHNOLOGIES (OPC) PVT LTD <br/></div>
+                <div class="years">SIMPLIFING IN DIGITAL WORLD</div>
                 <div class="years years2">GET IN TOUCH, WE MIGHT JUST BE A GOOD FIT</div>
                 <div class="years3">CLOUD . WEB . MOBILE . DEVELOPMENT . DIGITAL MARKETING</div>
                 <div class="cta">
