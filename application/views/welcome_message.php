@@ -588,7 +588,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         #particles-js {
             width: 100%;
             height: 100%;
-            background-color: #29bbf2;
+            background-color: #000000;
             background-image: url('');
             background-size: cover;
             background-position: 50% 50%;
