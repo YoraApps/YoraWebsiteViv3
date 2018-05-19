@@ -39,6 +39,8 @@
                 padding-left: 105px;
                 min-height: 90px;
                 margin-bottom: 30px;
+                margin-top: -25px;
+                width: 200px;
             }
 
         .custsuccess {
@@ -1186,7 +1188,7 @@
                                     <h5>Mail:</h5>
                                     <span itemprop="email"><a title="Mail to info@yora.xyz" href="mailto:info@yora.com">info@yora.com</a> </span>
                                 </div>
-                                <div class="address">
+                                <div class="adress">
                                     <h5>Address: </h5>
                                     <span itemprop="streetAddress">YORA TECHNOLOGIES (OPC) PVT. LTD.</span>
                                     <span itemprop="addressLocality">#50,SGR COLLEGE ROAD</span>
