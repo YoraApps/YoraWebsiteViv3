@@ -10831,37 +10831,29 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="flexslider flexLinear">
                     <ul class="slides">
                         <li>
-                            <div class="row-fluid">
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/johari-shop-logo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Johari Shop</a> <span class="halflings tag metaText">Web Development, Web Design</span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/decorpot-logo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Decorpot, Bangalore</a> <span class="halflings tag metaText"> Web Development </span>
-                                    </div>
-                                </div>
+                        <div class="row-fluid">
+<div class="span3">
+<div class="easyBox flat doCenter"><img src="https://www.vivantatechnologies.com/assets/images/johari-shop-logo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/johari-shop-logo.png" alt="johari shop" title="johari shop" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">Johari Shop</a> <span class="halflings tag metaText">Web Development, Web Design</span> </div>
+</div>
+<div class="span3">
+<div class="easyBox flat doCenter"> <img src="https://www.vivantatechnologies.com/assets/images/decorpot-logo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/decorpot-logo.png" alt="Decorpot" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">Decorpot, Bangalore</a> <span class="halflings tag metaText"> Web Development </span> </div>
+</div>
 
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/ms-logo.png" alt="ms" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">Metric Stream, Bangalore</a> <span class="halflings tag metaText">Web Development, Web Design</span>
-                                    </div>
-                                </div>
-                                <div class="span3">
-                                    <div class="easyBox flat doCenter">
-                                        <img src="http://www.yora.xyz/CodeIgniter/assets/images/ipr-arena.png" alt="IPRARENA" class="contentoverlay img-responsive" width="218" height="159">
-                                        <div class="contenthover"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
-                                        <a href="javascript:void(0)" class="btn-link btn-block">IPRARENA, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span>
-                                    </div>
-                                </div>
-                            </div>
+<div class="span3">
+<div class="easyBox flat doCenter"> <img src="https://www.vivantatechnologies.com/assets/images/ms-logo.png" alt="ms" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/ms-logo.png" alt="ms" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">Metric Stream, Bangalore</a> <span class="halflings tag metaText">Web Development, Web Design</span> </div>
+</div>
+<div class="span3">
+<div class="easyBox flat doCenter"><img src="https://www.vivantatechnologies.com/assets/images/ipr-arena.png" alt="IPRARENA" class="contentoverlay img-responsive" width="218" height="159" style="display: none;"><div class="ch_element ch_wrapper" style="width: 218px; height: 159px; position: relative; overflow: hidden;"><div class="ch_normal" style="width: 218px; height: 159px; position: absolute; z-index: 2;"><img src="https://www.vivantatechnologies.com/assets/images/ipr-arena.png" alt="IPRARENA" class="contentoverlay img-responsive" width="218" height="159" style="display: block;"></div><div class="ch_hover" style="width: 218px; height: 159px; position: absolute; z-index: 3; opacity: 0.6; left: 0px; top: 0px; display: none;"><div class="contenthover" style="display: block;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div></div></div>
+<div class="contenthover" style="display: none;"> <a href="javascript:void(0)"><span class="halflings plus"></span></a> </div>
+<a href="javascript:void(0)" class="btn-link btn-block">IPRARENA, Bangalore</a> <span class="halflings tag metaText"> Web Development, Web Design </span> </div>
+</div>
+</div>
                         </li>
                         <li>
                             <div class="row-fluid">
