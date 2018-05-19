@@ -167,7 +167,7 @@
    
      <div class="row-fluid topSpace digital-images">
      <div class="span12 easyBox doCenter">
-     <img src="assets/images/digital-marketing-company-bangalore.jpg" alt="Digital Marketing Company Bangalore" title="Digital Marketing Company Bangalore" width="1920" height="450"/>
+     <img src="../../assets/images/digital-marketing-company-bangalore.jpg" alt="Digital Marketing Company Bangalore" title="Digital Marketing Company Bangalore" width="1920" height="450"/>
      </div>
      </div>
 <div class="container">     
