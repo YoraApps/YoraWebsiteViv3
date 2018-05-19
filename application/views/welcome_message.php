@@ -977,7 +977,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         }
 
         img {
-            max-width: 100%;
+            max-width: 99%;
             width: auto \9;
             height: auto;
             vertical-align: middle;
