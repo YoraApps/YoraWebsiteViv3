@@ -23,7 +23,7 @@
     <div id="boxedWrapper">
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
-			<div class="floating-box"><img src="http://www.yora.xyz/CodeIgniter/assets/images/yoralogo.jpg" /></div>
+            <div class="floating-box"><img src="assets/images/yoralogo.jpg" /></div>
                 <div class="container">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                         <div class="nav-collapse">
