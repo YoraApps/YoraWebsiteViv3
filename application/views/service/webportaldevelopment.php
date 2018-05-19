@@ -138,17 +138,17 @@ a.toggle_trigger span{float:right;font-size:20px;color:#00a0db}a.toggle_trigger{
       <h1 class="big pull-left">Best Specialized Web Portal Development Company in Bangalore</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-portal-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment">
 <span itemprop="name">Web Portal Development</span></a>
 <meta itemprop="position" content="3" />
 </li>
@@ -162,42 +162,42 @@ a.toggle_trigger span{float:right;font-size:20px;color:#00a0db}a.toggle_trigger{
     <div class="toggle-panel">
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Real Estate Portal Development</a>
     <div class="toggle_container">
-    <h2 class="twoLines"><a href="https://www.vivantatechnologies.com/real-estate-portal">Real Estate Portals Development Company</a></h2>
+    <h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/realestateportal">Real Estate Portals Development Company</a></h2>
 <p>Vivanta Technologies is a complete Real Estate Web Portal Development company, creating a static and dynamic website with unique features. We develop applications prioritizing the needs of buyers, sellers and real estate agents.</p>
     </div>
 
     <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Web Application Development</a>
     <div class="toggle_container">
-    <h2 class="twoLines"><a href="https://www.vivantatechnologies.com/web-application-development">Web Application Development Company</a></h2>
+    <h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webapplicationdevelopment">Web Application Development Company</a></h2>
 <p>Vivanta Technologies provide a wide range of solutions of designing, developing, deploying and implementing all the features and web applications  for your website. Our aim is to benefit your business needs for enterprise portal development services.</p>
     </div>
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; B2B &amp; B2C e-Commerce Portal Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/b2b-and-b2c-e-commerce-portal">B2B &amp; B2C e-Commerce Portals Development</a></h2>    
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/b2bandb2cecommerceportal">B2B &amp; B2C e-Commerce Portals Development</a></h2>    
         <p>Creating a complete business to business and business to consumer e-Commerce portal for users to navigate easily with effective and advanced features. <br> Flexible for online shopping and store to trade robustly and securely.</p>
     </div>
 
  <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Travel Portals Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/travel-portal-development">Travel Portal Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/travelportaldevelopment">Travel Portal Development Company</a></h2>
 <p>Our company offers a wide range of Travel Portals Development services with exclusive designs and patterns suitable for all travel needs. A website yields your business growth in the Travel industry in attracting visitors across the globe.</p>
     </div> 
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Payment Gateway Integration</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/payment-gateway-integration">Payment Gateway Integration Company</a></h2><p>We develop portals using a Payment Gateway Integration for processing of online transactions and payments.<br> Our team of expertise integrates payment gateways through an API (Application Programming Integration).</p>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/paymentgatewayintegration">Payment Gateway Integration Company</a></h2><p>We develop portals using a Payment Gateway Integration for processing of online transactions and payments.<br> Our team of expertise integrates payment gateways through an API (Application Programming Integration).</p>
     </div>  
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Classifieds Portals Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/classifieds-portal-development">Classifieds Portal Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/classifiedsportaldevelopment">Classifieds Portal Development Company</a></h2>
 <p>Vivanta Technologies provides an excellent service in developing Classifieds Web Portals to post various classified ads by owners and users. We develop a user-friendly portal and easy functionality by providing the list of categories.</p>
     </div>
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; MVC Architecture Portals Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/mvc-architecture">MVC Architecture Portal Development</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mvcarchitecture">MVC Architecture Portal Development</a></h2>
 <p>Model View Controller (MVC) architecture is a design pattern which allows to add powerful new features to existing applications with good MVC separation. <br> Our expert team uses the MVC model to create effective websites.</p>
     </div>            
 
@@ -208,13 +208,13 @@ a.toggle_trigger span{float:right;font-size:20px;color:#00a0db}a.toggle_trigger{
     <div class="span6">
       <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; News Portals Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/news-portal-development">News Portal Development Company</a></h2>    
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/newsportaldevelopmen">News Portal Development Company</a></h2>    
         <p>Jobs Portal is a very important tool for employers, consultants, and job seekers to locate jobs in local and international job search markets. Our renowned web technology company provides exclusive websites for jobs with user-friendly features.</p>
     </div>
 
  <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Job Portals Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/job-portal-development">Job Portal Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/jobportaldevelopmentt">Job Portal Development Company</a></h2>
 <p>Jobs Portal is a very important tool for employers, consultants, and job seekers to locate jobs in local and international job search markets. Our renowned web technology company provides exclusive websites for jobs with user-friendly features.</p>
     </div>
 
@@ -222,31 +222,31 @@ a.toggle_trigger span{float:right;font-size:20px;color:#00a0db}a.toggle_trigger{
 
  <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Education Portals Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/education-portal-development">Education Portal Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/educationportaldevelopment">Education Portal Development Company</a></h2>
 <p>Education Portal is a process of online e-learning portal to aspiring students wishing to opt for various online education courses. Vivanta Technologies provides a sequence of solution for educational websites to impart knowledge globally.</p>
     </div> 
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; PhoneGap Apps Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/phonegap-apps-development">PhoneGap Apps Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/phonegapappsdevelopment">PhoneGap Apps Development Company</a></h2>
 <p>PhoneGap Apps Development creates a compelling mobile apps by expert programmers. It gives you a native of mobile application across multiple mobile device platforms which brings advanced and excellent features.</p>
     </div>  
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Yellowpages Portals Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/yellow-pages-portal-development">Yellowpages Portal Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/yellowpagesportaldevelopment">Yellowpages Portal Development Company</a></h2>
 <p>We provide seamless services in creating a Yellowpages Web Portals with accurate search results for your entire business posting lists.<br> We are specialized in creating customized portals with <br> search engine options.</p>
     </div>
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Mobile Websites Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/mobile-website-development">Mobile Websites Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobilewebsitedevelopment">Mobile Websites Development Company</a></h2>
 <p>Vivanta Technologies provides solutions for Mobile Website Development applications for the entire range of Smartphones such as Android mobiles, blackberry apps,  iPhones, Windows phones, and many more with user-friendly features.</p>
     </div>   
 
 <a href="#" class="toggle_trigger"><strong>+</strong> &nbsp; Content Management System Development</a>
     <div class="toggle_container">
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/content-management-system">Content Management Development Company</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmanagementsystem">Content Management Development Company</a></h2>
 <p>Vivanta Technologies provides Content Management (CMS) source which allows to manage, publish and modify content on a website. CMS provides a better functionality with elements of web content, component content and enterprise content.</p>
     </div>                          
 
@@ -255,10 +255,10 @@ a.toggle_trigger span{float:right;font-size:20px;color:#00a0db}a.toggle_trigger{
     </div>    
 <div class="topMargin">
 <h2 class="twoLines">Web Portal Development Company in Bangalore</h2>    
-<p>Vivanta Technologies - A Web Portal Development company in Bangalore involves in creating a wide range websites, using supported platforms and tools, which is widespread for the public to use many open source systems in crafting websites. The role of the developer is embellished with an excellent quality approach, aiming to reflect your business objectives to attract customers worldwide. </p>
+<p>Yora Technologies - A Web Portal Development company in Bangalore involves in creating a wide range websites, using supported platforms and tools, which is widespread for the public to use many open source systems in crafting websites. The role of the developer is embellished with an excellent quality approach, aiming to reflect your business objectives to attract customers worldwide. </p>
 <p>In redefining your business, we provide effective Website designs, using advanced and key features of web portal development company tools. We have a professional team, having a strong knowledge in programming languages which are used in many domains.</p>
 <p>Our team of developers is dedicated and energetic Web Technologies prowess, professionally savvy and expert in building enterprise portal development services.</p>
-<p>Vivanta Technologies is a complete Web Portal Development company in Bangalore, to create a static and dynamic websites with unique features. We provide the best portals to cater the needs of our esteem clients matching their specifications.</p>
+<p>Yora Technologies is a complete Web Portal Development company in Bangalore, to create a static and dynamic websites with unique features. We provide the best portals to cater the needs of our esteem clients matching their specifications.</p>
 <p>Focussing on the strategies of project guidelines in executing finest websites. We have a sound knowledge on various Web Technologies, a professional driven  expertise team in using software applications and supported platforms.</p></div>
   </div>
 
