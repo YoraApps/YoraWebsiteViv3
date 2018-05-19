@@ -588,7 +588,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         #particles-js {
             width: 100%;
             height: 100%;
-            background-color: #29bbf2;
+            background-color: #000000;
             background-image: url('');
             background-size: cover;
             background-position: 50% 50%;
@@ -10678,7 +10678,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/windowshosting">Windows Hosting</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/vpshosting">VPS Hosting</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/dedicatedservers">Dedicated Servers</a></li>
-               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/domainregistraion">Domain Registration</a></li>
+               <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/domainregistration">Domain Registration</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/namesuggestiontool">Name Suggestion Tool</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/sslcertificates">SSL Certificates</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/whoislookup">Whois Lookup</a></li>
@@ -10723,7 +10723,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="years years2">GET IN TOUCH, WE MIGHT JUST BE A GOOD FIT</div>
                 <div class="years3">CLOUD . WEB . MOBILE . DEVELOPMENT . DIGITAL MARKETING</div>
                 <div class="cta">
-                    <a href="http://www.yora.xyz/CodeIgniter/contact" class="btn btn-warning cta-btn">Contact Us</a>
+                    <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-warning cta-btn">Contact Us</a>
                 </div>
             </div>
         </div>

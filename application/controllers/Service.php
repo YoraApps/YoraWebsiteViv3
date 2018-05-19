@@ -22,7 +22,7 @@
       public function webhostinganddomain() {
         $this->load->view('service/webhostinganddomain');
       }
-      public function webservices() {
+      public function webservice() {
         $this->load->view('service/webservice');
       }
       public function corporatetraining() {
@@ -64,8 +64,8 @@
       public function   socialmediamarketing() {
         $this->load->view('service/digitalmarketing/socialmediamarketing');
       }
-      public function   realestateportaldevelopment() {
-        $this->load->view('service/webportaldevelopment/realestateportaldevelopment');
+      public function   realestateportal() {
+        $this->load->view('service/webportaldevelopment/realestateportal');
       }
       public function   mobilewebsitedevelopment() {
         $this->load->view('service/webportaldevelopment/mobilewebsitedevelopment');
@@ -73,8 +73,8 @@
       public function   webapplicationdevelopment() {
         $this->load->view('service/webportaldevelopment/webapplicationdevelopment');
       }
-      public function   b2bb2cecommerceportal() {
-        $this->load->view('service/webportaldevelopment/b2bb2cecommerceportal');
+      public function   b2bandb2cecommerceportal() {
+        $this->load->view('service/webportaldevelopment/b2bandb2cecommerceportal');
       }
       public function   contentmanagementsystem() {
         $this->load->view('service/webportaldevelopment/contentmanagementsystem');
@@ -135,8 +135,8 @@
       public function   seocontentwriting() {
         $this->load->view('service/contentwriting/seocontentwriting');
       }
-      public function   airtclewriting() {
-        $this->load->view('service/contentwriting/airtclewriting');
+      public function   articlewriting() {
+        $this->load->view('service/contentwriting/articlewriting');
       }
       public function   blogposting() {
         $this->load->view('service/contentwriting/blogposting');
@@ -147,8 +147,8 @@
       public function   websitecopywriting() {
         $this->load->view('service/contentwriting/websitecopywriting');
       }
-      public function   prereleasewriting() {
-        $this->load->view('service/contentwriting/prereleasewriting');
+      public function   pressreleasewriting() {
+        $this->load->view('service/contentwriting/pressreleasewriting');
       }
 
       public function   windowshosting() {
@@ -178,11 +178,11 @@
       public function   emailhosting() {
         $this->load->view('service/webhostinganddomain/emailhosting');
       }
-      public function   restfulwebservices() {
-        $this->load->view('service/webservice/restfulwebservices');
+      public function   restfulservice() {
+        $this->load->view('service/webservice/restfulservice');
       }
-      public function   apiservicesprovider() {
-        $this->load->view('service/webservice/apiservicesprovider');
+      public function   apiserviceprovider() {
+        $this->load->view('service/webservice/apiserviceprovider');
       }
       public function   digitalmarketingcourses() {
         $this->load->view('service/corporatetraining/digitalmarketingcourses');

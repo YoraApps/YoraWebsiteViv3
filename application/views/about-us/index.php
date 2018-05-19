@@ -170,7 +170,11 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <span itemprop="email"><a title="Mail to info@yora.xyz" href="mailto:info@yora.com">info@yora.com</a> </span>
 </div>
 <div class="address">
+<<<<<<< HEAD
                                     <h5>Address: </h5>
+=======
+                                    <h5>Address:</h5>
+>>>>>>> e07978c1b0e0d3be4f2aed8ce65dd469e1c967dc
                                     <span itemprop="streetAddress">YORA TECHNOLOGIES (OPC) PVT. LTD.</span>
                                     <span itemprop="addressLocality">#50,SGR COLLEGE ROAD</span>
                                     <span itemprop="addressLocality1">MUNNEKOLALA,  MARATHAHALLI EXTN, </span>
