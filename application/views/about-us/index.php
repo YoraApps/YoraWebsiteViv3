@@ -127,55 +127,57 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="https://www.yora.xyz/">Web development company in Bangalore</a></p>
+<a href="https://www.yora.xyz/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid">
         <div class="span3">
-          <h4 class="brand"><span>V</span>ivanta Technologies</h4>
+          <h4 class="brand"><span>Y</span>ora Technologies</h4>
           <ul class="normal dot">
-          <li><a title="About us" href="https://www.vivantatechnologies.com/about-us">About us</a></li>
-          <li><a title="Why Yora Technologies" href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Yora Technologies</a></li>
-          <li><a title="What we do" href="https://www.vivantatechnologies.com/what-we-do">What we do</a></li>
-          <li><a title="Portfolio" href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
-          <li><a title="Careers" href="https://www.vivantatechnologies.com/careers">Careers</a></li>
-          <li><a title="Contact Us" href="https://www.vivantatechnologies.com/contact-us">Contact Us</a></li>
-          <li><a title="Services" href="https://www.vivantatechnologies.com/services">Services</a></li>
-          <li><a title="Sitemap" href="https://www.vivantatechnologies.com/sitemap">Sitemap</a></li>
+          <li><a title="About us" href="http://www.yora.xyz/CodeIgniter/index.php/Aboutus">About us</a></li>
+          <li><a title="Why Yora Technologies" href="http://www.yora.xyz/CodeIgniter/index.php/WhyYora">Why Yora Technologies</a></li>
+          <li><a title="What we do" href="http://www.yora.xyz/CodeIgniter/index.php/WhatWeDo">What we do</a></li>
+          <li><a title="Portfolio" href="http://www.yora.xyz/CodeIgniter/index.php/portfolio" class="dropdown-toggle">Portfolio</a></li>
+          <li><a title="Careers" href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a></li>
+          <li><a title="Contact Us" href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a></li>
+          <li><a title="Services" href="http://www.yora.xyz/CodeIgniter/index.php/Service">Services</a></li>
+          <li><a title="Sitemap" href="http://www.yora.xyz/CodeIgniter/index.php/sitemap">Sitemap</a></li>
           </ul>
         </div>
         <div class="span3">
-          <h4 class="brand"><a title="Web Portal Development" href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a title="Responsive Web Designing" href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-           <h4 class="brand"><a title="Web Hosting and Domain" href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting and Domain</a></h4>
-           <h4 class="brand"><a title="Web Services" href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
-           <h4 class="brand"><a title="Domain Registration" href="https://www.vivantatechnologies.com/domain-registraion"><span>Domain</span> Registration</a></h4>
+          <h4 class="brand"><a title="Web Portal Development" href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a title="Responsive Web Designing" href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+           <h4 class="brand"><a title="Web Hosting and Domain" href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting and Domain</a></h4>
+           <h4 class="brand"><a title="Web Services" href="http://www.yora.xyz/CodeIgniter/index.php/service/webservices"><span>Web</span> Services</a></h4>
+           <h4 class="brand"><a title="Domain Registration" href="http://www.yora.xyz/CodeIgniter/index.php/service/domainregistraion"><span>Domain</span> Registration</a></h4>
         </div>
         <div class="span3">
-          <h4 class="brand"><a title="Digital Marketing Company" href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a title="Mobile Apps Development" href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-           <h4 class="brand"><a title="Content Writing" href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a title="Corporate Training" href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a title="Digital Marketing Company" href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a title="Mobile Apps Development" href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+           <h4 class="brand"><a title="Content Writing" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a title="Corporate Training" href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
         </div>
                 <div class="span3">
           <div class="contact_info" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
 <div class="phone">
 <h5>Phone:</h5>
-<span itemprop="telephone"><a title="Call +91-7795572832" href="tel:+91-7795572832">+91-7795572832</a></span>,<br>
-<span itemprop="telephone"><a title="Call +91-7899908051" href="tel:+91-7899908051">+91-7899908051</a></span>
+<span itemprop="telephone"><a title="Call +91-9535881835" href="tel:+91-9535881835">+91-9535881835</a></span>,<br>
+<!-- <span itemprop="telephone"><a title="Call +91-7899908051" href="tel:+91-7899908051">+91-7899908051</a></span> -->
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a title="Mail to info@vivantatechnologies.com" href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a title="Mail to info@yora.xyz" href="mailto:info@yora.com">info@yora.com</a> </span>
 </div>
-<div class="adress">
-<h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
-<span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
-</div>
+<div class="address">
+                                    <h5>Address:</h5>
+                                    <span itemprop="streetAddress">YORA TECHNOLOGIES (OPC) PVT. LTD.</span>
+                                    <span itemprop="addressLocality">#50,SGR COLLEGE ROAD</span>
+                                    <span itemprop="addressLocality1">MUNNEKOLALA,  MARATHAHALLI EXTN, </span>
+                                    <span itemprop="addressLocality1">NEAR ST MARATHOMA CHURCH</span>
+                                    <span itemprop="addressRegion">KARNATAKA, BENGALURU</span>
+                                    <span itemprop="postalCode">560037</span>
+                                </div>
 </div>
         </div>  
         
