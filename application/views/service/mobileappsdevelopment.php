@@ -137,18 +137,19 @@
 </div>
     </div>
   </div>
+  
   <div class="container"> </div>
   <div class="titleBox">
     <div class="container">
       <h1 class="big pull-left">Mobile Apps Development Company Bangalore</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/mobile-apps-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment">
 <span itemprop="name">Mobile Application Development</span></a>
 <meta itemprop="position" content="2" />
 </li>
@@ -166,8 +167,8 @@
         <p>Sure, you can talk, communicate, listen to music, shop, play, and stay informed at the same time in today's world. The only thing you require is to download the app that satisfies your need. Check out the expertise of Yora Technologies that has dedicated teams for iOS, Android, and Blackberry. Apart from working on the requisite codes and framework, the teams are well adept at handling Flash, Unity3D, Carona, and Cocos2D that are necessary for developing various apps and/or games playable on your mobile phone.</p>
 <br>
 <h2 class="twoLines">Our multiple platforms includes:</h2>
-<ul class="normal dot">	<li><a href="https://www.vivantatechnologies.com/android-apps-development">Android apps development</a>.</li>
-<li><a href="https://www.vivantatechnologies.com/iphone-apps-development">iPhone apps development</a>.</li>
+<ul class="normal dot">	<li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/androidappsdevelopment">Android apps development</a>.</li>
+<li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/iphoneappsdevelopment">iPhone apps development</a>.</li>
 <li>Windows apps development.</li>
 </ul>
         <p>You are certain to come back to this particular iPhone mobile apps development company in Bangalore once you get to assess the quality of its apps. Right from laying emphasis on functionality, Yora Technologies is equally concerned about the support it provides as well as the proper rollout of the app.</p>
@@ -423,13 +424,13 @@
 <div class="row-fluid topSpace mappcontainer doCenter"> 
 <h2>Get your Own Mobile App today!</h2> 
 <p>Best Mobile Apps development company in Bangalore</p>
-<a class="clear btn" title="Contact Us" href="https://www.vivantatechnologies.com/contact-us">Contact Us</a>
+<a class="clear btn" title="Contact Us" href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a>
 </div>  
 <div class="container">
     <div class="row-fluid topSpace">
       <div class="span12">
-<p>It is time to turn to your iPad after you have satisfied yourself with all the mobile apps that you are keen on.  It is indeed a tall order to find the very best iPad application development company in Bangalore. But not when you have Vivanta Technologies at your service. It is capable of developing a variety of apps for you with a no-fuss rollout. The best part, of course, is its polished and sophisticated designs that are perfectly attuned to the iOS features. The native apps customized specifically for your iPad comes with cutting edge technology thus enabling you to connect with your target audience successfully.</p>  
-<p>Some of the other services we provide are <a href="https://www.vivantatechnologies.com/web-hosting-and-domain">web hosting</a> solutions, <a href="https://www.vivantatechnologies.com/social-media-optimization">SMO</a>, <a href="https://www.vivantatechnologies.com/email-marketing">bulk email marketing</a>, <a href="https://www.vivantatechnologies.com/sms-marketing">bulk sms marketing</a>, <a href="https://www.vivantatechnologies.com/company-logo-graphics-design">logo designing</a>, <a href="https://www.vivantatechnologies.com/blog-design">blog designing</a>, <a href="https://www.vivantatechnologies.com/">web development</a>, and <a href="https://www.vivantatechnologies.com/digital-marketing">digital marketing</a>.</p>
+<p>It is time to turn to your iPad after you have satisfied yourself with all the mobile apps that you are keen on.  It is indeed a tall order to find the very best iPad application development company in Bangalore. But not when you have Yora Technologies at your service. It is capable of developing a variety of apps for you with a no-fuss rollout. The best part, of course, is its polished and sophisticated designs that are perfectly attuned to the iOS features. The native apps customized specifically for your iPad comes with cutting edge technology thus enabling you to connect with your target audience successfully.</p>  
+<p>Some of the other services we provide are <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">web hosting</a> solutions, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/socialmediaoptimization">SMO</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/emailmarketing">bulk email marketing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/smsmarketing">bulk sms marketing</a>, <a href="">logo designing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/blogdesign">blog designing</a>, <a href="https://www.vivantatechnologies.com/">web development</a>, and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">digital marketing</a>.</p>
 </div></div></div>
   
   <div id="footer">
@@ -440,8 +441,8 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
