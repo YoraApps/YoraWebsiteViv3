@@ -139,22 +139,22 @@
       <h1 class="big pull-left">Consistent Quality SEO Content writing that resonates with Search Engines </h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="https://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="https://www.Yora.xyz/services">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/content-writing">
+<a itemprop="item" href="https://www.Yora.xyz/content-writing">
 <span itemprop="name">Content Writing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/seo-content-writing">
+<a itemprop="item" href="https://www.Yora.xyz/seo-content-writing">
 <span itemprop="name">SEO Content Writing</span></a>
 <meta itemprop="position" content="4" />
 </li>
