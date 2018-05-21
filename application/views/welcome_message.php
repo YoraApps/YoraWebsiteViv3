@@ -11031,22 +11031,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <li><a title="Portfolio" href="http://www.yora.xyz/CodeIgniter/portfolio" class="dropdown-toggle">Portfolio</a></li>
                                 <li><a title="Careers" href="http://www.yora.xyz/CodeIgniter/careers">Careers</a></li>
                                 <li><a title="Contact Us" href="http://www.yora.xyz/CodeIgniter/contact">Contact Us</a></li>
-                                <li><a title="Services" href="http://www.yora.xyz/CodeIgniter/service">Services</a></li>
+                                <li><a title="Services" href="http://www.yora.xyz/CodeIgniter/index.php/service">Services</a></li>
                                 <li><a title="Sitemap" href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a></li>
                             </ul>
                         </div>
                         <div class="span3">
-                            <h4 class="brand"><a title="Web Portal Development" href="http://www.yora.xyz/CodeIgniter/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
-                            <h4 class="brand"><a title="Responsive Web Designing" href="http://www.yora.xyz/CodeIgniter/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
-                            <h4 class="brand"><a title="Web Hosting and Domain" href="http://www.yora.xyz/CodeIgniter/webhostinganddomain"><span>Web</span> Hosting and Domain</a></h4>
-                            <h4 class="brand"><a title="Web Services" href="http://www.yora.xyz/CodeIgniter/webservices"><span>Web</span> Services</a></h4>
-                            <h4 class="brand"><a title="Domain Registration" href="http://www.yora.xyz/CodeIgniter/domainregistraion"><span>Domain</span> Registration</a></h4>
+                            <h4 class="brand"><a title="Web Portal Development" href="http://www.yora.xyz/CodeIgniter/index.php/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+                            <h4 class="brand"><a title="Responsive Web Designing" href="http://www.yora.xyz/CodeIgniter/index.php/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+                            <h4 class="brand"><a title="Web Hosting and Domain" href="http://www.yora.xyz/CodeIgniter/index.php/webhostinganddomain"><span>Web</span> Hosting and Domain</a></h4>
+                            <h4 class="brand"><a title="Web Services" href="http://www.yora.xyz/CodeIgniter/index.php/webservices"><span>Web</span> Services</a></h4>
+                            <h4 class="brand"><a title="Domain Registration" href="http://www.yora.xyz/CodeIgniter/index.php/domainregistraion"><span>Domain</span> Registration</a></h4>
                         </div>
                         <div class="span3">
-                            <h4 class="brand"><a title="Digital Marketing Company" href="http://www.yora.xyz/CodeIgniter/digitalmarketing"><span>Digital</span> Marketing</a></h4>
-                            <h4 class="brand"><a title="Mobile Apps Development" href="http://www.yora.xyz/CodeIgniter/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
-                            <h4 class="brand"><a title="Content Writing" href="http://www.yora.xyz/CodeIgniter/contentwriting"><span>Content</span> Writing</a></h4>
-                            <h4 class="brand"><a title="Corporate Training" href="http://www.yora.xyz/CodeIgniter/corporatetraining"><span>Corporate</span> Training</a></h4>
+                            <h4 class="brand"><a title="Digital Marketing Company" href="http://www.yora.xyz/CodeIgniter/index.php/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+                            <h4 class="brand"><a title="Mobile Apps Development" href="http://www.yora.xyz/CodeIgniter/index.php/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+                            <h4 class="brand"><a title="Content Writing" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+                            <h4 class="brand"><a title="Corporate Training" href="http://www.yora.xyz/CodeIgniter/index.php/corporatetraining"><span>Corporate</span> Training</a></h4>
                         </div>
                         <div class="span3">
                             <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">

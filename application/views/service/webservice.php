@@ -3,16 +3,16 @@
 <html lang="en">
 <head>
 <title>Open Standard Web Services | Web Service Provider Company</title>
-<meta name="description" content="Vivanta Technologies, a professional web service provider company in Bangalore, India. We offers XML Web Services, Restful Web Services, API Web Services." />
+<meta name="description" content="Yora Technologies, a professional web service provider company in Bangalore, India. We offers XML Web Services, Restful Web Services, API Web Services." />
 <meta name="keywords" content="Web Service, Web Service Provider, Web Service Providers India, Web Service Providers UK, Web Service Provider Canada, Web Service Provider Company" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/index.php/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/web-services" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/web-services" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -138,17 +138,17 @@
       <h1 class="big pull-left">Open Standard : Ultimate purpose of Exchanging Data with Clients</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="https://www.yora.xyz">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="https://http://www.yora.xyz/CodeIgniter/index.php/services">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice">
 <span itemprop="name">Web Services</span></a>
 <meta itemprop="position" content="3" />
 </li>
@@ -160,7 +160,7 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Web Services</h2>
-        <p>Vivanta Technologies is a leading professionals which render its business operations in Web Service providers in integrated two applications using programming interface.</p>
+        <p>Yora Technologies is a leading professionals which render its business operations in Web Service providers in integrated two applications using programming interface.</p>
 <p>Web Services is a software function with provides <strong>open standard based web applications</strong> (XML, SOAP, WSDL and UDDI) interact with other website applications for the ultimate purpose of exchanging data across a network using standard internet protocols like <strong>HyperText Transfer Protocol (HTTP)</strong> and <strong>eXtensible Markup Language (XML)</strong>. In simple terms, it is a technology which allows data to be transmitted across the Internet by using the mechanism of programming method. It is designed to support interoperable machine-to-machine interaction over a network.</p>
 <br>
 <h3 class="twoLines">Our Features:</h3>
@@ -172,14 +172,14 @@
 <ul class="normal dot">	<li>Interoperability (connect different applications).</li>
 <li>Standard protocols for communication.</li>
 <li>Publish a message to the rest of the world.</li>
-<li>High <a href="https://www.vivantatechnologies.com/why-vivanta-technologies">Return on Investment (ROI)</a>.</li>
+<li>High <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/why-yora-technologies">Return on Investment (ROI)</a>.</li>
 </ul>
 <p>Our professional team of Web Service providers creates an application which is based on components to interact using a set of standard protocols which integrates applications to different systems. It is very much widespread in enterprise business industries and organizations.</p>
 
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/restful-services">RESTful Services</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/restful-services">RESTful Services</a></h2>
 <p><strong>Representational State Transfer (REST)</strong> web services are designed to build for distributed systems such as World Wide Web. It has emerged as a predominant Web API design model which has adopted by mainstream web services.</p>
 <br>
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/api-services-provider">API Services</a></h2>
+<h2 class="twoLines"><a href=http://www.yora.xyz/CodeIgniter/index.php/service/webservice/api-services-provider">API Services</a></h2>
 <p>Vivanta Technologies is an API development service provider, a Web API service to integrate between separate components. The API allows programmers to user functions to interact with the operating system. APIs has multiple features and benefits in the world of web.</p>
 </div>
       <div class="span4">
@@ -436,39 +436,39 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="hhttp://www.yora.xyz/CodeIgniter/index.php/service/webservice">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid">
         <div class="span3">
-          <h4 class="brand"><span>V</span>ivanta Technologies</h4>
+          <h4 class="brand"><span>V</span>Yora Technologies</h4>
           <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/about-us">About us</a></li>
-          <li><a href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Vivanta Technologies</a></li>
-          <li><a href="https://www.vivantatechnologies.com/what-we-do">What we do</a></li>
-          <li><a href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/about-us">About us</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/why-Yora-technologies">Why Yora Technologies</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/what-we-do">What we do</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/portfolio" class="dropdown-toggle">Portfolio</a></li>
           <li><a href="javascript:void(0);">Labs</a></li>
           <li><a href="javascript:void(0);">Testimonials</a></li>
           <li><a href="javascript:void(0);">Gallery</a></li>
           </ul>
         </div>
         <div class="span3">
-        <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+        <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice"><span>Web</span> Services</a></h4>
           <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/restful-services">RESTful Services</a></li>
-          <li><a href="https://www.vivantatechnologies.com/api-services-provider">API Services Provider</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/restful-services">RESTful Services</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/api-services-provider">API Services Provider</a></li>
           </ul>
         </div>
         <div class="span3">
         <h4 class="brand"><span>Quick</span>Links</h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/domain-registraion"><span>Domain</span> Registration</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/web-hosting-and-domain"><span>Web</span> Hosting</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/domain-registraion"><span>Domain</span> Registration</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/content-writing"><span>Content</span> Writing</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/corporate-training"><span>Corporate</span> Training</a></h4>
         </div>
         <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -491,12 +491,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
           <div class="span12 topMargin">
-            <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+            <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+              <li><a href="https://www.facebook.com/Yoratechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
               <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+              <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
+              <li><a href="http://www.linkedin.com/company/Yora-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
           </div>
@@ -509,7 +509,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/index.php/service/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">

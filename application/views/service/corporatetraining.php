@@ -2,17 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Corporate Training Courses Bangalore | Vivanta Technologies</title>
-<meta name="description" content="Vivanta Technologies, provides excellent training programs for students in the Web Development Training, Web Design Training, SEO Training and CMS Training." />
+<title>Corporate Training Courses Bangalore | Yora Technologies</title>
+<meta name="description" content="Yora Technologies, provides excellent training programs for students in the Web Development Training, Web Design Training, SEO Training and CMS Training." />
 <meta name="keywords" content="SEO Training Bangalore, Web Development Training Bangalore, PHP Training Bangalore, Web Design Training, Corporate Training Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/corporate-training" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/corporate-training" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/corporate-training" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/corporate-training" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -139,17 +139,17 @@
       <h1 class="big pull-left">Exceptional Training Services, Corporate Training Segment</h1>
 <ul class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/services">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/corporate-training">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining">
 <span itemprop="name">Corporate Training Services</span></a>
 <meta itemprop="position" content="3" />
 </li>
@@ -160,8 +160,8 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Corporate Training Services</h2>
-        <p>Vivanta Technologies, a Web Engineering firm in Bangalore, houses many corporate training programs for aspiring students and fresh graduates. We are tailored in providing quality and professional training which is outlined to analyze, design and execute the concepts of creating <a href="https://www.vivantatechnologies.com/responsive-web-design">responsive Web Designing</a> &amp; <a href="https://www.vivantatechnologies.com/">Web Development</a> modules, <a href="https://www.vivantatechnologies.com/digital-marketing-courses">Digital Marketing courses</a> and Internship program. </p>
-        <p>Vivanta Technologies is a perfect place stop to accelerate on a career path in sharpening your knowledge as well as skills to explore in the world of internet technology. </p>
+        <p>Yora Technologies, a Web Engineering firm in Bangalore, houses many corporate training programs for aspiring students and fresh graduates. We are tailored in providing quality and professional training which is outlined to analyze, design and execute the concepts of creating <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/responsive-web-design">responsive Web Designing</a> &amp; <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining">Web Development</a> modules, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/digital-marketing-courses">Digital Marketing courses</a> and Internship program. </p>
+        <p>Yora Technologies is a perfect place stop to accelerate on a career path in sharpening your knowledge as well as skills to explore in the world of internet technology. </p>
         <p>We are the only corporate training company which provides Real Time Live Projects using IEEE standards for trainees. Vivanta Technologies conjointly offers active exposure in academic live projects for final year students.</p>
 <!--         <div class="row-fluid topSpace digital-images">
      <div class="span12 easyBox doCenter">
@@ -423,38 +423,38 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid">
         <div class="span3">
           <h4 class="brand"><span>V</span>ivanta Technologies</h4>
           <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/about-us">About us</a></li>
-          <li><a href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Vivanta Technologies</a></li>
-          <li><a href="https://www.vivantatechnologies.com/what-we-do">What we do</a></li>
-          <li><a href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/about-us">About us</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/why-vivanta-technologies">Why Vivanta Technologies</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/what-we-do">What we do</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/portfolio" class="dropdown-toggle">Portfolio</a></li>
           <li><a href="javascript:void(0);">Labs</a></li>
           <li><a href="javascript:void(0);">Testimonials</a></li>
           <li><a href="javascript:void(0);">Gallery</a></li>
           </ul>
         </div>
         <div class="span3">
-         <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+         <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/corporate-training"><span>Corporate</span> Training</a></h4>
           <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/digital-marketing-courses">Digital Marketing Courses</a></li>
+          <li><a href=http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/digital-marketing-courses">Digital Marketing Courses</a></li>
           </ul>
         </div>
         <div class="span3">
         <h4 class="brand"><span>Quick</span>Links</h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/domain-registraion"><span>Domain</span> Registration</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/web-hosting-and-domain"><span>Web</span> Hosting</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/web-services"><span>Web</span> Services</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/content-writing"><span>Content</span> Writing</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/domain-registraion"><span>Domain</span> Registration</a></h4>
         </div>
         <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -477,12 +477,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
           <div class="span12 topMargin">
-            <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+            <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
               <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
               <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+              <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
+              <li><a href="http://www.linkedin.com/company/yora-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
           </div>
@@ -495,7 +495,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">

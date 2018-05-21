@@ -11,8 +11,8 @@
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/web-content-writing" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/web-content-writing" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/webcontentwriting" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/service/webcontentwriting" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -24,7 +24,7 @@
     
    <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://http://www.yora.xyz/CodeIgniter" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
@@ -88,7 +88,7 @@
                     <ul class="digital-images dropdown-menu unstyled">
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webcontentwriting">Web Content Writing</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/seocontentwriting">SEO Content Writing</a></li>
-                        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/articlewriting">Article Writing</a></li>
+                        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/Home">Article Writing</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/blogposting">Blog Posting</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/forumposting">Forum Posting</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/websitecopywriting">Website Copy Writing</a></li>
@@ -139,22 +139,22 @@
       <h1 class="big pull-left">Originally crafted contents for Search Engine Optimization experts</h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/amp/">
+<a itemprop="item" href="http://http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/amp/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/amp/content-writing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting">
 <span itemprop="name">Content Writing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/amp/web-content-writing">
+<a itemprop="item" href=http://www.yora.xyz/CodeIgniter/index.php/service/webcontentwriting>
 <span itemprop="name">Web Content Writing</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -447,7 +447,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
         <div class="span3">
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
@@ -480,7 +480,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
               <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
               <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
