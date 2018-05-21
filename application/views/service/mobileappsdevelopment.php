@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Mobile Apps Development Company Bangalore | Mobile Application</title>
+<title>Yora Apps Development Company Bangalore | Mobile Application</title>
 <meta name="description" content="We are the best mobile app development companies in Bangalore. Expert world class mobile application and enterprise mobile apps for the Smart world." />
 <meta name="keywords" content="Mobile Apps Development, Best mobile app development companies in Bangalore " />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>

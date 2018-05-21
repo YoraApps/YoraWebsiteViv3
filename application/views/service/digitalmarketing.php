@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>Digital Marketing Services | Online Marketing Company Bangalore</title>
-<meta name="description" content="Vivanta Technologies leading digital marketing company in Bangalore. We are expertise in Internet Marketing, SEO, PPC, SEM, Web Marketing Services." />
+<meta name="description" content="Yora Technologies leading digital marketing company in Bangalore. We are expertise in Internet Marketing, SEO, PPC, SEM, Web Marketing Services." />
 <meta name="keywords" content="Digital Marketing Services, Online Marketing Services, Digital Marketing Company, Web Marketing Company, SEO Services Bangalore, App Store Optimization Services" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -158,7 +158,7 @@
   <div class="row-fluid topSpace">
       <div class="span12">
         <h2 class="twoLines">DIGITAL MARKETING</h2>
-        <p> As a Digital Marketing company, Vivanta Technologies provides entire services in promotions of products and brands in the world of Internet Marketing to reach customers. We provide services of search engine optimization (SEO), search engine marketing (SEM), PPC advertising, Affiliate marketing, and many more.</p>
+        <p> As a Digital Marketing company, Yora Technologies provides entire services in promotions of products and brands in the world of Internet Marketing to reach customers. We provide services of search engine optimization (SEO), search engine marketing (SEM), PPC advertising, Affiliate marketing, and many more.</p>
         
        <p> Our expert team of Internet Marketing has created an arena in marketing products, brands, and services to increase sales and marketing.</p>
       </div>
@@ -176,12 +176,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/search-engine-optimization">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/search-engine-optimization">Search Engine Optimization (SEO)</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">Search Engine Optimization (SEO)</a></h4>
 			<p>Search Engine Optimization (SEO) is a process to increase the number of visitors and give visibility of your website or a web page by obtaining high rankings on search engine pages through natural or un-paid (organic) search results. </p>
 			</div>
 			</div>
@@ -190,12 +190,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/search-engine-marketing">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/searchenginemarketing">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/search-engine-marketing">Search Engine Marketing (SEM)</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchenginemarketing">Search Engine Marketing (SEM)</a></h4>
 			<p>Search Engine Marketing (SEM) is a strategy of Internet Marketing which focus to increase visibility of a website in search engine result pages (SERP) and Pay Per Click (PPC) listings through optimization and advertising.  </p>
 			</div>
 			</div>
@@ -204,12 +204,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/ppc-management-services">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/ppcmanagementservices">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/ppc-management-services">PPC Advertising, Google &amp; Facebook</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/ppcmanagementservices">PPC Advertising, Google &amp; Facebook</a></h4>
 			<p>Pay Per Click or PPC is an internet advertising campaign on websites, in which advertiser pays to the publisher/website owner, when the users click on specific banner or a link. PPC is an actual way of gaining traffic to generate ads.</p>
 			</div>
 			</div>
@@ -221,12 +221,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/app-store-optimization">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/appstoreoptimization">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/app-store-optimization">App Store Optimization (ASO)</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/appstoreoptimization">App Store Optimization (ASO)</a></h4>
 			<p>App Store Optimization ASO is a practice of optimizing various mobile applications in an app store searches to improve rankings and higher visibility. It involves in marketing techniques to drive more downloads for an app.</p>
 			</div>
 			</div>
@@ -235,12 +235,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/web-analytics">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/webanalytics">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/web-analytics">Web Analytics</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webanalytics">Web Analytics</a></h4>
 			<p>Web analytics is the process of measurement, collection, analysis and reporting of internet data for purposes of understanding and optimizing web usage. It is also a tool to analyze and improve effectiveness of the website.</p>
 			</div>
 			</div>
@@ -249,12 +249,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/social-media-optimization">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/socialmediaoptimization">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/social-media-optimization">Social Media Optimization (SMO)</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/socialmediaoptimization">Social Media Optimization (SMO)</a></h4>
 			<p>Social Media Option (SMO) is a process of gaining traffic through various social media sites to increase the awareness of brands, products, or services. It includes RSS feeds, social networking sites, social news, video and blog sites.</p>
 			</div>
 			</div>
@@ -266,12 +266,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/online-reputation-management">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/onlinereputationmanagementt">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/online-reputation-management">Online Reputation Management (ORM)</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/onlinereputationmanagement">Online Reputation Management (ORM)</a></h4>
 			<p>Online Reputation Management is the practice of monitoring the reputation of an individual business or a firm. It involves in re-building company's brand by tracking either negative or positive responses using SEO tactics. </p>
 			</div>
 			</div>
@@ -280,12 +280,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/affiliate-marketing">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/affiliatemarketing">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/affiliate-marketing">Affiliate Marketing</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/affiliatemarketing">Affiliate Marketing</a></h4>
 			<p>Affiliate Marketing is a marketing strategy planning in a business rewards one or more affiliates for each visitor or customer brought by affiliate markets. It is all about engaging advertiser, promoter, or customer.</p>
 			</div>
 			</div>
@@ -294,12 +294,12 @@
         <div class="service-block_2 span12">
 			
 			<div class="style">
-			<a class="stylish" href="https://www.vivantatechnologies.com/content-marketing">
+			<a class="stylish" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmarketing">
 			<span></span>
 			</a>
 			</div>
 			<div class="service-content">
-			<h4><a href="https://www.vivantatechnologies.com/content-marketing">Content Marketing</a></h4>
+			<h4><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmarketing">Content Marketing</a></h4>
 			<p>Content Marketing is a marketing technique publishes a relevant, valuable, and unique contents attract visitors and making them into a potential customer on various format.  It is driven to improve your business or organization.</p>
 			</div>
 			</div>
@@ -320,10 +320,10 @@ based on <span itemprop="reviewCount">55</span> user ratings
       <div class="container">
         <div class="row-fluid">
         <div class="span3">
-          <h4 class="brand"><span>V</span>ivanta Technologies</h4>
+          <h4 class="brand"><span>V</span>YoraTechnologies</h4>
           <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/about-us">About us</a></li>
-          <li><a href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Vivanta Technologies</a></li>
+          <li><a href="/about-us">About us</a></li>
+          <li><a href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why yora Technologies</a></li>
           <li><a href="https://www.vivantatechnologies.com/what-we-do">What we do</a></li>
           <li><a href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
           <li><a href="javascript:void(0);">Labs</a></li>
@@ -332,20 +332,20 @@ based on <span itemprop="reviewCount">55</span> user ratings
           </ul>
         </div>
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing"><span>Digital</span> Marketing</a></h4>
          <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/search-engine-optimization">Search Engine Optimization (SEO)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/search-engine-marketing">Search Engine Marketing (SEM)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/app-store-optimization">App Store Optimization (ASO)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/web-analytics">Web Analytics</a></li>
-          <li><a href="https://www.vivantatechnologies.com/ppc-management-services">PPC Advertising, Google &amp; Facebook</a></li>
-          <li><a href="https://www.vivantatechnologies.com/social-media-optimization">Social Media Optimization (SMO)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/online-reputation-management">Online Reputation Management (ORM)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/affiliate-marketing">Affiliate Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/content-marketing">Content Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/email-marketing">Email Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/sms-marketing">SMS Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/short-code-sms-service">Short Code SMS</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">Search Engine Optimization (SEO)</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchenginemarketing">Search Engine Marketing (SEM)</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/appstoreoptimization">App Store Optimization (ASO)</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webanalytics">Web Analytics</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/ppcmanagementservices">PPC Advertising, Google &amp; Facebook</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/socialmediaoptimization">Social Media Optimization (SMO)</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/onlinereputationmanagement">Online Reputation Management (ORM)</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/affiliatemarketing">Affiliate Marketing</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmarketing">Content Marketing</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/emailmarketing">Email Marketing</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/smsmarketing">SMS Marketing</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/shortcodesms">Short Code SMS</a></li>
           </ul>
         </div>
         <div class="span3">

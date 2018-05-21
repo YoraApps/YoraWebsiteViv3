@@ -1,4 +1,4 @@
-
+<span itemprop="name">Home</span>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,17 +146,17 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
       <h1 class="big pull-left">Bootstrap, Google Material Design, Responsive Web Design Company Bangalore</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/responsive-web-design">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/">
 <span itemprop="name">Responsive Web Design</span></a>
 <meta itemprop="position" content="3" />
 </li>
@@ -169,7 +169,7 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
       <div class="span8">
         <h2 class="twoLines">Responsive Web Design</h2>
         <p>Digital media marketing has widened the platform on which businesses can showcase their USPs to larger audience group. It is difficult to think of a business now without a fully functioning business website. But when it comes to designing a website, most businesses are confused about what might go into their business website. They need support of a professional web builder, who can show them the best way to promote business through online.</p>
-<p>Vivanta Technologies is a leading name in the industry of Responsive web design company in Bangalore offering an array of <a href="https://www.vivantatechnologies.com/">website development</a>, <a href="https://www.vivantatechnologies.com/b2b-and-b2c-e-commerce-portal">e-commerce</a> and <a href="https://www.vivantatechnologies.com/real-estate-portal">real estate portal development</a> solutions across industry verticals. Our team of talented, young professionals has got first-hand experience on different aspects of site development and responsive web design.</p>
+<p>Vivanta Technologies is a leading name in the industry of Responsive web design company in Bangalore offering an array of <a href="https://www.vivantatechnologies.com/">website development</a>, <a href="https://www.vivantatechnologies.com/b2b-and-b2c-e-commerce-portal">e-commerce</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign">real estate portal development</a> solutions across industry verticals. Our team of talented, young professionals has got first-hand experience on different aspects of site development and responsive web design.</p>
 <p>Websites now have become a true representation of one's business. It helps businesses to reach out to larger audience, interact with them directly, generate valid leads, and ultimately generate more revenue. But in order to achieve it, one needs professional Responsive Web Design Company.</p>
 <p>At Vivanta, we take project specific approach in executing each project, which involves forming in-depth understanding of client's business, analyzing marketplace and competition before commencing the project. We have carefully ditched the generalized approach that most responsive web design companies still follow as we understand that your business is unique and so are its requirements. We make sure that your website becomes a true extension of your business.</p>
 <p>If you have a website and don't know what to do about it, then it's perhaps the time to consider redesigning to give it a fresh start. Responsive design is what your business demands and we deliver that to you.</p><p>Our services are second to none and you can be rest assured about receiving the best Responsive Web Design solutions in the market. Our proactive approach towards projects helps us form better understanding of clients requirement and we live up to their expectation with periodic reporting.</p>
