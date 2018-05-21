@@ -8,7 +8,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/assets/css/style.css?ver=1518329926" />
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
 <link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice" />
