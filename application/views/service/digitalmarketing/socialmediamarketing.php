@@ -7,12 +7,12 @@
 <meta name="keywords" content="SMM Service Provider Bangalore, Social Media Marketing Services, SMM Services Company Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="yoratechnologies.com"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/social-media-marketing" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/social-media-marketing" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/social-media-marketing" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/social-media-marketing" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -137,24 +137,24 @@
   <div class="titleBox">
     <div class="container">
       <h1 class="big pull-left">Social Media Marketing Company Bangalore</h1>
-<ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/digital-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/digital-marketing">
 <span itemprop="name">Digital Marketing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/social-media-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/social-media-marketing">
 <span itemprop="name">Social Media Marketing Company (SMM)</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -165,13 +165,13 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Social Media Marketing (SMM)</h2>
-        <p>SMM or Social Media Marketing maybe a new term comparatively, but it is certainly gaining in importance as far as marketing or website promotion is concerned.  Originally devised for accessing additional traffic via the social media on the Internet, it has now come to influence the <a href="https://www.vivantatechnologies.com/search-engine-optimization">search engine optimization</a> greatly too. Your website requires to be SMO friendly as well and Vivanta Technologies is the right company to help you out here. It has a dedicated team of experts who offer excellent Social Media Marketing Services making it easier for you to formulate an effective strategy for tapping the maximum traffic and driving them to your website. </p><p>The Bangalore based Social Media Marketing Company can help you by letting you know how popular your website is, whether your brand is recognizable, and what you can do to improve brand awareness. The SMO strategies developed by Vivanta Technologies are both interactive and result based. They will be fully customized according to your requirement and will make use of comparative analytics along with social media audit thereby making it possible for you to take advantage of the social media to build up your website traffic. </p>
+        <p>SMM or Social Media Marketing maybe a new term comparatively, but it is certainly gaining in importance as far as marketing or website promotion is concerned.  Originally devised for accessing additional traffic via the social media on the Internet, it has now come to influence the <a href="http://www.yora.xyz/CodeIgniter/index.php/service/search-engine-optimization">search engine optimization</a> greatly too. Your website requires to be SMO friendly as well and Vivanta Technologies is the right company to help you out here. It has a dedicated team of experts who offer excellent Social Media Marketing Services making it easier for you to formulate an effective strategy for tapping the maximum traffic and driving them to your website. </p><p>The Bangalore based Social Media Marketing Company can help you by letting you know how popular your website is, whether your brand is recognizable, and what you can do to improve brand awareness. The SMO strategies developed by Vivanta Technologies are both interactive and result based. They will be fully customized according to your requirement and will make use of comparative analytics along with social media audit thereby making it possible for you to take advantage of the social media to build up your website traffic. </p>
         <h3 class="twoLines">The Social Media Marketing Services offered by Vivanta Technologies include:-</h3>
 <p>Formulating and implementing a proper SMM strategies that will help you to assess your requirement, spot the opportunities, harness the social media effectively and take certain actions that will result in a long-term success.</p>
 <p>Devising a simple guideline that will help you to engage with all the important social media is also a responsibility that this SMM Company takes on. It can create brand integrity for your product across all social media platforms and also advise you on how to communicate with each medium successfully.</p>
-<p>The Social Media Marketing Services Company also provides useful software tools for <a href="https://www.vivantatechnologies.com/social-media-optimization">SMO</a>. There are numerous tools for identifying opportunities, managing SMO, tracking your performance as well as that of your competitors, as well as assessing the results with analytics. It is the onus of the company to help you choose only a handful of tools depending on your needs and budget.</p>
-<p>Vivanta Technologies, the Social Media Marketing Company in Bangalore is fully equipped to carry out an audit across various social media websites in order to gauge your brands presence and checking the opinion of the social media users.</p><p>Setting up your own social media profiles where it matters is one of the most important areas when you want your website optimized. Managing it and leveraging the media properly in order to boost your traffic is yet another role played successfully by the Social Media Marketing Services Company.</p><p>Getting creative by using interactive badges and widgets is something that could establish your authority in the chosen field. Vivanta Technologies can do it efficiently allowing you to reap the benefits of a successful SMO strategy.</p><p>Last but certainly not the least, is the community building strategy. Identifying interested individuals/groups along with checking out your competitors without giving yourself away can be done by monitoring comments and responding to them on community boards.</p>
-<p>It is time to harness the power of the social media! Contact Vivanta Technologies, the best SMM Company in Bangalore for all your SMM needs.</p><p>For increasing competition we also provide <a href="https://www.vivantatechnologies.com/web-hosting-and-domain">web hosting</a> solutions, <a href="https://www.vivantatechnologies.com/social-media-optimization">SMO</a>, <a href="https://www.vivantatechnologies.com/email-marketing">bulk email marketing</a>, <a href="https://www.vivantatechnologies.com/sms-marketing">bulk sms marketing</a>, <a href="https://www.vivantatechnologies.com/company-logo-graphics-design">logo designing</a>, <a href="https://www.vivantatechnologies.com/blog-design">blog designing</a>, <a href="https://www.vivantatechnologies.com/">web development</a>, <a href="https://www.vivantatechnologies.com/mobile-apps-development">mobile apps development</a> and <a href="https://www.vivantatechnologies.com/digital-marketing">digital marketing</a>.</p>
+<p>The Social Media Marketing Services Company also provides useful software tools for <a href="http://www.yora.xyz/CodeIgniter/index.php/service/social-media-optimization">SMO</a>. There are numerous tools for identifying opportunities, managing SMO, tracking your performance as well as that of your competitors, as well as assessing the results with analytics. It is the onus of the company to help you choose only a handful of tools depending on your needs and budget.</p>
+<p>Yora Technologies, the Social Media Marketing Company in Bangalore is fully equipped to carry out an audit across various social media websites in order to gauge your brands presence and checking the opinion of the social media users.</p><p>Setting up your own social media profiles where it matters is one of the most important areas when you want your website optimized. Managing it and leveraging the media properly in order to boost your traffic is yet another role played successfully by the Social Media Marketing Services Company.</p><p>Getting creative by using interactive badges and widgets is something that could establish your authority in the chosen field. Vivanta Technologies can do it efficiently allowing you to reap the benefits of a successful SMO strategy.</p><p>Last but certainly not the least, is the community building strategy. Identifying interested individuals/groups along with checking out your competitors without giving yourself away can be done by monitoring comments and responding to them on community boards.</p>
+<p>It is time to harness the power of the social media! Contact Vivanta Technologies, the best SMM Company in Bangalore for all your SMM needs.</p><p>For increasing competition we also provide <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-hosting-and-domain">web hosting</a> solutions, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/social-media-optimization">SMO</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/serviceemail-marketing">bulk email marketing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/sms-marketing">bulk sms marketing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/company-logo-graphics-design">logo designing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/blog-design">blog designing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service">web development</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobile-apps-development">mobile apps development</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digital-marketing">digital marketing</a>.</p>
 
       </div>
       <div class="span4">
@@ -428,51 +428,27 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href=http://www.yora.xyz/CodeIgniter/index.php/services">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
-        <div class="row-fluid">
+        <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><span>V</span>ivanta Technologies</h4>
-          <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/about-us">About us</a></li>
-          <li><a href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Vivanta Technologies</a></li>
-          <li><a href="https://www.vivantatechnologies.com/what-we-do">What we do</a></li>
-          <li><a href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
-          <li><a href="javascript:void(0);">Labs</a></li>
-          <li><a href="javascript:void(0);">Testimonials</a></li>
-          <li><a href="javascript:void(0);">Gallery</a></li>
-          </ul>
-        </div>
-        <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-         <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/search-engine-optimization">Search Engine Optimization (SEO)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/search-engine-marketing">Search Engine Marketing (SEM)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/app-store-optimization">App Store Optimization (ASO)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/web-analytics">Web Analytics</a></li>
-          <li><a href="https://www.vivantatechnologies.com/ppc-management-services">PPC Advertising, Google &amp; Facebook</a></li>
-          <li><a href="https://www.vivantatechnologies.com/social-media-optimization">Social Media Optimization (SMO)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/online-reputation-management">Online Reputation Management (ORM)</a></li>
-          <li><a href="https://www.vivantatechnologies.com/affiliate-marketing">Affiliate Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/content-marketing">Content Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/email-marketing">Email Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/sms-marketing">SMS Marketing</a></li>
-          <li><a href="https://www.vivantatechnologies.com/short-code-sms-service">Short Code SMS</a></li>
-          </ul>
-        </div>
-        <div class="span3">
-        <h4 class="brand"><span>Quick</span>Links</h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/domain-registraion"><span>Domain</span> Registration</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
-        </div>
-        <div class="span3">
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-services"><span>Web</span> Services</a></h4>
+        </div>  
+          <div class="span3">
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+         
+         </div>
+         <div class="span3">
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/content-writing"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/corporate-training"><span>Corporate</span> Training</a></h4>
+          </div>
+          <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 <div class="phone">
 <h5>Phone:</h5>
@@ -481,7 +457,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yoratechnologies.com">info@yoratechnologies.com</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -492,33 +468,33 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 </div>
         </div>
-          <div class="span12">
-            <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <div class="topMargin span12">
+        <p class="pull-left"> &copy; 2018 <a href="https://www.yoratechnologies.com/">yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+                                    <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+                                    <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
-          </div>
+        </div>
         </div>
       </div>
     </div>  </div>
   <a href="javascript:void(0);" id="toTop">
-      <span id="toTopHover">Up</span>
-    </a> </div>
+			<span id="toTopHover">Up</span>
+		</a> </div>
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'yoratechnologies.com']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 
