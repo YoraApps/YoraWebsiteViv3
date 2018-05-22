@@ -169,12 +169,12 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
       <div class="span8">
         <h2 class="twoLines">Responsive Web Design</h2>
         <p>Digital media marketing has widened the platform on which businesses can showcase their USPs to larger audience group. It is difficult to think of a business now without a fully functioning business website. But when it comes to designing a website, most businesses are confused about what might go into their business website. They need support of a professional web builder, who can show them the best way to promote business through online.</p>
-<p>Vivanta Technologies is a leading name in the industry of Responsive web design company in Bangalore offering an array of <a href="https://www.vivantatechnologies.com/">website development</a>, <a href="https://www.vivantatechnologies.com/b2b-and-b2c-e-commerce-portal">e-commerce</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign">real estate portal development</a> solutions across industry verticals. Our team of talented, young professionals has got first-hand experience on different aspects of site development and responsive web design.</p>
+<p>Vivanta Technologies is a leading name in the industry of Responsive web design company in Bangalore offering an array of <a href="http://www.yora.xyz/CodeIgniter/">website development</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/b2bandb2cecommerceportal">e-commerce</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/realestateportal">real estate portal development</a> solutions across industry verticals. Our team of talented, young professionals has got first-hand experience on different aspects of site development and responsive web design.</p>
 <p>Websites now have become a true representation of one's business. It helps businesses to reach out to larger audience, interact with them directly, generate valid leads, and ultimately generate more revenue. But in order to achieve it, one needs professional Responsive Web Design Company.</p>
 <p>At Vivanta, we take project specific approach in executing each project, which involves forming in-depth understanding of client's business, analyzing marketplace and competition before commencing the project. We have carefully ditched the generalized approach that most responsive web design companies still follow as we understand that your business is unique and so are its requirements. We make sure that your website becomes a true extension of your business.</p>
 <p>If you have a website and don't know what to do about it, then it's perhaps the time to consider redesigning to give it a fresh start. Responsive design is what your business demands and we deliver that to you.</p><p>Our services are second to none and you can be rest assured about receiving the best Responsive Web Design solutions in the market. Our proactive approach towards projects helps us form better understanding of clients requirement and we live up to their expectation with periodic reporting.</p>
 <br>
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/web-template-design">Web Template Designing</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webtemplatedesigning">Web Template Designing</a></h2>
 
 <article class="blog-post">
 				<div class="post-contant">
@@ -187,7 +187,7 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
 				</div>			
 			</article>
 <br>
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/company-logo-graphics-design">Company Logo/Graphics Design</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/companylogographicsdesign">Company Logo/Graphics Design</a></h2>
 <article class="blog-post">
 				<div class="post-contant">
 				<div class="comment">
@@ -200,7 +200,7 @@ To promote your business and to stay ahead in competition, logos play a pivotal 
 				</div>			
 			</article>
 <br>
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/newsletter-design">Newsletter Design</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/newsletterdesign">Newsletter Design</a></h2>
 <article class="blog-post">
 				<div class="post-contant">
 				<div class="comment">
@@ -213,7 +213,7 @@ We make sure that your business communication looks attractive and aesthetic so 
 				</div>			
 			</article>
 <br>
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/blog-design">Blog Design</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/blogdesign">Blog Design</a></h2>
 <article class="blog-post">
 				<div class="post-contant">
 				<div class="comment">
@@ -226,7 +226,7 @@ In our stint we have worked some of the leading brands in the industry and have 
 				</div>			
 			</article>
 <br>
-<h2 class="twoLines"><a href="https://www.vivantatechnologies.com/custom-website-design">Custom Website Design</a></h2>
+<h2 class="twoLines"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/customwebsitedesign">Custom Website Design</a></h2>
 <article class="blog-post">
 				<div class="post-contant">
 				<div class="comment">
@@ -239,7 +239,7 @@ Today's marketplace where thousands of websites are launched every day, you need
 Apart from site designing, we offer special solution for e commerce and real estate portal development. </p> 
 				</div>			
 			</article>
-          <p>Our other services includes <a href="https://www.vivantatechnologies.com/web-hosting-and-domain">web hosting</a> solutions, <a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO</a>, <a href="https://www.vivantatechnologies.com/social-media-optimization">SMO</a>, <a href="https://www.vivantatechnologies.com/email-marketing">bulk email marketing</a>, <a href="https://www.vivantatechnologies.com/sms-marketing">bulk sms marketing</a>, <a href="https://www.vivantatechnologies.com/company-logo-graphics-design">logo designing</a>, <a href="https://www.vivantatechnologies.com/blog-design">blog designing</a>, <a href="https://www.vivantatechnologies.com/mobile-apps-development">mobile apps development</a>, <a href="https://www.vivantatechnologies.com/content-writing">content writing</a> and <a href="https://www.vivantatechnologies.com/digital-marketing">digital marketing</a>.</p>  
+          <p>Our other services includes <a href="">web hosting</a> solutions, <a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO</a>, <a href="https://www.vivantatechnologies.com/social-media-optimization">SMO</a>, <a href="https://www.vivantatechnologies.com/email-marketing">bulk email marketing</a>, <a href="https://www.vivantatechnologies.com/sms-marketing">bulk sms marketing</a>, <a href="https://www.vivantatechnologies.com/company-logo-graphics-design">logo designing</a>, <a href="https://www.vivantatechnologies.com/blog-design">blog designing</a>, <a href="https://www.vivantatechnologies.com/mobile-apps-development">mobile apps development</a>, <a href="https://www.vivantatechnologies.com/content-writing">content writing</a> and <a href="https://www.vivantatechnologies.com/digital-marketing">digital marketing</a>.</p>  
       </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>

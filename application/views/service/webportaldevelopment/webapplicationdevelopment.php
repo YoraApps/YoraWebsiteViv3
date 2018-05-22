@@ -3,17 +3,17 @@
 <html lang="en">
 <head>
 <title>Web Application Development Company in Bangalore | Web App Development Services</title>
-<meta name="description" content="VivantaTechnologies is a leading web application development company in Bangalore. We use platforms of PHP, MySQL, Javascript, HTML 5, CSS 3, JQuery, Ajax and CMS." />
+<meta name="description" content="YoraTechnologies is a leading web application development company in Bangalore. We use platforms of PHP, MySQL, Javascript, HTML 5, CSS 3, JQuery, Ajax and CMS." />
 <meta name="keywords" content="Web App Development Company, Web Application development Services, Custom Web Application Development Company, Web Apps Development, Web Application Development Company" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="http://www.yora.xyz/CodeIgniter/"/>
 <link rel="stylesheet" type="text/css" href="assets/css/flexslider.css"/>
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/web-application-development" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/web-application-development" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/webapplicationdevelopment" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/service/webapplicationdevelopment" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -140,22 +140,22 @@
       <h1 class="big pull-left">Scalable, Custom Web Application Development Company</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-portal-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment">
 <span itemprop="name">Web Portal Development</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-application-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webapplicationdevelopment">
 <span itemprop="name">Web Application Development</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -170,13 +170,13 @@
         <p>Websites have become an absolute necessity which has now become more sophisticated with advanced web technologies and applications. Most of the companies are adapting these advanced features to target promotional and marketing for scalable and robust process.</p>
 <br>
 <h3 class="twoLines">A Road-map to Successful End-Results</h3>
-<p>Vivanta Technologies is committed in delivering the full-cycle Web Application Development Services, covering each and every aspect of Software implementations, technical variables and marketing strategies, leveraging technology to build innovative and responsive websites, matching the customer's needs. We can assure you to provide result-oriented and cost-effective approach with high ROI.</p><p>Our Web App Development Company is agile in process that enables your business needs to include concepts of web applications development. We ensure in providing the full-scape project process activities in meeting effective strategies with personalized conceptions and ideas. Our technical team operates your business to run smoothly and efficiently which helps you successfully achieve your needs and requirements.</p>
+<p>Yora Technologies is committed in delivering the full-cycle Web Application Development Services, covering each and every aspect of Software implementations, technical variables and marketing strategies, leveraging technology to build innovative and responsive websites, matching the customer's needs. We can assure you to provide result-oriented and cost-effective approach with high ROI.</p><p>Our Web App Development Company is agile in process that enables your business needs to include concepts of web applications development. We ensure in providing the full-scape project process activities in meeting effective strategies with personalized conceptions and ideas. Our technical team operates your business to run smoothly and efficiently which helps you successfully achieve your needs and requirements.</p>
         <h3 class="twoLines">Why Choose Us?</h3>
         <ul class="normal dot">	<li>We have proven experience in developing web application development, integrating in business applications.</li>
-<li>Providing seamless <a href="https://www.vivantatechnologies.com/">web development</a> process and end-to-end web solutions for better project quality.</li>
+<li>Providing seamless <a href="http://www.yora.xyz/CodeIgniter/">web development</a> process and end-to-end web solutions for better project quality.</li>
 <li>We have a technically sound team with high degree of efficiency on web application development.</li>
 <li>We focus on systematic approach ensuring to match the clientele needs and requirements in terms of cost-effective and time-bound process.</li></ul>
-        <p>Vivanta Technologies is a prestigious Web App Development Company, taking pride in providing Web Application Development Services for local as well as international business. We process with a perfect solutions for a fresh website, reconstructing ideas for your existing website or whether you are looking out for redesigning your website, starting a new website or providing a flash application development for your website, we always make sure that you are 100% satisfied.</p><br>
+        <p>YoraTechnologies Technologies is a prestigious Web App Development Company, taking pride in providing Web Application Development Services for local as well as international business. We process with a perfect solutions for a fresh website, reconstructing ideas for your existing website or whether you are looking out for redesigning your website, starting a new website or providing a flash application development for your website, we always make sure that you are 100% satisfied.</p><br>
 <h3 class="twoLines">Some of our wide range of services involves:</h3>
   <ul class="normal dot"><li>Business Application Development.</li>
 <li>Customized E-Commerce.</li>
@@ -453,25 +453,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/service"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -482,7 +482,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a></a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -494,12 +494,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/">YoraTechnologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="hhttp://www.yora.xyz/CodeIgniter/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+              <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+              <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
               <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+              <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
