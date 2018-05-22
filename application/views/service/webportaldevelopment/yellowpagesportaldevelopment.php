@@ -2,17 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Yellow Pages Portal Development - Vivanta Technologies</title>
-<meta name="description" content="Vivanta Technologies, a very well known portal development company offers Yellowpages Portal Development Services in Bangalore, India. Contact us now!" />
+<title>Yellow Pages Portal Development - Yora Technologies</title>
+<meta name="description" content="Yora Technologies, a very well known portal development company offers Yellowpages Portal Development Services in Bangalore, India. Contact us now!" />
 <meta name="keywords" content="Yellowpages Portal Development, Yellow Pages Portal, Yellowpages Portal Development Services, Yellowpages Web Portal Development Services" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="Yoratechnologies.com"/>
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/yellow-pages-portal-development" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/yellow-pages-portal-development" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -139,22 +139,22 @@
       <h1 class="big pull-left">Explore lots of Information, Local Business details from Yellow Pages Portal.</h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-portal-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopmen">
 <span itemprop="name">Web Portal Development</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/yellow-pages-portal-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/yellowpagesportaldevelopmentt">
 <span itemprop="name">Yellow Pages Portal Development</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -165,7 +165,7 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Yellow Pages Portal Development</h2>
-        <p>Vivanta Technologies, a leading Web Development company, provide the best Yellowpages Portal Development services for online users. We architect new designs, patterns, and functionalities to generate visitors to your website. It is a complete spectrum of business listings which enhances leads generation by publishing ads on Yellowpages portal.</p>
+        <p>Yora Technologies, a leading Web Development company, provide the best Yellowpages Portal Development services for online users. We architect new designs, patterns, and functionalities to generate visitors to your website. It is a complete spectrum of business listings which enhances leads generation by publishing ads on Yellowpages portal.</p>
 <p>Yellow Pages provides a complete directory guide for consumer and business to search and locate contact details. Our professional expertise provides an extensive application tool for effective website and a platform for your link popularity with search engines. It is widely benefited from small to big businesses in posting ads at affordable cost and yield faster results.</p>
 <br>
 <h3 class="twoLines">Our key features include:</h3>
@@ -181,7 +181,7 @@
 <li>Good Return On Investment (ROI)</li>
 </ul>
 <br>
-<p>Yellowpages websites have become a prominent source and a guide to online visitors in locating/posting business listings. Vivanta Technologies is expertise in Yellowpages Portal Development and providing <a href="https://www.vivantatechnologies.com/search-engine-optimization">search engine optimization</a> features for link visibility on search engine pages.  </p>
+<p>Yellowpages websites have become a prominent source and a guide to online visitors in locating/posting business listings.Yora Technologies is expertise in Yellowpages Portal Development and providing <a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">search engine optimization</a> features for link visibility on search engine pages.  </p>
       </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -437,25 +437,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -466,24 +466,24 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
+<span itemprop="streetAddress">YORA TECH ,</span>
+<span itemprop="addressLocality">#50,SGR COLLEGE ROAD,MUNNEKOLALA,  MARATHAHALLI EXTN, NEAR ST MARATHOMA CHURCH</span>
 <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+              <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+              <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
               <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+              <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>

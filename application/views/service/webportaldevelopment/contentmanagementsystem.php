@@ -2,17 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Content Management System | CMS Services at Vivanta Technologies</title>
-<meta name="description" content="Vivanta Technologies is expertise in developing Content Management System (or) CMS website in Joomla, Wordpress and Drupal with web portal services." />
+<title>Content Management System | CMS Services at Yora Technologies</title>
+<meta name="description" content="yora Technologies is expertise in developing Content Management System (or) CMS website in Joomla, Wordpress and Drupal with web portal services." />
 <meta name="keywords" content="Content Management System, Drupal Content Management System, Wordpress Content Management System, Joomla Content Management System, CMS Services in Bangalore, CMS Websites" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="Yoratechnologies.com"/>
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/content-management-system" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/content-management-system" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmanagementsystem" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmanagementsystem" />
 <style type="text/css">
 .statsWrap{width:220px;margin:10px 30px;float:left}.stats{display:inline-block;position:relative;width:100%;transition:all 0.3s ease-in-out 0s;-moz-transition:all 0.3s ease-in-out 0s;-ms-transition:all 0.3s ease-in-out 0s;-webkit-transition:all 0.3s ease-in-out 0s;-o-transition:all 0.3s ease-in-out 0s;-webkit-user-select:none}.statDummy{margin-top:100%}.statInfo{position:absolute;top:0;bottom:0;left:0;right:0;background-color:#0cc2fd;border-radius:50%;text-align:center}.statNumber{font-size:40px;transition:all 0.5s ease-in-out 0s;-moz-transition:all 0.5s ease-in-out 0s;-ms-transition:all 0.5s ease-in-out 0s;-webkit-transition:all 0.5s ease-in-out 0s;-o-transition:all 0.5s ease-in-out 0s;padding-top:86px;margin-bottom:0;color:#FFF;font-family:"Open Sans",Helvetica,Arial,sans-serif}.statNumberMedium{font-size:50px;transition:all 0.5s ease-in-out 0s;-moz-transition:all 0.5s ease-in-out 0s;-ms-transition:all 0.5s ease-in-out 0s;-webkit-transition:all 0.5s ease-in-out 0s;-o-transition:all 0.5s ease-in-out 0s;padding-top:30px;margin-bottom:0}.statNumberSmall{font-size:36px;transition:all 0.5s ease-in-out 0s;padding-top:38px;margin-bottom:0}.statText{transition:all 0.5s ease-in-out 0s;-moz-transition:all 0.5s ease-in-out 0s;-ms-transition:all 0.5s ease-in-out 0s;-webkit-transition:all 0.5s ease-in-out 0s;-o-transition:all 0.5s ease-in-out 0s;opacity:0;transform:scale(0);-moz-transform:scale(0);-ms-transform:scale(0);-webkit-transform:scale(0);-o-transform:scale(0);padding:0;margin-top:05px;color:#FFF;font-size:18px}.stats:hover{transform:scale(1.3);-moz-transform:scale(1.3);-ms-transform:scale(1.3);-webkit-transform:scale(1.3);-o-transform:scale(1.3);z-index:10}.stats:hover
 .statNumber{transform:scale(.6);-moz-transform:scale(.6);-ms-transform:scale(.6);-webkit-transform:scale(.6);-o-transform:scale(.6)}.stats:hover
@@ -143,22 +143,22 @@
       <h1 class="big pull-left">Content Management Systems - Collaboration and Administration Tool</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-portal-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment">
 <span itemprop="name">Web Portal Development</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/content-management-system">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmanagementsystem">
 <span itemprop="name">Content Management Systems</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -194,26 +194,26 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Content Management Systems Web Development</h2>
-        <p>Vivanta Technologies endorse in providing services for Web Designing, <a href="https://www.vivantatechnologies.com/">Web Development</a>, <a href="https://www.vivantatechnologies.com/digital-marketing">Digital Marketing</a> and <a href="https://www.vivantatechnologies.com/content-writing">Content Writing services</a>, giving you a complete website needs and solutions for your website. </p><p>Content Management System (CMS) is a tool which literally allows publishing, managing, editing, modifying and updating content within your website. CMS is a pivotal tool which publishes content robustly at reduced time.</p><p>Vivanta Technologies delivers a powerful, scalable and flexible web content management system to create more content seeing the growing demand for all types of business, enterprise and media sectors. We provide CMS solutions for your website using applications of Joomla, Drupal, and Wordpress which helps in managing content and ensuring to build an effective CMS design. </p>
+        <p>Yora Technologies endorse in providing services for Web Designing, <a href="http://www.yora.xyz/CodeIgniter">Web Development</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">Digital Marketing</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting">Content Writing services</a>, giving you a complete website needs and solutions for your website. </p><p>Content Management System (CMS) is a tool which literally allows publishing, managing, editing, modifying and updating content within your website. CMS is a pivotal tool which publishes content robustly at reduced time.</p><p>Yora Technologies delivers a powerful, scalable and flexible web content management system to create more content seeing the growing demand for all types of business, enterprise and media sectors. We provide CMS solutions for your website using applications of Joomla, Drupal, and Wordpress which helps in managing content and ensuring to build an effective CMS design. </p>
         <br>
 <h2 class="light">What is a Content Management System?</h2>        
 <p>A Content Management System (CMS) is an advanced software tool that enables management of contents within the website without any prior technical skills. Our CMS Services in Bangalore provide an efficient methodology, effective in providing content management services to enable organizations to seamlessly create, edit, modify and publish content. Besides, it allows having a very high rate of updates providing effective solutions, diversify options and advanced features in the content management process. </p>
 <h3 class="light">Major CMS Platforms</h3>
-<p>CMS Services in Bangalore at Vivanta Technologies has a team of talented designers and developers who are specialized in creating variant style of themes for blogs and PHP-based Content Management System. Our experienced PHP developers work on all major content management platforms like; Drupal, Wordpress, Joomla and Magento according to the client needs.</p>
+<p>CMS Services in Bangalore at yora Technologies has a team of talented designers and developers who are specialized in creating variant style of themes for blogs and PHP-based Content Management System. Our experienced PHP developers work on all major content management platforms like; Drupal, Wordpress, Joomla and Magento according to the client needs.</p>
 <h2 class="light">Content Management – An Open Source Tool</h2>
 <p>CMS Services in Bangalore have a very specialized team of experts CMS developers who are able to code content management system in any language. Being well versed in coding language and advanced technologies, we easily work to develop a website using a CMS for the robust and flexible process. This will easily allow your website that suits your business needs with CMS Services in Bangalore.</p><p>Most of Open Source CMS tools have similar features, which allow content management or an author to create, manage, update and remove contents from a website without the need of experts programmers or developers. Although, different CMS tools have common features, some features may vary.</p>
 <h3 class="light">Benefits of Content Management System</h3>
 <ul class="normal dot">	<li>CMS allows easiest and quickest way of publishing and managing contents without the knowledge of any software program.</li>
 <li>Security of the content management is fully-secured, assigning user privileges only for the authorized person to access and manage content.</li>
 <li>Easy for the user to add, edit, update and review texts.</li>
-<li>SEO-friendly – It is a search engine friendly where you have <a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO</a> capabilities in optimizing a website.</li>
+<li>SEO-friendly – It is a search engine friendly where you have <a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">SEO</a> capabilities in optimizing a website.</li>
 <li>CMS is driven with timely deliver by allowing it to publish content in multiple channels. </li>
 <li>It is a cost-efficient as Content Management Platforms like Drupal, WordPress and Joomla are open source widely used by programmers and developers.</li></ul>
 <h3 class="light">Types of Services:</h3>
 <p>CMS is widely used in following types of business and organization services:</p>
 <ul class="normal dot">
 <li>Social Media Networking.</li>
-<li><a href="https://www.vivantatechnologies.com/news-portal-development">News Portals</a>.</li>
+<li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/newsportaldevelopment">News Portals</a>.</li>
 <li>Corporate and Government Portals.</li>
 <li>Informative Portals.</li>
 <li>Personalize Website.</li>
@@ -221,7 +221,7 @@
 <li>Article and Blog forums.</li>
 <li>Multimedia Portal.</li>
 <li>Events Organization Portal and much more!</li>
-</ul><p>Vivanta Technologies is a leading CMS Services in Bangalore which provides effective CMS website by our expert team of designers and developers.</p>
+</ul><p>Yora Technologies is a leading CMS Services in Bangalore which provides effective CMS website by our expert team of designers and developers.</p>
       </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -477,25 +477,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/webservices"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -506,7 +506,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -518,12 +518,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+              <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+              <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
               <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+              <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>

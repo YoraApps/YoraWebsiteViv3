@@ -3,16 +3,16 @@
 <html lang="en">
 <head>
 <title>News Portal Development | Online News Website Portal Development</title>
-<meta name="description" content="Vivanta Technologies offers customize user-friendly news portal website portal development services in Bangalore, India. Feel free to contact us today!" />
+<meta name="description" content="Yora Technologies offers customize user-friendly news portal website portal development services in Bangalore, India. Feel free to contact us today!" />
 <meta name="keywords" content="News Portal Development Services, Online News Portal Development, News Portal Development Company, Online News Portal Development Services Company" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="Yoratechnologies.com"/>
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/news-portal-development" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/news-portal-development" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -139,22 +139,22 @@
       <h1 class="big pull-left">A personalized channel of NEWS from around the world. </h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-portal-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment">
 <span itemprop="name">Web Portal Development</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/news-portal-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/newsportaldevelopment">
 <span itemprop="name">News Portal Development</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -165,16 +165,16 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">News Portal Development</h2>
-        <p>News Portal is an online communication medium for internet users which are read all over the world. Vivanta Technologies a leading Web Development company, provide an appealing and efficient news portal development services. </p>
+        <p>News Portal is an online communication medium for internet users which are read all over the world.Yora Technologies a leading Web Development company, provide an appealing and efficient news portal development services. </p>
         
-<p>The news portal development allows to publish publications, press releases, columns, articles, blogs and other news related content. We create and develop innovative website, bespoke and modern style portals with content management system (CMS). We provide user-friendly website designs in order to navigate easily for potential readers along with <a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO</a> concepts for higher visibility in page rankings.</p>
+<p>The news portal development allows to publish publications, press releases, columns, articles, blogs and other news related content. We create and develop innovative website, bespoke and modern style portals with content management system (CMS). We provide user-friendly website designs in order to navigate easily for potential readers along with <a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">SEO</a> concepts for higher visibility in page rankings.</p>
 <p>We provide sections of local and international news, lifestyle, entertainments, jobs, educations, business, science &amp; technology, and other features exclusively for the news portal development.</p> 
 <br>
 <h3 class="twoLines">Our features include:</h3>
-        <ul class="normal dot">	<li>News Website and <a href="https://www.vivantatechnologies.com/web-portal-development">Web Portal Development</a></li>
+        <ul class="normal dot">	<li>News Website and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment">Web Portal Development</a></li>
 <li>Customize news portal development</li>
 <li>Customize News Portal design</li>
-<li>Integrating <a href="https://www.vivantatechnologies.com/content-management-system">Content Management System (CMS)</a></li>
+<li>Integrating <a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentmanagementsystem">Content Management System (CMS)</a></li>
 <li>Very good interface</li>
 <li>Maintenance and Support</li>
 <li>Images and and Video posts</li>
@@ -185,9 +185,9 @@
 <li>Easy managing administration panel</li>
 <li>Latest news update</li>
 <li>Polls</li>
-<li><a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO</a> features and many more!</li>
+<li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">SEO</a> features and many more!</li>
 </ul>
-<p>Vivanta Technologies is a professional <a href="https://www.vivantatechnologies.com/">web development company</a> and provides excellent news portal development services, implementing new and advanced features. Our professional team  of web developers is enthusiastic and energetic in creating  variant website components.</p>
+<p>Yora Technologies is a professional <a href="http://www.yora.xyz/CodeIgniter/">web development company</a> and provides excellent news portal development services, implementing new and advanced features. Our professional team  of web developers is enthusiastic and energetic in creating  variant website components.</p>
 
       </div>
       <div class="span4">
@@ -444,25 +444,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -473,24 +473,24 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
+<span itemprop="streetAddress">YORA TECH</span>
+<span itemprop="addressLocality">#50,SGR COLLEGE ROAD,MUNNEKOLALA,  MARATHAHALLI EXTN, NEAR ST MARATHOMA CHURCH</span>
 <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+              <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+              <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
               <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+              <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
