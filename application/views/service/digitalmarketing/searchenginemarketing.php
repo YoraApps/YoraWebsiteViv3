@@ -3,16 +3,16 @@
 <html lang="en">
 <head>
 <title>SEM Services Bangalore | Search Engine Marketing Company</title>
-<meta name="description" content="Vivanta Technologies, a Bangalore based Digital Marketing Company which offers affordable Search Engine Marketing (SEM) Services. Contact us today!" />
+<meta name="description" content="Yora Technologies, a Bangalore based Digital Marketing Company which offers affordable Search Engine Marketing (SEM) Services. Contact us today!" />
 <meta name="keywords" content="Search Engine Marketing Services Bangalore, SEM Company Bangalore, SEM Services, Search Engine Marketing Company" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="yoratechnologies.com"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/search-engine-marketing" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/search-engine-marketing" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/search-engine-marketing" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/search-engine-marketing" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -139,22 +139,22 @@
       <h1 class="big pull-left">Enhance Your Search Marketing Efforts - Search Engine Marketing (SEM)</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/services">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/digital-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing">
 <span itemprop="name">Digital Marketing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/search-engine-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/services/search-engine-marketing">
 <span itemprop="name">Search Engine Marketing (SEM)</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -165,7 +165,7 @@
   
   <div class="row-fluid topSpace digital-images">
      <div class="span12 easyBox doCenter">
-     <img src="https://www.vivantatechnologies.com/assets/images/sem.jpg" alt="search engine marketing" title="search engine marketing" width="1920" height="450"/>
+     <img src="http://www.yora.xyz/CodeIgniter/assets/images/sem.jpg" alt="search engine marketing" title="search engine marketing" width="1920" height="450"/>
      </div>
      </div>
      
@@ -174,12 +174,12 @@
       <div class="span8">
         <h2 class="twoLines">Introduction to Search Engine Marketing (SEM)</h2>
         <p>Search Engine Marketing (SEM) has become significantly important for internet business to reach millions of people in promoting your business, products or services.</p>
-        <p>A Web Engineering company in Bangalore, Vivanta Technologies has a complete solution in the process of creating many <a href="https://www.vivantatechnologies.com/web-portal-development">Web Portals</a>. Therefore, apart from designing and developing the websites, we offer a wide range of services in <a href="https://www.vivantatechnologies.com/digital-marketing">Digital Marketing</a>. SEM Company services is a type of internet marketing which involves in advertising or promotions for your web portal. It is the process of gaining traffic and visibility from search engine pages through paid services.</p>
-        <p>SEM services Bangalore is involved in paid search activities in promoting your website. We have an excellent record of marketing strategy in bringing relevant traffic and visibility in search engine result pages (SERP) which is equally important for <a href="https://www.vivantatechnologies.com/ppc-advertising-company">PPC/CPC</a> campaigns to target audience for the business to grow potentially.</p>
+        <p>A Web Engineering company in Bangalore, Yora Technologies has a complete solution in the process of creating many <a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-portal-development">Web Portals</a>. Therefore, apart from designing and developing the websites, we offer a wide range of services in <a href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing">Digital Marketing</a>. SEM Company services is a type of internet marketing which involves in advertising or promotions for your web portal. It is the process of gaining traffic and visibility from search engine pages through paid services.</p>
+        <p>SEM services Bangalore is involved in paid search activities in promoting your website. We have an excellent record of marketing strategy in bringing relevant traffic and visibility in search engine result pages (SERP) which is equally important for <a href="http://www.yora.xyz/CodeIgniter/index.php/services/ppc-advertising-company">PPC/CPC</a> campaigns to target audience for the business to grow potentially.</p>
         <p>Our SEM Company Bangalore involves in using online marketing strategies, guidelines, protocols and standards prescribed by search engines in achieving high visibility and top rankings in online search engine pages.</p>
         <br>
         <h2 class="light">SEM vs SEO</h2>
-        <ul class="normal dot">	<li><a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO</a>: It is an unpaid or free listing for earning traffic.</li>
+        <ul class="normal dot">	<li><a href="http://www.yora.xyz/CodeIgniter/index.php/services/search-engine-optimization">SEO</a>: It is an unpaid or free listing for earning traffic.</li>
 <li>SEM: it is a paid search listing for gaining traffic (Cost Per Click or Pay Per Click).</li>
 </ul>
 <h2 class="light">Social Media Network</h2>
@@ -189,11 +189,11 @@
 <li>Convey a message about your products or services.</li>
 <li>Expanding your geographical area to increase audience.</li>
 </ul>
-<h2 class="light">Vivanta Technologies offer SEM features:</h2>
+<h2 class="light">Yora Technologies offer SEM features:</h2>
 <ul class="normal dot">	<li>Effective Keyword Research .</li>
 <li>Directory submission.</li>
 <li>Link Building.</li>
-<li><a href="https://www.vivantatechnologies.com/email-marketing">Email Marketing</a>.</li>
+<li><a href="http://www.yora.xyz/CodeIgniter/index.php/services/email-marketing">Email Marketing</a>.</li>
 <li>Classified Advertisements.</li>
 <li>Organic Links.</li>
 <li>Website Promotions.</li>
@@ -202,7 +202,7 @@
 <li>Social Networks.</li>
 <li>Banner Ads.</li>
 </ul>
-<p>Vivanta Technologies is a complete SEM Company which offers SEM services at competitive rates compared to other companies. We provide an excellent and best service in getting high ranking to your website as per your business needs.</p>
+<p>Yora Technologies is a complete SEM Company which offers SEM services at competitive rates compared to other companies. We provide an excellent and best service in getting high ranking to your website as per your business needs.</p>
       </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -458,25 +458,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-services"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/content-writing"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/corporate-training"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -487,7 +487,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yoratechnologies.com">info@vivantatechnologies.com</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -499,12 +499,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/index.php/services/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+                                    <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+                                    <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
@@ -517,7 +517,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">

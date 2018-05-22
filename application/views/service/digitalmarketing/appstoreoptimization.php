@@ -3,16 +3,16 @@
 <html lang="en">
 <head>
 <title>App Store Optimization | App Store SEO and Marketing Company</title>
-<meta name="description" content="Vivanta Technologies located in Bangalore, provides solutions for App Store Optimization (ASO) to improve rankings for your apps." />
+<meta name="description" content="Yora Technologies located in Bangalore, provides solutions for App Store Optimization (ASO) to improve rankings for your apps." />
 <meta name="keywords" content="ASO Services Bangalore, App Store Optimization, App Store SEO Services, App Store Optimization Company, ASO Marketing Company Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="yoratechnologies.com"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/app-store-optimization" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/app-store-optimization" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/app-store-optimization" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/app-store-optimization" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -23,9 +23,7 @@
         <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
      
         <div class="nav-collapse">
-          <ul class="nav pull-right"> <li > <a href="https://www.vivantatechnologies.com/" class="dropdown-toggle">Home</a></li><li class="active dropdown"> <a href="https://www.vivantatechnologies.com/services" class="dropdown-toggle">Services</a> <ul class="dropdown-menu"> <li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/digital-marketing">Digital Marketing</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/search-engine-optimization">Search Engine Optimization (SEO)</a></li><li><a href="https://www.vivantatechnologies.com/search-engine-marketing">Search Engine Marketing (SEM)</a></li><li><a href="https://www.vivantatechnologies.com/ppc-management-services">PPC Management Services</a></li><li><a href="https://www.vivantatechnologies.com/app-store-optimization">App Store Optimization (ASO)</a></li><li><a href="https://www.vivantatechnologies.com/web-analytics">Web Analytics</a></li><li><a href="https://www.vivantatechnologies.com/social-media-optimization">Social Media Optimization (SMO)</a></li><li><a href="https://www.vivantatechnologies.com/online-reputation-management">Online Reputation Management (ORM)</a></li><li><a href="https://www.vivantatechnologies.com/affiliate-marketing">Affiliate Marketing</a></li><li><a href="https://www.vivantatechnologies.com/content-marketing">Content Marketing</a></li><li><a href="https://www.vivantatechnologies.com/email-marketing">Email Marketing</a></li><li><a href="https://www.vivantatechnologies.com/sms-marketing">SMS Marketing</a></li><li><a href="https://www.vivantatechnologies.com/social-media-marketing">Social Media Marketing</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/web-portal-development">Web Portal Development</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/real-estate-portal">Real Estate Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/mobile-website-development">Mobile Website Development</a></li><li><a href="https://www.vivantatechnologies.com/web-application-development">Web Application Development</a></li><li><a href="https://www.vivantatechnologies.com/b2b-and-b2c-e-commerce-portal">B2B &amp; B2C e-Commerce Portal</a></li><li><a href="https://www.vivantatechnologies.com/content-management-system">Content Management System (CMS)</a></li><li><a href="https://www.vivantatechnologies.com/mvc-architecture">MVC Architecture</a></li><li><a href="https://www.vivantatechnologies.com/travel-portal-development">Travel Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/classifieds-portal-development">Classifieds Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/yellow-pages-portal-development">Yellow Pages Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/news-portal-development">News Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/job-portal-development">Job Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/education-portal-development">Education Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/payment-gateway-integration">Payment Gateway Integration</a></li><li><a href="https://www.vivantatechnologies.com/phonegap-apps-development">PhoneGap Apps Development</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/mobile-apps-development">Mobile Apps Development</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/android-apps-development">Android Apps development</a></li><li><a href="https://www.vivantatechnologies.com/iphone-apps-development">iPhone Apps development</a></li></ul> </li><li class="digital-images dropdown-submenu"><a href="https://www.vivantatechnologies.com/responsive-web-design">Responsive Web Design</a> <ul class="dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/web-template-design">Web Template Design</a></li><li><a href="https://www.vivantatechnologies.com/company-logo-graphics-design">Company Logo/Graphics Design</a></li><li><a href="https://www.vivantatechnologies.com/newsletter-design">Newsletter Design</a></li><li><a href="https://www.vivantatechnologies.com/blog-design">Blog Design</a></li><li><a href="https://www.vivantatechnologies.com/custom-website-design">Custom Website Design</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/content-writing">Content Writing</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/web-content-writing">Web Content Writing</a></li><li><a href="https://www.vivantatechnologies.com/seo-content-writing">SEO Content Writing</a></li><li><a href="https://www.vivantatechnologies.com/article-writing">Article Writing</a></li><li><a href="https://www.vivantatechnologies.com/blog-posting">Blog Posting</a></li><li><a href="https://www.vivantatechnologies.com/forum-posting">Forum Posting</a></li><li><a href="https://www.vivantatechnologies.com/website-copy-writing">Website Copy Writing</a></li><li><a href="https://www.vivantatechnologies.com/press-release-writing">Press Release Writing</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain">Web Hosting &amp; Domain</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/windows-hosting">Windows Hosting</a></li><li><a href="https://www.vivantatechnologies.com/vps-hosting">VPS Hosting</a></li><li><a href="https://www.vivantatechnologies.com/dedicated-servers">Dedicated Servers</a></li><li><a href="https://www.vivantatechnologies.com/domain-registraion">Domain Registration</a></li><li><a href="https://www.vivantatechnologies.com/name-suggestion-tool">Name Suggestion Tool</a></li><li><a href="https://www.vivantatechnologies.com/ssl-certificates">SSL Certificates</a></li><li><a href="https://www.vivantatechnologies.com/whois-lookup">Whois Lookup</a></li><li><a href="https://www.vivantatechnologies.com/reseller-hosting">Reseller Hosting</a></li><li><a href="https://www.vivantatechnologies.com/email-hosting">Email Hosting</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/web-services">Web Services</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/restful-services">RESTful Services</a></li><li><a href="https://www.vivantatechnologies.com/api-services-provider">API Services Provider</a></li></ul> </li><li class="dropdown-submenu"><a href="https://www.vivantatechnologies.com/corporate-training">Corporate Training</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="https://www.vivantatechnologies.com/digital-marketing-courses">Digital Marketing Courses</a></li></ul> </li></ul> </li><li> <li > <a href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a> </li><li > <a href="https://www.vivantatechnologies.com/developers/">Developers</a> </li><li > <a href="https://www.vivantatechnologies.com/careers" class="dropdown-toggle">Careers</a> </li><li > <a href="https://www.vivantatechnologies.com/contact-us">Contact</a> </li></ul>        </div>
-      </div>
-    </div>
+          <ul class="nav pull-right"> <li > <a href="http://www.yora.xyz/CodeIgniter" class="dropdown-toggle">Home</a></li><li class="active dropdown"> <a href="hhttp://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Services</a> <ul class="dropdown-menu"> <li class="dropdown-submenu"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digital-marketing">Digital Marketing</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/search-engine-optimization">Search Engine Optimization (SEO)</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/search-engine-marketing">Search Engine Marketing (SEM)</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/ppc-management-services">PPC Management Services</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/app-store-optimization">App Store Optimization (ASO)</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-analytics">Web Analytics</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/social-media-optimization">Social Media Optimization (SMO)</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/online-reputation-management">Online Reputation Management (ORM)</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/affiliate-marketing">Affiliate Marketing</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/content-marketing">Content Marketing</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/email-marketing">Email Marketing</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/sms-marketing">SMS Marketing</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/social-media-marketing">Social Media Marketing</a></li></ul> </li><li class="dropdown-submenu"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-portal-development">Web Portal Development</a> <ul class="digital-images dropdown-menu unstyled"> <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/real-estate-portal">Real Estate Portal Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobile-website-development">Mobile Website Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-application-development">Web Application Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/b2b-and-b2c-e-commerce-portal">B2B &amp; B2C e-Commerce Portal</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/content-management-system">Content Management System (CMS)</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mvc-architecture">MVC Architecture</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/travel-portal-development">Travel Portal Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/classifieds-portal-development">Classifieds Portal Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/yellow-pages-portal-development">Yellow Pages Portal Development</a></li><li><a href="https://www.vivantatechnologies.com/news-portal-development">News Portal Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/job-portal-development">Job Portal Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/education-portal-development">Education Portal Development</a></li><li><a href="http://www.yora.xyz/CodeIgniter/index.php/service </div>
   </div>
   <div class="container"> </div>
   <div class="titleBox">
@@ -33,22 +31,22 @@
       <h1 class="big pull-left">Improving the visibility of a mobile app - App Store Optimization (ASO)</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/digital-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/digital-marketing">
 <span itemprop="name">Digital Marketing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/app-store-optimization">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/app-store-optimization">
 <span itemprop="name">App Store Optimization (ASO)</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -63,7 +61,7 @@
         <p>ASO is the process of practicing title, keywords, metadata, description in order to bring rankings and visibility to maximize app store.</p>
         <br>
 <h2 class="twoLines">Our approach in ASO</h2>
-<p>Vivanta Technologies is one of the best <a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO company</a> and <a href="https://www.vivantatechnologies.com/mobile-apps-development">Mobile Apps development company</a> in Bangalore. As an experienced SEO professional company, we generate rankings to apps such as Android apps, iPhone apps, iPad apps, and other apps in the market.</p>
+<p>Vivanta Technologies is one of the best <a href="http://www.yora.xyz/CodeIgniter/index.php/service/search-engine-optimization">SEO company</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobile-apps-development">Mobile Apps development company</a> in Bangalore. As an experienced SEO professional company, we generate rankings to apps such as Android apps, iPhone apps, iPad apps, and other apps in the market.</p>
 <ul class="normal dot">	<li>Improving search results and visibility for App store listings compared to other competitors</li>
 <li>Giving high rankings to the keyword and maintaining keyword density</li>
 <li>Providing scalability and proficiency</li>
@@ -336,25 +334,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href=http://www.yora.xyz/CodeIgniter/index.php/services">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-services"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/content-writing"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/corporate-training"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -365,7 +363,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yoratechnologies.com">info@yoratechnologies.com</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -377,12 +375,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="https://www.yoratechnologies.com/">yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+             <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+             <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+             <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
@@ -395,14 +393,14 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'yoratechnologies.com']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 

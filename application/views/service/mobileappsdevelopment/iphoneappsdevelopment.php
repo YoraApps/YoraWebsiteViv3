@@ -7,15 +7,15 @@
 <meta name="keywords" content="iPhone apps development, iPhone app development, app development for iPhone, apps development for iPhone" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="yoratechnologies.com"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <style type="text/css">
 .mappcontainer{background:#00a0d7 !important;padding:30px 0}.mappcontainer h2,.title-tes h2{font-weight:100 !important;text-align:center;font-size:42px;color:#FFF;padding:30px 0}.mappcontainer p,.page-cli p{color:#FFF;font-size:19px;}.btn{color:#fff;background:#00a0d7;border:1px solid #FFF;margin:20px 0}.testimonials-slider{margin:0 auto 0;color:#aaa;text-align:center}.mappcontainer a{color:#FFF}.testimonials-slider .bxslider li p{margin:10px 0;font-size:24px;line-height:1.2}.testimonials-slider .bxslider li img{width:150px;height:150px;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;margin:20px auto 0}.testimonials-slider .bxslider li span.name{display:block;font-size:20px;color:#fff}#client-wrap{position:relative;z-index:20}.page-cli{background:url(assets/images/bg-cli.jpg) fixed;background-size:cover !important;padding-bottom:64px}
 </style>
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/iphone-apps-development" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/iphone-apps-development" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/iphone-apps-development" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/iphone-apps-development" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -141,23 +141,23 @@
     <div class="container">
       <h1 class="big pull-left">iPhone Apps development company Bangalore</h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
-<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/mobile-apps-development">
-<span itemprop="name">Mobile Apps Development</span></a>
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/Mobileappsdevelopemeant">
+<span itemprop="name">Mobile app Development</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/iphone-apps-development">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/iphone-apps-development">
 <span itemprop="name">iPhone apps development company</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -169,7 +169,7 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">iPhone apps are the right choice for your business</h2>
-        <p>At Vivanta Technologies, we have been thinking technology since our inception and can use the power of iOS to develop apps for iPhones. We are product specialists who build great apps for web platforms and mobile devices. Share your idea with us, tell us about your target audience and your goals, how you want to service your audience to address their needs and we will provide you with the most appropriate solution for developing the right app for iPhone. As a premier iPhone application development company, we feel privileged in being able to develop the app that meets the stringent requirements of the developers and unlike Android app development, each product has to be approved by the developer to find a place in the app store.  </p>
+        <p>At Yora Technologies, we have been thinking technology since our inception and can use the power of iOS to develop apps for iPhones. We are product specialists who build great apps for web platforms and mobile devices. Share your idea with us, tell us about your target audience and your goals, how you want to service your audience to address their needs and we will provide you with the most appropriate solution for developing the right app for iPhone. As a premier iPhone application development company, we feel privileged in being able to develop the app that meets the stringent requirements of the developers and unlike Android app development, each product has to be approved by the developer to find a place in the app store.  </p>
         <h3 class="twoLines">What we do</h3>
         <p>We can help companies with all aspects of iPhone app development – from devising strategies on inception, to mobile user interface design, development of the app and then getting it live in the App Store. Our team of architects, producers and strategists will work closely with you to understand your vision so as to develop the idea from the seed and then hand it over to the developers for converting it into the technological marvel of an app.</p>
 <h3 class="twoLines">The impact of apps</h3>
@@ -436,7 +436,7 @@
           </div>
               <div class="row-fluid topSpace doCenter"> 
 <p>Best iPhone Apps development company in Bangalore</p>
-<a class="clear btn" title="Contact Us" href="https://www.vivantatechnologies.com/contact-us">Contact Us</a></div>
+<a class="clear btn" title="Contact Us" href="http://www.yora.xyz/CodeIgniter/index.php/service/contact-us">Contact Us</a></div>
           </div>
         </div>
       </div>
@@ -460,7 +460,7 @@
 <!-- <div class="row-fluid topSpace mappcontainer doCenter"> 
 <h2>Let's Get In Touch!</h2> 
 <p><a href="/mobile-apps-development">Mobile Apps development company</a> in Bangalore</p>
-<a class="clear btn" title="Contact Us" href="https://www.vivantatechnologies.com/contact-us">Contact Us</a>
+<a class="clear btn" title="Contact Us" href="http://www.yora.xyz/CodeIgniter/index.php/service/contact-us">Contact Us</a>
 </div>   -->
   <div id="footer">
      <div class="row-fluid topSpace mappcontainer doCenter">
@@ -470,25 +470,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href=http://www.yora.xyz/CodeIgniter/index.php/services">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-services"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/content-writing"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/corporate-training"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -499,7 +499,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yoratechnologies.com">info@yoratechnologies.com</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -511,12 +511,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="https://www.yoratechnologies.com/">yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+             <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+             <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+             <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
@@ -529,14 +529,14 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'yoratechnologies.com']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 
