@@ -12,8 +12,8 @@
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/webapplicationdevelopment" />
-<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/service/webapplicationdevelopment" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">

@@ -2,17 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Best Article Writing Services Company | Vivanta Technologies</title>
+<title>Best Article Writing Services Company | Yora Technologies</title>
 <meta name="description" content="Need the best Article? Get professional articles for your website from our qualified article writers who has years of experience in writing rich articles." />
 <meta name="keywords" content="Article Writers, Article Writing Services, SEO Article Writing Services India, Article Writing Sercvices UK, Professional Artical Writing Services Dubai" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="Yoratechnologies.com"/>
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/article-writing" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/article-writing" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">

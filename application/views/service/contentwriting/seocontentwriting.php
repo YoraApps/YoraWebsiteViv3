@@ -2,17 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Professional SEO Content Writing Services - Vivanta Technologies</title>
-<meta name="description" content="SEO content writing services from Vivanta Technologies, offers excellent SEO friendly content for websites engaging customers globally." />
+<title>Professional SEO Content Writing Services - Yora Technologies</title>
+<meta name="description" content="SEO content writing services from Yora Technologies, offers excellent SEO friendly content for websites engaging customers globally." />
 <meta name="keywords" content="SEO Content Writing Services, Professional SEO Content Writing Services, SEO Content Writers, SEO Content Writing Services India, SEO Content Writers Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="Yoratechnologies.com"/>
 <link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/seo-content-writing" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/seo-content-writing" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -139,22 +139,22 @@
       <h1 class="big pull-left">Consistent Quality SEO Content writing that resonates with Search Engines </h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href=http://www.yora.xyz/CodeIgniter/">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/content-writing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting">
 <span itemprop="name">Content Writing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/seo-content-writing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/seocontentwriting">
 <span itemprop="name">SEO Content Writing</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -165,7 +165,7 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">SEO Content Writing</h2>
-        <p><a href="https://www.vivantatechnologies.com/search-engine-optimization">Search Engine Optimization</a> or SEO content writing provides a smart way of writing contents which provides SEO friendly copy and <a href="https://www.vivantatechnologies.com/content-writing">content writing services</a>. It's a wonderful approach in providing business as well as visibility for your website. This is not about stuffing keywords, but it's all about writing the contents with diligence and smartly driven to provide a relevant texture.</p>
+        <p><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">Search Engine Optimization</a> or SEO content writing provides a smart way of writing contents which provides SEO friendly copy and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting">content writing services</a>. It's a wonderful approach in providing business as well as visibility for your website. This is not about stuffing keywords, but it's all about writing the contents with diligence and smartly driven to provide a relevant texture.</p>
 <p>Hence, our expertise content writers follow protocols for maintaining the keyword density as well as right words, to get high rankings for the website on search engine pages.</p>        
 <br>
 <h3 class="twoLines">Our guidelines involve:</h3>
@@ -174,7 +174,7 @@
 <li>Avoiding keyword overflowing and maintaining the density of relevant keywords</li>
 <li>Providing spam free and plagiarism free contents.</li>
 <li>Aiming to achieve high response from the visitors.</li>
-<li>We provide <a href="https://www.vivantatechnologies.com/services">affordable services</a>.</li>
+<li>We provide <a href="http://www.yora.xyz/CodeIgniter/service">affordable services</a>.</li>
 <li>In making your website a brand of promotions.</li>
 </ul>
 <br>
@@ -186,7 +186,7 @@
 <li>Excellent response rate from the readers.</li>
 <li>Competitive package.</li>
 </ul>
-<p>Vivanta Technologies is a leading <strong>SEO Content Writing company in Bangalore</strong> is seamlessly working on building websites using various methodologies suitable for your environment. We provide a service in making your website deliver precisely for the users.</p>
+<p>Yora Technologies is a leading <strong>SEO Content Writing company in Bangalore</strong> is seamlessly working on building websites using various methodologies suitable for your environment. We provide a service in making your website deliver precisely for the users.</p>
       </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -442,25 +442,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/webservices"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -471,24 +471,24 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
+<span itemprop="streetAddress">YORA TECH</span>
+<span itemprop="addressLocality">#50,SGR COLLEGE ROAD,MUNNEKOLALA,  MARATHAHALLI EXTN, NEAR ST MARATHOMA CHURCH</span>
 <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+              <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+              <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
               <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+              <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
