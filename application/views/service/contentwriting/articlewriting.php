@@ -139,22 +139,22 @@
       <h1 class="big pull-left">Amazing articles for Web Crawler‎ to get qualified traffic.</h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="https://www.yora.xyz/CodeIgniter"">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="https://www.Yora technologies.in/services">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/content-writing">
+<a itemprop="item" href="https://www.Yora technologies.in/content-writing">
 <span itemprop="name">Content Writing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/article-writing">
+<a itemprop="item" href="https://www.Yora technologies.in/article-writing">
 <span itemprop="name">Article Writing</span></a>
 <meta itemprop="position" content="4" />
 </li>

@@ -2,17 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Blog Design Services Company Bangalore - Vivanta Technologies</title>
+<title>Blog Design Services Company Bangalore - Yora Technologies</title>
 <meta name="description" content="Best Blog Design Services at affordable prices. Visit Vivanta Technologies to know more about Blog Design, Blog Design Templates and Website Blog Design." />
 <meta name="keywords" content="Blog Design Services, Best Blog Design Company, Website Blog Design Services Bangalore, Blog Design Template Services" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="yoratechnologies.com"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/blog-design" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/blog-design" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/blog-design" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/blog-design" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -138,23 +138,23 @@
     <div class="container">
       <h1 class="big pull-left">Content is king, Express yourselves by new and authentic Blog Designs</h1>
       <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
-<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/responsive-web-design">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/responsive-web-design">
 <span itemprop="name">Responsive Web Design</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/blog-design">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/blog-design">
 <span itemprop="name">Blog Design</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -436,25 +436,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href=http://www.yora.xyz/CodeIgniter/index.php/services">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-services"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/content-writing"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/corporate-training"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -465,7 +465,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yoratechnologies.com">info@yoratechnologies.com</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -477,12 +477,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="https://www.yoratechnologies.com/">yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+             <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+             <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+             <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
@@ -495,14 +495,14 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'yoratechnologies.com']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 
