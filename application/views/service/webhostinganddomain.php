@@ -1,15 +1,15 @@
 <html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-<title>Web Hosting and Domain Registration India | Vivanta Technologies</title>
-<meta name="description" content="Vivanta Technologies, one of the best Web Hosting and Domain Registration provider in Bangalore, India. Find Web Hosting, Domain Search &amp; Registration.">
+<title>Web Hosting and Domain Registration India | Yora Technologies</title>
+<meta name="description" content="Yora Technologies, one of the best Web Hosting and Domain Registration provider in Bangalore, India. Find Web Hosting, Domain Search &amp; Registration.">
 <meta name="keywords" content="Web Hosting Service Provider India, Domain Registration Provider India, Domain Search India, Domain Name Suggestion Tool Online, Web Hosting &amp; Domain Registration Provider India">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com">
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926">
+<meta name="Author" content="Yoratechnologies.com">
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926">
 <link rel="icon" type="image/png" href="favicon.png">
 <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1523554879111/recaptcha__en.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/web-hosting-and-domain">
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/web-hosting-and-domain">
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage" style="zoom: 1;">
 <div id="boxedWrapper">
@@ -21,7 +21,7 @@
   
   <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://www.yora.xyz/CodeIgniter" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
@@ -136,17 +136,17 @@
       <h1 class="big pull-left">High performance hosting with respect to your Website Capacity</h1>
 <ul class="breadcrumb pull-right" itemscope="" itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-hosting-and-domain">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">
 <span itemprop="name">Web Hosting &amp; Domain</span></a>
 <meta itemprop="position" content="3">
 </li>
@@ -158,7 +158,7 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Web Hosting &amp; Domain</h2>
-        <p>Vivanta Technologies is a leading <a href="https://www.vivantatechnologies.com/">Web Development</a>, <a href="https://www.vivantatechnologies.com/responsive-web-design">Responsive Web Designing</a>, <a href="https://www.vivantatechnologies.com/digital-marketing">Digital Marketing</a>, and <a href="https://www.vivantatechnologies.com/content-writing">Content Writing</a> company located in Bangalore. We also provide services in Web Hosting and Domain Registration in making your website accessible in World Wide Web, assisting in choosing a unique domain for registering. It is essential to have a website as it represents your business or organization globally.</p>
+        <p>Yora Technologies is a leading <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">Web Development</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/responsive-web-design">Responsive Web Designing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/digital-marketing">Digital Marketing</a>, and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/content-writing">Content Writing</a> company located in Bangalore. We also provide services in Web Hosting and Domain Registration in making your website accessible in World Wide Web, assisting in choosing a unique domain for registering. It is essential to have a website as it represents your business or organization globally.</p>
   <h3 class="twoLines">Web Hosting:</h3>      
 <p>It is a type of Internet hosting services by providing server space and web services for the websites. It is important to choose a web hosting between a personal or a business/corporate site hosting, as it depends upon the size and type of website. A portal has a feature of database support, application and scripting platforms (like; PHP, ASP. Net, Joomla, Drupal, or WordPress). These features allow customers to install scripts for applications like forums and <a href="https://www.vivantatechnologies.com/content-management-system">Content Management System</a>.</p>
 <br>
@@ -171,7 +171,7 @@
 <li>Email Features.</li>
 </ul>
 <h2 class="twoLines">Domain Name and Registration</h2>
-<p>A unique domain name is required to represent your business identity or services. It is rather difficult to get a right domain suitable for your business. However, with Vivanta Technologies <a href="https://www.vivantatechnologies.com/">Web development company</a>, the process of domain registration is easy and we help you guide the entire process in selecting the right domain name. We offer domain search on following and domain registration on these following extensions: .com, .in, .net, .org, .edu, .biz, .info and other best available extensions.</p>
+<p>A unique domain name is required to represent your business identity or services. It is rather difficult to get a right domain suitable for your business. However, with Yora Technologies <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">Web development company</a>, the process of domain registration is easy and we help you guide the entire process in selecting the right domain name. We offer domain search on following and domain registration on these following extensions: .com, .in, .net, .org, .edu, .biz, .info and other best available extensions.</p>
 </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -427,50 +427,50 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain>Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid">
         <div class="span3">
           <h4 class="brand"><span>V</span>ivanta Technologies</h4>
           <ul class="normal dot">
-          <li><a href="https://www.vivantatechnologies.com/about-us">About us</a></li>
-          <li><a href="https://www.vivantatechnologies.com/why-vivanta-technologies">Why Vivanta Technologies</a></li>
-          <li><a href="https://www.vivantatechnologies.com/what-we-do">What we do</a></li>
-          <li><a href="https://www.vivantatechnologies.com/portfolio" class="dropdown-toggle">Portfolio</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/about-us">About us</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/why-yora-technologies">Why Yora Technologies</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/what-we-do">What we do</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/portfolio" class="dropdown-toggle">Portfolio</a></li>
           <li><a href="javascript:void(0);">Labs</a></li>
           <li><a href="javascript:void(0);">Testimonials</a></li>
           <li><a href="javascript:void(0);">Gallery</a></li>
           </ul>
         </div>
         <div class="span3">
-        <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+        <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
           <ul class="normal dot">
           <li><a href="javascript:void(0);">Linux Hosting</a></li>
-          <li><a href="https://www.vivantatechnologies.com/windows-hosting">Windows Hosting</a></li>
-          <li><a href="https://www.vivantatechnologies.com/domain-registraion">Domain Registration</a></li>
-          <li><a href="https://www.vivantatechnologies.com/email-hosting">Email Hosting</a></li>
-          <li><a href="https://www.vivantatechnologies.com/vps-hosting">VPS Hosting</a></li>
-          <li><a href="https://www.vivantatechnologies.com/reseller-hosting">Reseller Hosting</a></li>
-          <li><a href="https://www.vivantatechnologies.com/dedicated-servers">Dedicated Servers</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/windows-hosting">Windows Hosting</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/domain-registraion">Domain Registration</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/email-hosting">Email Hosting</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/vps-hosting">VPS Hosting</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/reseller-hosting">Reseller Hosting</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/dedicated-servers">Dedicated Servers</a></li>
           <li><a href="javascript:void(0);">Bulk Domain Registration</a></li>
           <li><a href="javascript:void(0);">Bulk Domain Transfer</a></li>
-          <li><a href="https://www.vivantatechnologies.com/whois-lookup">Whois Lookup</a></li>
-          <li><a href="https://www.vivantatechnologies.com/ssl-certificates">SSL Certificates</a></li>
-          <li><a href="https://www.vivantatechnologies.com/name-suggestion-tool">Name Suggestion Tool</a></li>
-          <li><a href="https://www.vivantatechnologies.com/virtualized-infrastructure-solution">Virtualized infrastructure solution</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/whois-lookup">Whois Lookup</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomainssl-certificates">SSL Certificates</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/name-suggestion-tool">Name Suggestion Tool</a></li>
+          <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/virtualized-infrastructure-solution">Virtualized infrastructure solution</a></li>
           </ul>
         </div>
         <div class="span3">
         <h4 class="brand"><span>Quick</span>Links</h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/domain-registraion"><span>Domain</span> Registration</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-           <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/web-services"><span>Web</span> Services</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/domain-registraion"><span>Domain</span> Registration</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/content-writing"><span>Content</span> Writing</a></h4>
+           <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/corporate-training"><span>Corporate</span> Training</a></h4>
         </div>
         <div class="span3">
           <div class="contact_info" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
@@ -493,12 +493,11 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
           <div class="span12">
-            <p class="pull-left"> © 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+            <p class="pull-left"> © 2018 <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" target="_blank" data-original-title="Facebook"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" target="_blank" data-original-title="Twitter"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" target="_blank" rel="publisher" data-original-title="Google+"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" data-original-title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+                                    <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" data-original-title="Pinterest"><i></i></a></li>
             </ul>
           </div>
@@ -511,7 +510,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">

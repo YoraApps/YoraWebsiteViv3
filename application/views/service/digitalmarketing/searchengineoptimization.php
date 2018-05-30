@@ -3,18 +3,18 @@
 <html lang="en">
 <head>
 <title>SEO Company Bangalore | Best SEO Company Bangalore</title>
-<meta name="description" content="Vivanta Technologies: Best SEO Company Bangalore. We offers Search Engine Optimization (SEO) services for your business to rank higher in search engines." />
+<meta name="description" content="Yora Technologies: Best SEO Company Bangalore. We offers Search Engine Optimization (SEO) services for your business to rank higher in search engines." />
 <meta name="keywords" content="SEO Company Bangalore | SEO Services Company India | Professional SEO Services India | Best SEO Company Bangalore | Top SEO Company Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="yoratechnologies.com"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <style type="text/css">.ca-menu{padding:0;margin:0 auto}.ca-menu li{width:230px;height:230px;border:10px
 solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-block;margin-right:4px;-webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.2);-moz-box-shadow:1px 1px 2px rgba(0,0,0,0.2);box-shadow:1px 1px 2px rgba(0,0,0,0.2);-webkit-border-radius:125px;-moz-border-radius:125px;border-radius:125px;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-menu li:after{content:" ";position:absolute;left:0;right:0;top:0;height:1px}.ca-menu li:last-child{margin-right:0px}.ca-menu li a{text-align:left;width:100%;height:100%;display:block;color:#333;position:relative;-moz-box-shadow:0px 0px 3px #000;-webkit-box-shadow:0px 0px 3px #000;box-shadow:0px 0px 3px #000}.ca-icon{font-family:'Open Sans',cursive;font-size:20px;color:#0cc2fd;;line-height:30px;position:absolute;width:100%;height:60px;left:0px;top:54px;text-align:center;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-main{font-size:14px;position:absolute;top:110px;height:80px;width:170px;left:50%;margin-left:-85px;opacity:0.8;text-align:center}.ca-sub{text-align:center;color:#000;font-size:12px;position:absolute;height:80px;width:170px;left:50%;margin-left:-85px;top:110px;opacity:0;-webkit-transition:all 400ms linear;-moz-transition:all 400ms linear;-o-transition:all 400ms linear;-ms-transition:all 400ms linear;transition:all 400ms linear}.ca-menu li:hover{background:#0cc2fd;border-color:#f7f7f7;-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);box-shadow:0 45px 60px -50px #000}.ca-menu li:hover .ca-icon{color:#FFF;font-size:20px}.ca-menu li:hover .ca-main{display:none}.ca-menu li:hover .ca-sub{opacity:0.8}</style>
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/search-engine-optimization" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/search-engine-optimization" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter"  />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -141,22 +141,22 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
         <h1 class="big pull-left">Best SEO Company Bangalore</h1>
 <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service" >
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/digital-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing">
 <span itemprop="name">Digital Marketing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/search-engine-optimization">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">
 <span itemprop="name">Search Engine Optimization (SEO)</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -166,13 +166,13 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
   <div class="container">
     <div class="row-fluid topSpace">
       <div class="span8">
-        <h2 class="twoLines">Vivanta Technologies - SEO Company Bangalore</h2>
-        <p>Establishing a profitable business is difficult no doubt but the use of technology makes it easier. You do not actually need to think twice about using the Internet though. True your business may be quite unrelated to the world of computers and the Internet.  Yet you just cannot negate the possibility of drawing in more traffic with the aid of the data courtesy Internet. Webmaster services offered by SEO company Bangalore additionally offer administrations in regards to <a href="https://www.vivantatechnologies.com/web-hosting-and-domain">web hosting</a> solutions, <a href="https://www.vivantatechnologies.com/social-media-optimization">SMO</a>, <a href="https://www.vivantatechnologies.com/email-marketing">bulk email marketing</a>, <a href="https://www.vivantatechnologies.com/company-logo-graphics-design">logo designing</a>, <a href="https://www.vivantatechnologies.com/blog-design">blog designing</a>, <a href="https://www.vivantatechnologies.com/">web development</a> and <a href="https://www.vivantatechnologies.com/digital-marketing">digital marketing</a>.</p><p>Planning the website design for your business execution that will help you to increase your client database is no mean feat. However, you can meet the challenge readily by contacting Vivanta Technologies, the most reliable source to turn to when you require a best SEO company Bangalore in order to help your website become properly optimized thereby being ranked on top by the search engines.</p>
+        <h2 class="twoLines">Yora Technologies - SEO Company Bangalore</h2>
+        <p>Establishing a profitable business is difficult no doubt but the use of technology makes it easier. You do not actually need to think twice about using the Internet though. True your business may be quite unrelated to the world of computers and the Internet.  Yet you just cannot negate the possibility of drawing in more traffic with the aid of the data courtesy Internet. Webmaster services offered by SEO company Bangalore additionally offer administrations in regards to <a href="http://www.yora.xyz/CodeIgniter/index.php/service/web-hosting-and-domain">web hosting</a> solutions, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/social-media-optimization">SMO</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/email-marketing">bulk email marketing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/company-logo-graphics-design">logo designing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/blog-design">blog designing</a>, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webdevelopement">web development</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/digital-marketing">digital marketing</a>.</p><p>Planning the website design for your business execution that will help you to increase your client database is no mean feat. However, you can meet the challenge readily by contacting Vivanta Technologies, the most reliable source to turn to when you require a best SEO company Bangalore in order to help your website become properly optimized thereby being ranked on top by the search engines.</p>
 <p>Any webpage that gets featured on the top regularly by Google and Bing is regarded as the best in the search engine rankings and results. The viewers simply rush to the site on account of the SEO company Bangalore that happens to be firmly behind it. Lose no time therefore in utilizing the SEO services offered by Vivanta Technologies and rejoice in finding the number of views to your website increased considerably. Converting an interested viewer into a lifelong customer is only a step away then. Your sales team should be able to do it comfortably.</p><p>The only responsibility you have now is to communicate with Vivanta Technologies and explain your requirement in detail. This best SEO company Bangalore will take over ASAP and upgrade your online resource for the web indexes that matter. Adding back links along with important key words is only the first step, however. The company will also assist you in site administration by tracking the data as well as the site traffic on a day to day basis. Vivanta Technologies will also recommend using a pay-per-click model for your webpage initially so that you end up getting a boost in the number of visitors to your site.</p>
 <p>The company may consider a complete revamp of your website instead of fixing a few issues here and there. Adding new optimized content to your webpage along with call to action buttons and altering the algorithm of your site in order to make it easy for the visitor to navigate your site are just a few changes that Vivanta Technologies is adept at. You do not have to understand the nuances of web design and development though. The SEO company Bangalore will do it all for you so that you can enjoy the huge influx of traffic via an aptly optimized website.</p>
 <p>Checking Google Analytics regularly is a good way to learn about the progress of your website. The SEO company Bangalore will do it carefully and advise you about the performance from time to time. Vivanta Technologies also believes in setting the situation right especially when your website visitors show a continuous drop thereby affecting your business substantially. Webmaster solutions are provided by the company too in order to halt the decreasing traffic. Sending bulk emails, SMO, designing a new logo and blogs together with adopting innovative digital marketing tactics and web development for a fresh website are included for making your website functional as well as profitable.</p>
 <p>The team of Vivanta Technologies is highly professional and will work closely with you, trying to understand your business objectives as well as your target audience before chalking out a feasible SEO strategy for you. Using keywords intelligently and well is definitely the goal here. The SEO Company Bangalore utilizes the key phrases suitably across multiple media apart from the social networking sites. The company ensures that each keyword is a part of a meaningful message that becomes successful in grabbing the attention of the viewers. Even TV and radio advertisements toped in to create a positive image of your business.</p>
-<p>Vivanta Technologies keeps in touch with reality and will optimize your website for all devices that are used currently for accessing the web. From conventional PCs and laptops to smart phones and tablets, your website will be visible on each and every device without losing a shred of information. The company is determined to formulate the best SEO strategy for you that is not text oriented either. It also makes use of images, videos, and animation as and when needed thus providing you with an opportunity of staying at the top.</p>
+<p>Yora Technologies keeps in touch with reality and will optimize your website for all devices that are used currently for accessing the web. From conventional PCs and laptops to smart phones and tablets, your website will be visible on each and every device without losing a shred of information. The company is determined to formulate the best SEO strategy for you that is not text oriented either. It also makes use of images, videos, and animation as and when needed thus providing you with an opportunity of staying at the top.</p>
 </div>
 <div class="span4">        <h3 class="twoLines">Request a Quote</h3>
         <div class="easyBox">
@@ -437,25 +437,25 @@ solid #0cc2fd;overflow:hidden;position:relative;background:#fff;display:inline-b
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/web-services"><span>Web</span> Services</a></h4>
         </div>
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
           <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
 
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/content-writing"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/corporate-training"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -466,7 +466,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@Yoratechnologies.com">info@vivantatechnologies.com</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -478,12 +478,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service/searchengineoptimization/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+                                    <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+                                    <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
@@ -494,13 +494,13 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'yoratechnologies.com']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
  (function() {

@@ -24,7 +24,7 @@
     
    <div class="nav-collapse">
     <ul class="nav pull-right">
-        <li><a href="http://www.yora.xyz/" class="dropdown-toggle">Home</a></li>
+        <li><a href="http://http://www.yora.xyz/CodeIgniter" class="dropdown-toggle">Home</a></li>
         <li class=" dropdown">
                <a href="http://www.yora.xyz/CodeIgniter/index.php/service" class="dropdown-toggle">Service</a>
             <ul class="dropdown-menu">
@@ -88,7 +88,7 @@
                     <ul class="digital-images dropdown-menu unstyled">
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webcontentwriting">Web Content Writing</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/seocontentwriting">SEO Content Writing</a></li>
-                        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/articlewriting">Article Writing</a></li>
+                        <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/Home">Article Writing</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/blogposting">Blog Posting</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/forumposting">Forum Posting</a></li>
                         <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/websitecopywriting">Website Copy Writing</a></li>

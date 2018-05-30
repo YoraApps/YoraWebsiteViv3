@@ -3,16 +3,16 @@
 <html lang="en">
 <head>
 <title>ORM - Online Reputation Management Services Company Bangalore</title>
-<meta name="description" content="Vivanta Technologies is best ORM firm in India, which is driven to excellence in brand loyalty reputation for search results." />
+<meta name="description" content="Yora Technologies is best ORM firm in India, which is driven to excellence in brand loyalty reputation for search results." />
 <meta name="keywords" content="ORM Services Bangalore, Online Reputation Management Company, Manage Online Reputation, Reputation Management Companies Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926" />
+<meta name="Author" content="yoratechnologies.com"/>
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/online-reputation-management" />
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/online-reputation-management" />
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/online-reputation-management" />
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/online-reputation-management" />
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 <div id="boxedWrapper">
@@ -137,24 +137,24 @@
   <div class="titleBox">
     <div class="container">
       <h1 class="big pull-left">Promote ethical Online Reputation Management (ORM)</h1>
-<ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <ul class="breadcrumb pull-right" itemscope itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/digital-marketing">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/digital-marketing">
 <span itemprop="name">Digital Marketing</span></a>
 <meta itemprop="position" content="3" />
 </li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/online-reputation-management">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/online-reputation-management">
 <span itemprop="name">Online Reputation Management (ORM)</span></a>
 <meta itemprop="position" content="4" />
 </li>
@@ -166,11 +166,11 @@
       <div class="span8">
         <h2 class="twoLines">Online Reputation Management (ORM)</h2>
         <p>Online Reputation Management  is understanding of an individual's or business's reputation in the market. As the business grows, it is important to maintain your firm on online publishing, which is quickly and easily indexed by search results in Google, Yahoo, and Bing.</p>
-        <p>As the business grows, it is important to protect your business/name, brand, and products. It is easy for anyone to post information either positive or negative using blogs, reviews, <a href="https://www.vivantatechnologies.com/forum-posting">forum postings</a>, and feedback. Therefore, it is important to inform the companies about negative posts, untrue blogs, articles which contain false information, and spams to act proactively and maintain reputation in the market. </p>
+        <p>As the business grows, it is important to protect your business/name, brand, and products. It is easy for anyone to post information either positive or negative using blogs, reviews, <a href="http://www.yora.xyz/CodeIgniter/index.php/service/forum-posting">forum postings</a>, and feedback. Therefore, it is important to inform the companies about negative posts, untrue blogs, articles which contain false information, and spams to act proactively and maintain reputation in the market. </p>
         <p>The best way is to build/establish reputation is registering and involving your firm with Facebook, LinkedIn, Twitter, Plaxo, Crunchbase, Business Week, and Amazon. </p>
         <br>
 
-<h2 class="twoLines">Vivanta Technologies offers services and techniques:</h2>
+<h2 class="twoLines">Yora Technologies offers services and techniques:</h2>
 <ul class="normal dot">	<li>Monitoring and Tracking– Blogs, Forums, Reviews, Social Media, and Articles.</li>
 <li>To create and promote positive responses for your business reputation.</li>
 <li>In building your business, professional, and personal networks to interact proactively with clients, business partners, and friends.</li>
@@ -183,7 +183,7 @@
 
 <ul class="normal dot">
 <li>Our mission is to give a series of quality services in making your business or organization recognized globally.</li> 
-<li>Ensuring to give top rankings by carefully monitoring the website with our expertise in <a href="https://www.vivantatechnologies.com/search-engine-optimization">SEO</a> and <a href="https://www.vivantatechnologies.com/search-engine-marketing">SEM</a> strategies.</li>
+<li>Ensuring to give top rankings by carefully monitoring the website with our expertise in <a href="http://www.yora.xyz/CodeIgniter/index.php/service/search-engine-optimization">SEO</a> and <a href="http://www.yora.xyz/CodeIgniter/index.php/service/search-engine-marketing">SEM</a> strategies.</li>
 <li>Establishing and connecting your website in social bookmarking pages.</li>
 <li>Building the reputation of your business and impression on visitors to become your potential clients by implementing strategic planning reputation management.</li>
 </ul>
@@ -442,25 +442,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href=http://www.yora.xyz/CodeIgniter/index.php/services">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-portal-development"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-services"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/digital-marketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/content-writing"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/services/corporate-training"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -471,7 +471,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:info@yoratechnologies.com">info@yoratechnologies.com</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
@@ -483,12 +483,12 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> &copy; 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> &copy; 2018 <a href="https://www.yoratechnologies.com/">yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/contact-us">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/services/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
-              <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+            <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" title="Facebook" target="_blank"><i></i></a></li>
+             <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" title="Twitter" target="_blank"><i></i></a></li>
+             <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" title="LinkedIn"><i></i></a></li>
+             <li><a href="https://plus.google.com/+Yoratechnologies/" class="glyphicons google_plus" data-toggle="tooltip" title="Google+" target="_blank" rel="publisher"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" title="Pinterest"><i></i></a></li>
             </ul>
         </div>
@@ -501,14 +501,14 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'yoratechnologies.com']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 
