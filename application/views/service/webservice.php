@@ -7,7 +7,7 @@
 <meta name="keywords" content="Web Service, Web Service Provider, Web Service Providers India, Web Service Providers UK, Web Service Provider Canada, Web Service Provider Company" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com"/>
+<meta name="Author" content="YORA TECH.com"/>
 <link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926" />
 <link rel="icon" type="image/png" href="favicon.png" />
 <script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
@@ -180,7 +180,7 @@
 <p><strong>Representational State Transfer (REST)</strong> web services are designed to build for distributed systems such as World Wide Web. It has emerged as a predominant Web API design model which has adopted by mainstream web services.</p>
 <br>
 <h2 class="twoLines"><a href=http://www.yora.xyz/CodeIgniter/index.php/service/webservice/api-services-provider">API Services</a></h2>
-<p>Vivanta Technologies is an API development service provider, a Web API service to integrate between separate components. The API allows programmers to user functions to interact with the operating system. APIs has multiple features and benefits in the world of web.</p>
+<p>Yora Technologies is an API development service provider, a Web API service to integrate between separate components. The API allows programmers to user functions to interact with the operating system. APIs has multiple features and benefits in the world of web.</p>
 </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -479,14 +479,14 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
+<span itemprop="streetAddress">YORA TECH,</span>
+<span itemprop="addressLocality">#50,SGR COLLEGE ROAD</span>
 <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>
@@ -515,7 +515,7 @@ based on <span itemprop="reviewCount">55</span> user ratings
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'YORA TECH.com']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 

@@ -10644,7 +10644,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </ul>
          </li>
          <li class="dropdown-submenu">
-            <a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment">Mobile Apps Development</a>
+            <a href="f">Mobile Apps Development</a>
             <ul class="digital-images dropdown-menu unstyled">
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/androidappsdevelopment">Android Apps development</a></li>
                <li><a href="http://www.yora.xyz/CodeIgniter/index.php/service/iphoneappsdevelopment">iPhone Apps development</a></li>
