@@ -1,15 +1,15 @@
 <html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-<title>Best Dedicated Server Consulting Company | Vivanta Technologies</title>
-<meta name="description" content="Vivanta Technologies is a leading Dedicated Server Consulting Company, that provides assistance to manage the server for reliability and scalability.">
+<title>Best Dedicated Server Consulting Company | Yora Technologies</title>
+<meta name="description" content="Yora Technologies is a leading Dedicated Server Consulting Company, that provides assistance to manage the server for reliability and scalability.">
 <meta name="keywords" content="Dedicated Server Consultant Bangalore | Best Dedicated Server Consulting Company | Dedicated Server Hosting Plans | Affordable Dedicated Servers | Dedicated Server Consulting Company | Best Dedicated Server Consultant Bangalore">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com">
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926">
+<meta name="Author" content="http://www.yora.xyz/CodeIgniter/">
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926">
 <link rel="icon" type="image/png" href="favicon.png">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1523554879111/recaptcha__en.js"></script><script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/dedicated-servers">
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/dedicated-servers">
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/" >
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/"">
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage" style="zoom: 1;">
 <div id="boxedWrapper">
@@ -136,22 +136,22 @@
       <h1 class="big pull-left">Dedicated Servers for dedicated Web Portals</h1>
 <ul class="breadcrumb pull-right" itemscope="" itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-hosting-and-domain">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">
 <span itemprop="name">Web Hosting &amp; Domain</span></a>
 <meta itemprop="position" content="3">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/dedicated-servers">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/dedicatedservers">
 <span itemprop="name">Dedicated Servers</span></a>
 <meta itemprop="position" content="4">
 </li>
@@ -163,7 +163,7 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Dedicated Servers</h2>
-        <p>Vivanta Technologies is a dedicated server consultant Bangalore, guides you with the entire private server that is ideal fit to run different programs or business transactions. Our team at the dedicated server consulting company, guides you with a wide range of hosting features, which gives a complete control over the server.</p>
+        <p>Yora Technologies is a dedicated server consultant Bangalore, guides you with the entire private server that is ideal fit to run different programs or business transactions. Our team at the dedicated server consulting company, guides you with a wide range of hosting features, which gives a complete control over the server.</p>
   <h2 class="twoLines">What is a Dedicated Server?</h2>      
 <p>Dedicated servers, dedicated hosting service or managed hosting services are a type of physical server that is accessed only by the client and is not shared with anyone else.  This will have a full control over the applications with more flexibility and reliability for businesses. With dedicated hosting solutions, it is perfect  for advanced users or businesses who run high traffic websites, large  applications or complex databases.</p>
 <br>
@@ -186,9 +186,9 @@
 <p><strong>Great Security</strong>: All resources on the server are allocated to you with top level of security. As you are not sharing the server with any third party, nobody can access to your server or data loss. However, you can always opt for a higher degree of  security from any virus threats and you can set up your own firewall as well. </p>
 <p><strong>Unlimited Usage</strong>: No limitation on usage of CPU, memory and bandwidth as you will be the only user to access your server.</p>
 <p><strong>Customisation</strong>: Dedicated server hosting allow customization options, installing new software or configuring the server for your specific needs. It also customises Firewall Run which gives your own access to control policy.</p>
-<p><strong>Privacy</strong>: <a href="https://www.vivantatechnologies.com/web-hosting-and-domain">A web hosting company</a> with their service contract assures in providing excellent job in securing information. Dedicated servers will keep your data source secure and can compete with any physical segregation. </p>
+<p><strong>Privacy</strong>: <a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">A web hosting company</a> with their service contract assures in providing excellent job in securing information. Dedicated servers will keep your data source secure and can compete with any physical segregation. </p>
 <p><strong>Upgrading</strong>: The storage size of the memory is more, the disk space or extra processors can be upgraded as the need of the time arises.</p>
-<p>Vivanta Technologies is a leading Dedicated server consultant Bangalore, giving you end-to-end assistance with dedicated server hosting plans. Our experts are very well equipped with the best features and plans with more control and flexibility for your growing business.</p> 
+<p>Yora Technologies is a leading Dedicated server consultant Bangalore, giving you end-to-end assistance with dedicated server hosting plans. Our experts are very well equipped with the best features and plans with more control and flexibility for your growing business.</p> 
 </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -444,25 +444,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webservice"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
@@ -473,19 +473,19 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
+<span itemprop="streetAddress">YORA TECH,</span>
+<span itemprop="addressLocality">M#50,SGR COLLEGE ROAD</span>
 <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> © 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> © 2018 <a href="http://www.yora.xyz/CodeIgniter/">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
               <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" target="_blank" data-original-title="Facebook"><i></i></a></li>
               <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" target="_blank" data-original-title="Twitter"><i></i></a></li>
@@ -503,14 +503,14 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'http://www.yora.xyz/CodeIgniter/']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 

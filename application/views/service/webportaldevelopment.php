@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>Web Portal Development Company in Bangalore</title>
-<meta name="description" content="Web portal development company in Bangalore, India. Find best website portal development solutions & services in USA, UK at Vivanta Technologies." />
+<meta name="description" content="Web portal development company in Bangalore, India. Find best website portal development solutions & services in USA, UK at Yora Technologies." />
 <meta name="keywords" content="Portal Development Services India, Website Portal Development Services USA, Enterprise Portal Development Services, Web Portals Development Singapore, Portal Development Company Bangalore" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">

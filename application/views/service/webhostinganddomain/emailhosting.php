@@ -1,15 +1,15 @@
 <html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-<title>Email Hosting Assistance Company Bangalore | Vivanta Technologies</title>
-<meta name="description" content="Vivanta Technologies, offers assistance on email hosting services &amp; solutions Bangalore. Get secure email hosting services with IMAP/POP3, SpamFree &amp; more.">
+<title>Email Hosting Assistance Company Bangalore | Yora Technologies</title>
+<meta name="description" content="Yora Technologies, offers assistance on email hosting services &amp; solutions Bangalore. Get secure email hosting services with IMAP/POP3, SpamFree &amp; more.">
 <meta name="keywords" content="Email Hosting Consultant, Email Hosting Service Provider, Email Hosting Assistance Bangalore, Email Hosting Assistance Company, Email Hosting Services Company Bangalore">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="Author" content="vivantatechnologies.com">
-<link rel="stylesheet" type="text/css" href="https://www.vivantatechnologies.com/assets/css/style.css?ver=1518329926">
+<meta name="Author" content="http://www.yora.xyz/CodeIgniter/">
+<link rel="stylesheet" type="text/css" href="http://www.yora.xyz/CodeIgniter/assets/css/style.css?ver=1518329926">
 <link rel="icon" type="image/png" href="favicon.png">
 <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1523554879111/recaptcha__en.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="assets/js/modernizr-2.6.1.min.js"></script>
-<link rel="canonical" href="https://www.vivantatechnologies.com/email-hosting">
-<link rel="amphtml" href="https://www.vivantatechnologies.com/amp/email-hosting">
+<link rel="canonical" href="http://www.yora.xyz/CodeIgniter/">
+<link rel="amphtml" href="http://www.yora.xyz/CodeIgniter/amp/">
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage" style="zoom: 1;">
 <div id="boxedWrapper">
@@ -136,22 +136,22 @@
       <h1 class="big pull-left">Email Hosting for Business, Cloud Email Hosting Solutions, Abundant mail storage</h1>
 <ul class="breadcrumb pull-right" itemscope="" itemtype="http://schema.org/BreadcrumbList">
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/">
 <span itemprop="name">Home</span></a>
 <meta itemprop="position" content="1">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/services">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service">
 <span itemprop="name">Services</span></a>
 <meta itemprop="position" content="2">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/web-hosting-and-domain">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain">
 <span itemprop="name">Web Hosting &amp; Domain</span></a>
 <meta itemprop="position" content="3">
 </li>
 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<a itemprop="item" href="https://www.vivantatechnologies.com/email-hosting">
+<a itemprop="item" href="http://www.yora.xyz/CodeIgniter/index.php/service/emailhosting">
 <span itemprop="name">Email Hosting</span></a>
 <meta itemprop="position" content="4">
 </li>
@@ -163,9 +163,9 @@
     <div class="row-fluid topSpace">
       <div class="span8">
         <h2 class="twoLines">Email Hosting</h2>
-        <p>When it comes to selecting and availing services for your company or business Email, Vivanta Technologies is the best Email hosting assistance company Bangalore which offers a host of email solutions for your varied needs. Keeping your business connected to the world, we provide assistance in email hosting options. Based on your requirements for etiquettes needs, we firmly believe in maintaining quality standards and high performance with advanced technologies.</p>
+        <p>When it comes to selecting and availing services for your company or business Email, Yora Technologies is the best Email hosting assistance company Bangalore which offers a host of email solutions for your varied needs. Keeping your business connected to the world, we provide assistance in email hosting options. Based on your requirements for etiquettes needs, we firmly believe in maintaining quality standards and high performance with advanced technologies.</p>
   <h2 class="twoLines">Why should I go for Email hosting?</h2>      
-<p>Vivanta Technologies offers flexible Email hosting solutions to the business as well as corporate world of all sizes with varied needs. This brings identity for your business and professional email collaborating your needs, specialized in bringing advanced hosting features and options. Giving an option to create an email id with your company's domain is a professional etiquette. This will advertise your domain whenever you use email.</p>
+<p>Yora Technologies offers flexible Email hosting solutions to the business as well as corporate world of all sizes with varied needs. This brings identity for your business and professional email collaborating your needs, specialized in bringing advanced hosting features and options. Giving an option to create an email id with your company's domain is a professional etiquette. This will advertise your domain whenever you use email.</p>
 <br>
 <h3 class="twoLines">Benefits of Email Hosting</h3>
 <p>Our email hosting assistance firm allows several features and benefits, making your business connected to the world.</p>
@@ -187,7 +187,7 @@
 <li>Provide 24/7 Customer Support service.</li>
 </ul>
 <p>Our Email hosting assistance company offers an extensive choice in selecting pertinent packages, tailoring your business requirements.</p>
-<p>Vivanta Technologies is a leading professional in <a href="https://www.vivantatechnologies.com/web-hosting-and-domain">web hosting assistance</a> which provides numerous programs and features of entire web hosting solutions.</p>
+<p>Yora Technologies is a leading professional in <a href="http://www.yora.xyz/CodeIgniter/web-hosting-and-domain">web hosting assistance</a> which provides numerous programs and features of entire web hosting solutions.</p>
 </div>
       <div class="span4">
                  <h3 class="twoLines">Request a Quote</h3>
@@ -443,25 +443,25 @@
 <span itemprop="bestRating">/ 5</span>
 based on <span itemprop="reviewCount">55</span> user ratings
 </div>
-<p><a href="https://www.vivantatechnologies.com/">Web development company in Bangalore</a></p>
-<a href="https://www.vivantatechnologies.com/contact-us" class="btn btn-primary halflings chevron-right">Contact us today</a>
+<p><a href="http://www.yora.xyz/CodeIgniter/">Web development company in Bangalore</a></p>
+<a href="http://www.yora.xyz/CodeIgniter/index.php/contactus" class="btn btn-primary halflings chevron-right">Contact us today</a>
 </div>  <div class="footNotes">
       <div class="container">
         <div class="row-fluid topSpace">
         <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-portal-development"><span>Web</span> Portal Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/responsive-web-design"><span>Responsive Web</span> Designing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-services"><span>Web</span> Services</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webportaldevelopment"><span>Web</span> Portal Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/responsivewebdesign"><span>Responsive Web</span> Designing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/webservices"><span>Web</span> Services</a></h4>
         </div>  
           <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/digital-marketing"><span>Digital</span> Marketing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/mobile-apps-development"><span>Mobile Apps</span> Development</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/web-hosting-and-domain"><span>Web</span> Hosting &amp; Domain</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/digitalmarketing"><span>Digital</span> Marketing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/mobileappsdevelopment"><span>Mobile Apps</span> Development</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/webhostinganddomain"><span>Web</span> Hosting &amp; Domain</a></h4>
          
          </div>
          <div class="span3">
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/content-writing"><span>Content</span> Writing</a></h4>
-          <h4 class="brand"><a href="https://www.vivantatechnologies.com/corporate-training"><span>Corporate</span> Training</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/contentwriting"><span>Content</span> Writing</a></h4>
+          <h4 class="brand"><a href="http://www.yora.xyz/CodeIgniter/index.php/service/corporatetraining"><span>Corporate</span> Training</a></h4>
           </div>
           <div class="span3">
           <div class="contact_info" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
@@ -472,24 +472,24 @@ based on <span itemprop="reviewCount">55</span> user ratings
 </div>
 <div class="mail">
 <h5>Mail:</h5>
-<span itemprop="email"><a href="mailto:info@vivantatechnologies.com">info@vivantatechnologies.com</a> </span>
+<span itemprop="email"><a href="mailto:Info@yora.xyz">Info@yora.xyz</a> </span>
 </div>
 <div class="adress">
 <h5>Address:</h5>
-<span itemprop="streetAddress">#323, 7th Main Rd, 7th cross,</span>
-<span itemprop="addressLocality">Mico Layout, BTM 2nd Stage,</span>
+<span itemprop="streetAddress">YORA TECH,</span>
+<span itemprop="addressLocality">#50,SGR COLLEGE ROAD</span>
 <span itemprop="addressRegion">Karnataka, Bengaluru</span>
-<span itemprop="postalCode">560076</span>
+<span itemprop="postalCode">560037</span>
 </div>
 </div>
         </div>
         <div class="topMargin span12">
-        <p class="pull-left"> © 2018 <a href="https://www.vivantatechnologies.com/">Vivanta Technologies</a> | <a href="https://www.vivantatechnologies.com/contact-us">Contact Us</a> | <a href="https://www.vivantatechnologies.com/careers">Careers</a> | <a href="https://www.vivantatechnologies.com/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="https://www.vivantatechnologies.com/services">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
+        <p class="pull-left"> © 2018 <a href="http://www.yora.xyz/CodeIgniter/">Yora Technologies</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/contactus">Contact Us</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/careers">Careers</a> | <a href="http://www.yora.xyz/CodeIgniter/sitemap">Sitemap</a> | <a href="javascript:void(0);">Blog</a> | <a href="http://www.yora.xyz/CodeIgniter/index.php/service">Services</a> | <a href="javascript:void(0);">FAQ</a></p>
             <ul class="socialIcons">
-              <li><a href="https://www.facebook.com/vivantatechnologies" class="glyphicons facebook" data-toggle="tooltip" target="_blank" data-original-title="Facebook"><i></i></a></li>
-              <li><a href="https://twitter.com/ThinkVivanta" class="glyphicons twitter" data-toggle="tooltip" target="_blank" data-original-title="Twitter"><i></i></a></li>
+              <li><a href="https://www.facebook.com/YORA-773572426171151/" class="glyphicons facebook" data-toggle="tooltip" target="_blank" data-original-title="Facebook"><i></i></a></li>
+              <li><a href="https://twitter.com/YoraTech" class="glyphicons twitter" data-toggle="tooltip" target="_blank" data-original-title="Twitter"><i></i></a></li>
               <li><a href="https://plus.google.com/+Vivantatechnologies/" class="glyphicons google_plus" data-toggle="tooltip" target="_blank" rel="publisher" data-original-title="Google+"><i></i></a></li>
-              <li><a href="http://www.linkedin.com/company/vivanta-technologies/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" data-original-title="LinkedIn"><i></i></a></li>
+              <li><a href="https://www.linkedin.com/in/yora-tech-274913160/" target="_blank" class="glyphicons linked_in" data-toggle="tooltip" data-original-title="LinkedIn"><i></i></a></li>
              <li><a href="http://pinterest.com/thinkvivanta/" target="_blank" class="glyphicons pinterest" data-toggle="tooltip" data-original-title="Pinterest"><i></i></a></li>
             </ul>
         </div>
@@ -502,14 +502,14 @@ based on <span itemprop="reviewCount">55</span> user ratings
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/main.js"></script>
 <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.vivantatechnologies.com/assets/js/contact-us.js?ver=1500653411"></script>
+<script type="text/javascript" src="http://www.yora.xyz/CodeIgniter/assets/js/contact-us.js?ver=1500653411"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.contenthover.min.js"></script>
 <script type="text/javascript">
 
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-41188548-1']);
- _gaq.push(['_setDomainName', 'vivantatechnologies.com']);
+ _gaq.push(['_setDomainName', 'http://www.yora.xyz/CodeIgniter/']);
  _gaq.push(['_setAllowLinker', true]);
  _gaq.push(['_trackPageview']);
 
